@@ -7,7 +7,7 @@ L’objectif de ce cours est d’initier les étudiants à produire des logiciel
 Conception, Programmation, Java.
 
 
-### <u>Contenu</u>
+### <U>Contenu</U>
 
 #### Lectures
 
