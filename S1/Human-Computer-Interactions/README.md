@@ -2,29 +2,38 @@
 
 L’objectif de ce cours est d’initier les étudiants à produire des logiciels ergonomiques tenant compte de l’aspect usager. Pour ce faire, il faut étudier les différents formalismes de spécification d’interfaces. Des exemples d’environnements sont également proposés. Il est recommandé d’effectuer des travaux pratiques sur un environnement d’interfaces homme-machine.
 
-### Prérequis recommandés 
+#### Prérequis recommandés 
 
 Conception, Programmation, Java.
-
 
 
 ## Contenu
 
 ### - Lectures
 
-1 - IHM, Interaction Homme-Machine : problématique et enjeux du domaine,
+1 - IHM, Interaction Homme-Machine : problématique et enjeux du domaine
+
 2 - Apports de la Psycho Cognitive, Méthodes de conception - Partie 1
+
 3 - Apports de la Psycho Cognitive, Méthodes de conception - Partie 2
+
 3 - Exemple – Use Case : Guide Etape par Etape
+
 4 - Principes d’Ergonomie des Logiciels, critères ergonomiques de qualité
+
 5 - Principes de conception, spécification d’interfaces
-6 - IHM pour les interfaces mobiles.
+
+6 - IHM pour les interfaces mobiles
     + Accessibilité
+    
 7 - Toolkits Graphiques : C++ : Arduino et Processing
+
 8 - Toolkits Graphiques : Web : Javascript / JQuery
+
 9 - Analyse des besoins, des acteurs et de leur activité, modélisation des activités
     + Normes et mesures pour les systèmes interactifs
     + Evaluation des interfaces
+    
 
 ### - Lab Sessions 
 
