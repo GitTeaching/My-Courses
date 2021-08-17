@@ -85,7 +85,7 @@ Ce cours doit définir l’objet « ontologie » et son intérêt, les différen
   <tr>
     <td class="tg-9wq8">Lecture 7</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Ontologies-and-Semantic-Web/OSW%20-%20Cours%207.pdf">Download</a></td>
-    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Ontologies-and-Semantic-Web/OSW%20-%20D%C3%A9mo%20SPARQL%20avec%20Jena%20Apache.pdf">Demo 1</a><br><a href="">Demo 2</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Ontologies-and-Semantic-Web/OSW%20-%20D%C3%A9mo%20SPARQL%20avec%20Jena%20Apache.pdf">Demo 1</a><br><a href="https://github.com/GitTeaching/My-Courses/tree/main/S1/Ontologies-and-Semantic-Web/Cours%207%20-%20Files">Demo 2</a></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 8</td>
