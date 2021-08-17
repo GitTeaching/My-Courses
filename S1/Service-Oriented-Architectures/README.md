@@ -107,8 +107,10 @@ A l’issu du cours, l’apprenant sera capable de comprendre les SOA, d’ident
   <tr>
     <td class="tg-9wq8">4</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Service-Oriented-Architectures/SOA%20-%20TD%204%20et%205.pdf">Download</a></td>
-    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/AddressBookWebService"></a></td>
-    <td class="tg-9wq8"></td>
+    <td class="tg-9wq8"><a href=""></a></td>
+    <td class="tg-9wq8">
+	    <a href="https://github.com/GitTeaching/AddressBookWebService">AddressBook WS</a>
+    </td>
   </tr>  
   <tr>
     <td class="tg-9wq8">5</td>
