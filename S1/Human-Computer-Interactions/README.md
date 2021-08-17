@@ -38,14 +38,23 @@ Conception, Programmation, Java.
 #### Lab Sessions 
 
 1 - IHM et Java Swing – JWindow, JDialog, et JFrame
+
 2 - IHM et Java Swing – JWindow, JDialog, et JFrame - Suite
+
 3 - JFrame, Panes, et Layout Managers
+
 4 - JPanel, JButton, et Event Handlers
+
 5 - JPanel, JButton, et Event Handlers - Suite
+
 6 - Exercice d’application : Galerie d'Images
+
 7 - Autres Composants Swing - JRadioButton, JSlider, JComboBox, JProgressBar, JList, JScrollPane, JTabbedPane, JTextArea, et JTextPane
+
 8 - Autres Composants Swing - JRadioButton, JSlider, JComboBox, JProgressBar, JList, JScrollPane, JTabbedPane, JTextArea, et JTextPane - Suite
-9 - Les boites de dialogue. JOptionPane et JFileChooser.
+
+9 - Les boites de dialogue. JOptionPane et JFileChooser
+
 10 - Exercice d'application - GamerInfos
 
 
@@ -102,7 +111,7 @@ Conception, Programmation, Java.
     <td class="tg-9wq8">Lecture 7</td>
     <td class="tg-9wq8"><a href="">Download</a></td>
     <td class="tg-9wq8">
-       <a href="https://github.com/GitTeaching/Exemple1ArduinoCoursIHM">Example 1 - Source Code & Demo</a>
+       <a href="https://github.com/GitTeaching/Exemple1ArduinoCoursIHM">Example 1 - Source Code & Demo</a><br>
        <a href="https://github.com/GitTeaching/Exemple2ArduinoCoursIHM">Example 2 - Source Code & Demo</a>
     </td>
   </tr>
