@@ -2,12 +2,10 @@
 
 L’objectif de ce cours est d’initier les étudiants à produire des logiciels ergonomiques tenant compte de l’aspect usager. Pour ce faire, il faut étudier les différents formalismes de spécification d’interfaces. Des exemples d’environnements sont également proposés. Il est recommandé d’effectuer des travaux pratiques sur un environnement d’interfaces homme-machine.
 
-**Prérequis recommandés** 
-
-Conception, Programmation, Java.
+**Prérequis recommandés**: Conception, Programmation, Java.
 
 
-> Contenu
+### Contenu
 
 #### *Lectures*
 
@@ -24,15 +22,17 @@ Conception, Programmation, Java.
 **5 -** Principes de conception, spécification d’interfaces
 
 **6 -** IHM pour les interfaces mobiles
-    + Accessibilité
+    
+   + Accessibilité
     
 **7 -** Toolkits Graphiques : C++ : Arduino et Processing
 
 **8 -** Toolkits Graphiques : Web : Javascript / JQuery
 
 **9 -** Analyse des besoins, des acteurs et de leur activité, modélisation des activités
-    + Normes et mesures pour les systèmes interactifs
-    + Evaluation des interfaces
+    
+   + Normes et mesures pour les systèmes interactifs
+   + Evaluation des interfaces
     
 
 #### *Lab Sessions*
@@ -51,7 +51,7 @@ Conception, Programmation, Java.
 
 **7 -** Autres Composants Swing - JRadioButton, JSlider, JComboBox, JProgressBar, JList, JScrollPane, JTabbedPane, JTextArea, et JTextPane
 
-**8 -** Autres Composants Swing - JRadioButton, JSlider, JComboBox, JProgressBar, JList, JScrollPane, JTabbedPane, JTextArea, et JTextPane - Suite
+**8 -** Autres Composants Swing - Suite
 
 **9 -** Les boites de dialogue. JOptionPane et JFileChooser
 
