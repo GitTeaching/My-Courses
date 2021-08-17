@@ -9,7 +9,7 @@ Conception, Programmation, Java.
 
 ### Contenu
 
-#### Lectures
+#### *Lectures*
 
 **1 -** IHM, Interaction Homme-Machine : problématique et enjeux du domaine
 
@@ -35,7 +35,7 @@ Conception, Programmation, Java.
     + Evaluation des interfaces
     
 
-#### Lab Sessions 
+#### *Lab Sessions*
 
 **1 -** IHM et Java Swing – JWindow, JDialog, et JFrame
 
@@ -61,7 +61,7 @@ Conception, Programmation, Java.
 
 ### Fichiers
 
-#### Lectures 
+#### *Lectures* 
 
 <table class="tg">
 <thead>
@@ -124,7 +124,7 @@ Conception, Programmation, Java.
 </table>
 
 
-#### Lab Sessions 
+#### *Lab Sessions* 
 
 <table class="tg">
 <thead>
