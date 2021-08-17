@@ -1,4 +1,4 @@
-## Résumé   
+## IHM   
 
 L’objectif de ce cours est d’initier les étudiants à produire des logiciels ergonomiques tenant compte de l’aspect usager. Pour ce faire, il faut étudier les différents formalismes de spécification d’interfaces. Des exemples d’environnements sont également proposés. Il est recommandé d’effectuer des travaux pratiques sur un environnement d’interfaces homme-machine.
 
