@@ -2,7 +2,7 @@
 
 La fouille de données vise à découvrir, dans les grandes quantités de données, les informations importantes qui peuvent aider à comprendre les données ou à prédire Le comportement des données futures. Le but de ce cours est d'initier les apprenants aux différents algorithmes  et techniques utilisés en fouille de données.
 
-Prérequis recommandés : Connaissances: algorithmique, algèbre linaire
+**Prérequis recommandés :** Connaissances: algorithmique, algèbre linaire
 
 <img src="https://ericbrown.com/wp-content/uploads/2019/01/beware-data-mining.jpg" width=500px; height="250" />
 
@@ -61,25 +61,44 @@ Prérequis recommandés : Connaissances: algorithmique, algèbre linaire
 <tbody>
   <tr>
     <td class="tg-9wq8">Lecture 1</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20Cours%201.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
   <tr>
-    <td class="tg-9wq8">Lecture 2</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
-    <td class="tg-9wq8"></td>
-  </tr>
-  <tr>
-    <td class="tg-9wq8">Lecture 3</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8">Lecture 2, 3</td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20Cours%202%20et%203.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 4</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20Cours%204.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
-
+  <tr>
+    <td class="tg-9wq8">Lecture 5</td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20Cours%205.pdf">Download</a></td>
+    <td class="tg-9wq8"></td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">Lecture 6</td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20Cours%206.pdf">Download</a></td>
+    <td class="tg-9wq8"></td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">Lecture 7</td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20Cours%207.pdf">Download</a></td>
+    <td class="tg-9wq8"></td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">Lecture 8</td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20Cours%208.pdf">Download</a></td>
+    <td class="tg-9wq8"></td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">Lecture 9</td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20Cours%209.pdf">Download</a></td>
+    <td class="tg-9wq8"></td>
+  </tr>
 </tbody>
 </table>
 
@@ -96,34 +115,35 @@ Prérequis recommandés : Connaissances: algorithmique, algèbre linaire
 <tbody>
   <tr>
     <td class="tg-9wq8">1</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TD%201.pdf">Download</a></td>
     <td class="tg-9wq8">
-	<a href="">Apriori</a><br>
-	<a href="">Apriori</a>
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%201.pdf">- Apriori 1</a><br>
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%202.pdf">- Apriori 2</a><br>
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%202%20-%20AprioriTest.pdf">- Apriori 3</a>
     </td>
   </tr>  
   <tr>
     <td class="tg-9wq8">2</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TD%202.pdf">Download</a></td>
     <td class="tg-9wq8">
-	<a href="">Decision Trees</a><br>
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%203.pdf">Decision Trees</a><br>
     </td>
   </tr>    <tr>
     <td class="tg-9wq8">3</td>
-    <td class="tg-9wq8"><a href="">Naive Bayes + KNN</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TD%203.pdf">Download</a></td>
     <td class="tg-9wq8">
-	<a href="">Download</a><br>
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%204.pdf">Naive Bayes & KNN</a><br>
     </td>
   </tr>    <tr>
     <td class="tg-9wq8">4</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TD%204.pdf">Download</a></td>
     <td class="tg-9wq8">
-	<a href="https://github.com/GitTeaching/neural-nets-mlp-with-python">Neural Nets</a><br>
-	<a href="https://github.com/GitTeaching/svm-with-python-from-scratch">SVM</a>
+	<a href="https://github.com/GitTeaching/neural-nets-mlp-with-python">- Neural Nets</a><br>
+	<a href="https://github.com/GitTeaching/svm-with-python-from-scratch">- SVM</a>
     </td>
   </tr>    <tr>
     <td class="tg-9wq8">5</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TD%205.pdf">Download</a></td>
     <td class="tg-9wq8">
 	<a href="https://github.com/GitTeaching/linear-regression-python-from-scratch">Regression</a><br>
     </td>
