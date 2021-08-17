@@ -7,9 +7,9 @@ L’objectif de ce cours est d’initier les étudiants à produire des logiciel
 Conception, Programmation, Java.
 
 
-## Contenu
+### Contenu
 
-### - Lectures
+#### Lectures
 
 1 - IHM, Interaction Homme-Machine : problématique et enjeux du domaine
 
@@ -35,7 +35,7 @@ Conception, Programmation, Java.
     + Evaluation des interfaces
     
 
-### - Lab Sessions 
+#### Lab Sessions 
 
 1 - IHM et Java Swing – JWindow, JDialog, et JFrame
 2 - IHM et Java Swing – JWindow, JDialog, et JFrame - Suite
@@ -50,9 +50,9 @@ Conception, Programmation, Java.
 
 
 
-## Files
+### Fichiers
 
-### - Lectures Files
+#### Lectures 
 
 <table class="tg">
 <thead>
@@ -115,7 +115,7 @@ Conception, Programmation, Java.
 </table>
 
 
-### - Lab Sessions Files
+#### Lab Sessions 
 
 <table class="tg">
 <thead>
