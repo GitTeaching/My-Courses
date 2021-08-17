@@ -1,0 +1,9 @@
+PREFIX  dbr: <http://fr.dbpedia.org/resource/>
+PREFIX  dbo: <http://dbpedia.org/ontology/>  
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT  ?res 
+
+WHERE {
+  dbr:The_Beatles  dbo:genre ?res .
+}

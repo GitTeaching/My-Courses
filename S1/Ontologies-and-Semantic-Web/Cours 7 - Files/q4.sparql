@@ -1,0 +1,12 @@
+PREFIX  dbr: <http://fr.dbpedia.org/resource/>
+PREFIX  dbo: <http://dbpedia.org/ontology/>  
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?single ?res 
+FROM <fileexo1.ttl>
+FROM NAMED <newfile.ttl>
+WHERE {
+  { ?single dbo:composer  dbr:Steve_Harris  }
+  UNION
+  {GRAPH <newfile.ttl> {?res  rdf:type <http://schema.org/MusicGroup> }}
+}

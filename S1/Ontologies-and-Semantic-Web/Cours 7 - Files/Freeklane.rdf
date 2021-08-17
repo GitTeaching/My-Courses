@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:prop-fr="http://fr.dbpedia.org/property/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:ns7="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Freeklane">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q43229" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Band" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://schema.org/MusicGroup" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215380" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Group" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Freeklane" />
+    <dcterms:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Groupe_de_musique_algérien" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Ébauche" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Reflist" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Admissibilité" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Portail" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Infobox_Musique_(artiste)" />
+    <rdfs:label xml:lang="fr">Freeklane</rdfs:label>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.freeklane.net" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://freeklane.net" />
+    <prop-fr:annéesActives xml:lang="fr">Depuis 2008</prop-fr:annéesActives>
+    <prop-fr:charte xml:lang="fr">groupe</prop-fr:charte>
+    <prop-fr:genre rdf:resource="http://fr.dbpedia.org/resource/Chaâbi_algérien" />
+    <prop-fr:genre rdf:resource="http://fr.dbpedia.org/resource/Gnawi" />
+    <prop-fr:label xml:lang="fr">Freeklane</prop-fr:label>
+    <prop-fr:membresActuels xml:lang="fr">Youces Akkouche</prop-fr:membresActuels>
+    <prop-fr:membresActuels xml:lang="fr">Belghanem Said</prop-fr:membresActuels>
+    <prop-fr:membresActuels xml:lang="fr">Chems Eddine Abbacha</prop-fr:membresActuels>
+    <prop-fr:membresActuels xml:lang="fr">Ysn Haddad</prop-fr:membresActuels>
+    <prop-fr:nom xml:lang="fr">Freeklane</prop-fr:nom>
+    <prop-fr:siteWeb rdf:resource="http://freeklane.net" />
+    <rdfs:comment xml:lang="fr">Freeklane est groupe Algérien s&#39;identifie &quot;à la variété nord-africaine puisque on fait un peu de tout, tout ce qui est algérien tout d&#39;abord.</rdfs:comment>
+    <dbpedia-owl:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2008+02:00</dbpedia-owl:activeYearsStartYear>
+    <dbpedia-owl:genre rdf:resource="http://fr.dbpedia.org/resource/Gnawi" />
+    <dbpedia-owl:genre rdf:resource="http://fr.dbpedia.org/resource/Chaâbi_algérien" />
+    <dbpedia-owl:nationality rdf:resource="http://fr.dbpedia.org/resource/Algérie" />
+    <foaf:name xml:lang="fr">Freeklane</foaf:name>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">110634268</dbpedia-owl:wikiPageRevisionID>
+    <foaf:homepage rdf:resource="http://freeklane.net" />
+    <dbpedia-owl:abstract xml:lang="fr">Freeklane est groupe Algérien s&#39;identifie &quot;à la variété nord-africaine puisque on fait un peu de tout, tout ce qui est algérien tout d&#39;abord. On peut trouver du raï, du chaâbi, du gnawa aussi, des rythmes africains, il y a également aussi des nuances et des rythmes un peu occidentaux et ceci renvoie aux envies de chacun, dans sa façon libre de s&#39;exprimer musicalement&quot;.Le groupe a voulu rendre hommage à la femme algérienne qui constitue le pilier de la société algérienne: &quot;On a voulu symboliser la femme algérienne en lui donnant une image d&#39;une femme qui a épaulé le peuple algérien ou l&#39;homme algérien à travers le temps avant la révolution, pendant la révolution et jusqu&#39;à nos jours. On voulait lui rendre hommage et dire que c&#39;est une princesse la femme algérienne, car elle a toujours été là pour l&#39;homme algérien&quot;. Le nom du groupe proviens de « Free » signifiant libre en anglais, et « Iklanes » signifiant les esclaves en berbère.</dbpedia-owl:abstract>
+    <ns7:wasDerivedFrom rdf:resource="http://fr.wikipedia.org/wiki/Freeklane?oldid=110634268" />
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">6</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7840361</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/2008_en_musique" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Groupe_de_musique_algérien" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Chaâbi_algérien" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gnawi" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Anglais" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Langues_berbères" />
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">4296</dbpedia-owl:wikiPageLength>
+    <foaf:isPrimaryTopicOf rdf:resource="http://fr.wikipedia.org/wiki/Freeklane" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.wikipedia.org/wiki/Freeklane">
+    <foaf:primaryTopic rdf:resource="http://fr.dbpedia.org/resource/Freeklane" />
+  </rdf:Description>
+</rdf:RDF>

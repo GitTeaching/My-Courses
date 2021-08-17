@@ -1,0 +1,34 @@
+@prefix   dbr:     <http://fr.dbpedia.org/resource/> .
+@prefix   dbo:     <http://dbpedia.org/ontology/> .
+@prefix   prop-fr: <http://fr.dbpedia.org/property/> .
+@prefix   foaf:    <http://xmlns.com/foaf/0.1/> .
+@prefix   rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix   rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix   xsd:     <http://www.w3.org/2001/XMLSchema#> .
+
+dbr:Iron_Maiden   rdf:type         <http://schema.org/MusicGroup> ;
+                  dbo:bandMember     dbr:Bruce_Dickinson ;
+                  dbo:genre          dbr:Heavy_Metal ;
+      		  dbo:recordLabel    dbr:EMI_Group ;
+      		  dbo:wikiPageID     "1494"^^xsd:integer ;
+      		  rdfs:label         "Iron Maiden"@fr ;
+      		  foaf:homepage     <http://www.ironmaiden.com/> .
+
+dbr:Seventh_Son_of_a_Seventh_Son     dbo:artist dbr:Iron_Maiden ; 
+  		        rdfs:label  "Seventh Son of a Senventh Son"@fr ; 
+ 		        prop-fr:charte    "album"@fr ;
+		        dbo:releaseDate   "1988-04-23"^^xsd:date ;
+                   dbo:wikiPageID    "16944"^^xsd:integer ;
+                   dbo:producer      dbr:Martin_Birch ;
+		        dbo:recorderIn    dbr:Munich .
+
+dbr:Bruce_Dickinson  dbo:artist      dbr:Iron_Maiden ; 
+  		        dbo:birthName     "Paul Bruce Dickinson"@fr ; 
+ 		        dbo:instrument    dbr:Chant ;
+                   dbo:wikiPageID    "15967"^^xsd:integer .
+		        
+
+dbr:El_Dorado      dbo:artist         dbr:Iron_Maiden ; 
+                   prop-fr:charte     "single"@fr ;
+  		   dbo:album          dbr:The_Final_Frontier ; 
+ 		   dbo:composer       dbr:Steve_Harris .
