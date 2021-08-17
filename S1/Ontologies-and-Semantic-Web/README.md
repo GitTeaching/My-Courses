@@ -29,27 +29,15 @@ Ce cours doit définir l’objet « ontologie » et son intérêt, les différen
 
 #### *Seminars*
 
-**1 -** IHM et Java Swing – JWindow, JDialog, et JFrame
+**1 -** Décrire avec RDF
 
-**2 -** IHM et Java Swing – JWindow, JDialog, et JFrame - Suite
+**2 -** Décrire avec RDF/XML
 
-**3 -** JFrame, Panes, et Layout Managers
+**3 -** Interroger avec SPARQL
 
-**4 -** JPanel, JButton, et Event Handlers
+**4 -** OWL
 
-**5 -** JPanel, JButton, et Event Handlers - Suite
-
-**6 -** Exercice d’application : Galerie d'Images
-
-**7 -** Autres Composants Swing - JRadioButton, JSlider, JComboBox, JProgressBar, JList, JScrollPane, JTabbedPane, JTextArea, et JTextPane
-
-**8 -** Autres Composants Swing - Suite
-
-**9 -** Les boites de dialogue. JOptionPane et JFileChooser
-
-**10 -** Exercice d'application - GamerInfos
-
-
+**5 -** SWRL
 
 ### Fichiers
 
@@ -66,43 +54,43 @@ Ce cours doit définir l’objet « ontologie » et son intérêt, les différen
 <tbody>
   <tr>
     <td class="tg-9wq8">Lecture 1</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Ontologies-and-Semantic-Web/OSW%20-%20Cours%201.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 2</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Ontologies-and-Semantic-Web/OSW%20-%20Cours%202.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 3</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Ontologies-and-Semantic-Web/OSW%20-%20Cours%203.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 4</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Ontologies-and-Semantic-Web/OSW%20-%20Cours%204.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 5</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Ontologies-and-Semantic-Web/OSW%20-%20Cours%205.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 6</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Ontologies-and-Semantic-Web/OSW%20-%20Cours%261.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 7</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Ontologies-and-Semantic-Web/OSW%20-%20Cours%207.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 8</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Ontologies-and-Semantic-Web/OSW%20-%20Cours%208.pdf">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Ontologies-and-Semantic-Web/OSW%20-%20D%C3%A9mo%20SPARQL%20avec%20Jena%20Apache.pdf">Demo</a></td>
   </tr>  
 </tbody>
 </table>
@@ -115,29 +103,28 @@ Ce cours doit définir l’objet « ontologie » et son intérêt, les différen
   <tr>
     <th class="tg-uzvj">N°</th>
     <th class="tg-uzvj">File</th>
-    <th class="tg-uzvj">Resources</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-9wq8">Seminar 1</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Ontologies-and-Semantic-Web/OSW%20-%20TD%201.pdf">Download</a></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Seminar 2</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Ontologies-and-Semantic-Web/OSW%20-%20TD%202.pdf">Download</a></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Seminar 3</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Ontologies-and-Semantic-Web/OSW%20-%20TD%203.pdf">Download</a></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Seminar 4</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Ontologies-and-Semantic-Web/OSW%20-%20TD%204.pdf">Download</a></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Seminar 5</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Ontologies-and-Semantic-Web/OSW%20-%20TD%205.pdf">Download</a></td>
   </tr>
 </tbody>
 </table>
