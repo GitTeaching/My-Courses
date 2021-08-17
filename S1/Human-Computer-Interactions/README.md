@@ -74,42 +74,42 @@ Conception, Programmation, Java.
 <tbody>
   <tr>
     <td class="tg-9wq8">Lecture 1</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Human-Computer-Interactions/IHM%20-%20Cours%201.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 2</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Human-Computer-Interactions/IHM%20-%20Cours%202.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 3</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Human-Computer-Interactions/IHM%20-%20Cours%203.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 3</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Human-Computer-Interactions/IHM%20-%20Cours%203%20-%20Use%20Case.pdf">Download</a></td>
     <td class="tg-9wq8"><a href="https://uxdesign.cc/ui-ux-case-study-a-step-by-step-guide-to-the-process-of-designing-a-pet-diet-app-d635b911b648">Complete Use Case</a></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 4</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Human-Computer-Interactions/IHM%20-%20Cours%204.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 5</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Human-Computer-Interactions/IHM%20-%20Cours%205.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 6</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Human-Computer-Interactions/IHM%20-%20Cours%206.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 7</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Human-Computer-Interactions/IHM%20-%20Cours%207.pdf">Download</a></td>
     <td class="tg-9wq8">
        <a href="https://github.com/GitTeaching/Exemple1ArduinoCoursIHM">Example 1 - Source Code & Demo</a><br>
        <a href="https://github.com/GitTeaching/Exemple2ArduinoCoursIHM">Example 2 - Source Code & Demo</a>
@@ -117,7 +117,7 @@ Conception, Programmation, Java.
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 8</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Human-Computer-Interactions/IHM%20-%20Cours%208.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>  
 </tbody>
@@ -137,52 +137,52 @@ Conception, Programmation, Java.
 <tbody>
   <tr>
     <td class="tg-9wq8">Lab 1</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Human-Computer-Interactions/IHM%20-%20TP%201.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lab 2</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Human-Computer-Interactions/IHM%20-%20TP%201.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lab 3</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Human-Computer-Interactions/IHM%20-%20TP%203.pdf">Download</a></td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/MesTPIHM/tree/master/src">Source Code</a></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lab 4</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Human-Computer-Interactions/IHM%20-%20TP%204.pdf">Download</a></td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/MesTPIHM/tree/master/src/org/ihm/tp4">Source Code</a></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lab 5</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Human-Computer-Interactions/IHM%20-%20TP%205.pdf">Download</a></td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/MesTPIHM/tree/master/src/org/ihm/tp5">Source Code</a></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lab 6</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Human-Computer-Interactions/IHM%20-%20TP%206.pdf">Download</a></td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/ExerciceSlidershow/tree/master/src">Source Code</a></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lab 7</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Human-Computer-Interactions/IHM%20-%20TP%207.pdf">Download</a></td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/MesTPIHM/tree/master/src/org/ihm/tp7">Source Code</a></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lab 8</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Human-Computer-Interactions/IHM%20-%20TP%208.pdf">Download</a></td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/MesTPIHM/tree/master/src/org/ihm/tp8">Source Code</a></td>
   </tr>  
   <tr>
     <td class="tg-9wq8">Lab 9</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Human-Computer-Interactions/IHM%20-%20TP%209.pdf">Download</a></td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/MesTPIHM/tree/master/src/org/ihm/tp9">Source Code</a></td>
   </tr>  
   <tr>
     <td class="tg-9wq8">Lab 10</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Human-Computer-Interactions/IHM%20-%20TP%2010.pdf">Download</a></td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/ExerciceGamerInfos/tree/master/src">Source Code</a></td>
   </tr>  
 </tbody>
