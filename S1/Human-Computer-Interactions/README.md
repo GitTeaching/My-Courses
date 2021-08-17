@@ -4,6 +4,7 @@ L’objectif de ce cours est d’initier les étudiants à produire des logiciel
 
 **Prérequis recommandés**: Conception, Programmation, Java.
 
+<img src="https://mozajka.co/wp-content/uploads/2019/09/HUMAN-COMPUTER-INTERACTION-1000x500.jpg" width=500px; height="250" />
 
 ### Contenu
 
