@@ -1,6 +1,6 @@
 ## Cours - SOA
 
-A l’issu du cours, l’apprenant sera capable de comprendre les SOA, d’identifier clairement les niveaux de granularité de services, de modéliser des services métier, de définir des contrats de service, de décrire des processus métier ,et les décliner en orchestration de services.
+L'architecture orientée services est une façon de concevoir un système d'information d'entreprise, indépendamment des technologies mises en place pour la réaliser. A l’issu du cours, l’apprenant sera capable de comprendre les SOA, d’identifier clairement les niveaux de granularité de services, de modéliser des services métier, de définir des contrats de service, de décrire des processus métier ,et les décliner en orchestration de services.
 
 **Prérequis recommandés :** SI, Java, XML
 
