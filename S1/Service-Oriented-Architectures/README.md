@@ -56,6 +56,32 @@ L'architecture orientée services est une façon de concevoir un système d'info
 
 ### Fichiers
 
+#### *Lectures* 
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-uzvj">N°</th>
+    <th class="tg-uzvj">File</th>
+    <th class="tg-uzvj">Resources</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9wq8">Lecture 1</td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Human-Computer-Interactions/IHM%20-%20Cours%201.pdf">Download</a></td>
+    <td class="tg-9wq8"></td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">Lecture 2</td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Human-Computer-Interactions/IHM%20-%20Cours%202.pdf">Download</a></td>
+    <td class="tg-9wq8"></td>
+  </tr>
+	
+</tbody>
+</table>
+
+
 
 #### *Lab Sessions & Seminars* 
 
