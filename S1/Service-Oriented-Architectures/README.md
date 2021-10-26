@@ -32,7 +32,6 @@ L'architecture orientée services est une façon de concevoir un système d'info
 **10 -** Liens entre les concepts et les outils
     
 
-
 #### *Lab Sessions & Seminars*
 
 **0 -** Les services web avec JAX-WS & Installation
