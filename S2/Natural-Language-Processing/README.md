@@ -54,22 +54,22 @@ Le traitement automatique des langues (TAL) vise l’élaboration d’outils et 
 <tbody>
   <tr>
     <td class="tg-9wq8">Lecture 1</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/TAL%20-%20Cours%201.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 2</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/TAL%20-%20Cours%202.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 3</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/TAL%20-%20Cours%203.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 4</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/TAL%20-%20Cours%204.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
 
