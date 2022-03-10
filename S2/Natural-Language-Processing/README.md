@@ -28,7 +28,7 @@ Le traitement automatique des langues (TAL) vise l’élaboration d’outils et 
 
 **0 -** Installation et premiers pas avec Python
 
-**1 -** Introduction et bases du language Python
+**1 -** Introduction et bases du language Python 
 
 **2 -** Traitement bas niveau – Encodage et Tokenization
 
