@@ -96,12 +96,12 @@ Le traitement automatique des langues (TAL) vise l’élaboration d’outils et 
   <tr>
     <td class="tg-9wq8">Lab 1</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/TAL%20-%20TP%201.pdf">Download</a></td>
-    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/TP-NLP-using-Python/blob/master/Code%20TP%20Updated/S%C3%A9rie_TP_1.ipynb">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/S%C3%A9rie_TP_1.ipynb">Download</a></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lab 2</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/TAL%20-%20TP%202.pdf">Download</a></td>
-    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/TP-NLP-using-Python/blob/master/Code%20TP%20Updated/S%C3%A9rie_TP_2.ipynb">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/S%C3%A9rie_TP_2.ipynb">Download</a></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lab 3</td>
@@ -116,7 +116,7 @@ Le traitement automatique des langues (TAL) vise l’élaboration d’outils et 
   <tr>
     <td class="tg-9wq8">Lab 4</td>
     <td class="tg-9wq8"><a href="">Download</a></td>
-    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/TP-NLP-using-Python/blob/master/Code%20TP%20Updated/S%C3%A9rie_TP_4.ipynb">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/S%C3%A9rie_TP_4.ipynb">Download</a></td>
   </tr>
 </tbody>
 </table>
