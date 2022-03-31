@@ -120,7 +120,7 @@ Using WEKA and Python
     <td class="tg-9wq8">
 	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%201.pdf">- Apriori 1</a><br>
 	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%202.pdf">- Apriori 2</a> & 
-	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%202%20-%20AprioriTest.pdf"> Apriori 2</a>
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%202%20-%20AprioriTest.pdf"> Apriori 2</a><br>
 	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%201%20-%20Python.ipynb"> Apriori with Python</a>
     </td>
   </tr>  
