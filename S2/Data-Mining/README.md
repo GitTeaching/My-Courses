@@ -129,7 +129,7 @@ Using WEKA and Python
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TD%202.pdf">Download</a></td>
     <td class="tg-9wq8">
 	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%203.pdf">- Decision Trees</a><br>
-	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%201%20-%20Python.ipynb">- Decision Trees with Python</a>
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%202%20-%20Python.ipynb">- Decision Trees with Python</a>
     </td>
   </tr>    <tr>
     <td class="tg-9wq8">3</td>
