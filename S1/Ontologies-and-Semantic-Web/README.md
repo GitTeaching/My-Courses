@@ -14,7 +14,7 @@ Ce cours doit définir l’objet « ontologie » et son intérêt, les différen
 
 **2 -** RDF – Resource Description Framework
 
-**3 -** RDF – Resource Description Framework  +  RDFS
+**3 -** RDF &  RDFS
 
 **4 -** SPARQL
 
