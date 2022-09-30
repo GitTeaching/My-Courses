@@ -68,6 +68,11 @@ Ce cours doit définir l’objet « ontologie » et son intérêt, les différen
     <td class="tg-9wq8"></td>
   </tr>
   <tr>
+    <td class="tg-9wq8">Lecture 3 - Suite</td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Ontologies-and-Semantic-Web/OSW%20-%20Cours%203%20-%20Suite.pdf">Download</a></td>
+    <td class="tg-9wq8"></td>
+  </tr>
+  <tr>
     <td class="tg-9wq8">Lecture 4</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Ontologies-and-Semantic-Web/OSW%20-%20Cours%204.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
