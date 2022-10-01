@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:prop-fr="http://fr.dbpedia.org/property/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/2002_en_philosophie">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/2003_en_philosophie">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/2020_en_philosophie">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/6_août">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Aimer,_s&#39;aimer,_nous_aimer">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Alain_Jugnon">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Après_la_gauche">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Ariel_Kyrou">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Art_écologique">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Autisme_virtuel">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Barbara_Stiegler">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+    <dbo:father rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Bernard_Stiegler">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/frResource" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q19088" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Eukaryote" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Animal" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q729" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdfs:label xml:lang="fr">Bernard Stiegler</rdfs:label>
+    <rdfs:comment xml:lang="fr">Bernard Stiegler, né le 1er avril 1952 à Villebon-sur-Yvette (Seine-et-Oise) et mort le 5 août 2020 à Épineuil-le-Fleuriel (Cher), est un philosophe français qui axe sa réflexion sur les enjeux des mutations actuelles — sociales, politiques, économiques, psychologiques — portées par le développement technologique et notamment les technologies numériques. Fondateur et président d&#39;un groupe de réflexion philosophique, Ars industrialis, créé en 2005, il a également dirigé, à partir d&#39;avril 2006, l&#39;Institut de recherche et d&#39;innovation (IRI) qu&#39;il a créé au sein du centre Georges-Pompidou.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="https://www.whoswho.fr/bio/bernard-stiegler_38087" />
+    <rdfs:seeAlso rdf:resource="http://data.rero.ch/02-A003865113" />
+    <rdfs:seeAlso rdf:resource="http://cantic.bnc.cat/registres/CUCId/a12055542" />
+    <rdfs:seeAlso rdf:resource="https://www.babelio.com/auteur/-/6098" />
+    <rdfs:seeAlso rdf:resource="https://snl.no/Bernard_Stiegler" />
+    <rdfs:seeAlso rdf:resource="http://aut.nkp.cz/uk2011670242" />
+    <rdfs:seeAlso rdf:resource="http://www.perlentaucher.de/autor/bernard-stiegler.html" />
+    <rdfs:seeAlso rdf:resource="http://urn.bn.pt/nca/unimarc-authorities/txt?id=1326885" />
+    <rdfs:seeAlso rdf:resource="http://aleph.nli.org.il/F/?func=find-b&amp;local_base=NNL10&amp;find_code=SYS&amp;con_lng=eng&amp;request=002129290" />
+    <rdfs:seeAlso rdf:resource="http://philpapers.org/profile/bernard-stiegler" />
+    <rdfs:seeAlso rdf:resource="http://isni.org/isni/0000_0001_2277_1955" />
+    <rdfs:seeAlso rdf:resource="https://lira.lanet.lv/F?func=direct&amp;local_base=lnc10&amp;doc_number=000097065" />
+    <rdfs:seeAlso rdf:resource="http://catalogo.share-cat.unina.it/sharecat/searchNames?n_cluster_id=144214" />
+    <rdfs:seeAlso rdf:resource="https://dialnet.unirioja.es/servlet/autor?codigo=1007081" />
+    <rdfs:seeAlso rdf:resource="https://www.goodreads.com/author/show/401793" />
+    <rdfs:seeAlso rdf:resource="http://mak.bn.org.pl/cgi-bin/KHW/makwww.exe?BM=01&amp;IM=04&amp;NU=01&amp;WI=A33012180" />
+    <rdfs:seeAlso rdf:resource="http://katalog.nsk.hr/F/?func=direct&amp;doc_number=000144184&amp;local_base=nsk10" />
+    <rdfs:seeAlso rdf:resource="http://ci.nii.ac.jp/author/DA10501250" />
+    <rdfs:seeAlso rdf:resource="https://www.rechercheisidore.fr/search/?author=stiegler_bernard" />
+    <rdfs:seeAlso rdf:resource="https://commons.wikimedia.org/wiki/Category:Bernard_Stiegler" />
+    <rdfs:seeAlso rdf:resource="https://openmlol.it/autore/360742" />
+    <rdfs:seeAlso rdf:resource="http://www.lesarchivesduspectacle.net/?IDX_Personne=57637" />
+    <rdfs:seeAlso rdf:resource="http://id.sbn.it/af/MILV134085" />
+    <rdfs:seeAlso rdf:resource="https://www.quora.com/topic/Bernard-Stiegler" />
+    <rdfs:seeAlso rdf:resource="http://snaccooperative.org/ark:/99166/w6hx28cs" />
+    <owl:sameAs rdf:resource="http://data.persee.fr/person/272292" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Bernard_Stiegler" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Bernard_Stiegler" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ベルナール・スティグレール" />
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Bernard_Stiegler" />
+    <owl:sameAs rdf:resource="http://catalogo.pusc.it/auth/76220" />
+    <owl:sameAs rdf:resource="http://www.idref.fr/078996376/id" />
+    <owl:sameAs rdf:resource="http://da.dbpedia.org/resource/Bernard_Stiegler" />
+    <owl:sameAs rdf:resource="http://id.ndl.go.jp/auth/ndlna/01010212" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q822727" />
+    <owl:sameAs rdf:resource="https://data.bibliotheken.nl/doc/thes/p153846402" />
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Bernard_Stiegler" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Bernard_Stiegler" />
+    <owl:sameAs rdf:resource="http://lod.nl.go.kr/resource/KAC201419425" />
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Bernard_Stiegler" />
+    <owl:sameAs rdf:resource="http://id.worldcat.org/fast/344151" />
+    <owl:sameAs rdf:resource="https://id.loc.gov/authorities/names/nr94027791" />
+    <owl:sameAs rdf:resource="http://www.theses.fr/078996376/id" />
+    <owl:sameAs rdf:resource="http://af.dbpedia.org/resource/Bernard_Stiegler" />
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/贝尔纳·斯蒂格勒" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Bernard_Stiegler" />
+    <owl:sameAs rdf:resource="http://data.bnf.fr/ark:/12148/cb123809990#about" />
+    <owl:sameAs rdf:resource="http://simple.dbpedia.org/resource/Bernard_Stiegler" />
+    <owl:sameAs rdf:resource="http://datos.bne.es/resource/XX1540131" />
+    <owl:sameAs rdf:resource="https://livedata.bibsys.no/authority/90759689" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Bernard_Stiegler" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Bernard_Stiegler" />
+    <owl:sameAs rdf:resource="http://openlibrary.org/works/OL395073A" />
+    <owl:sameAs rdf:resource="http://g.co/kg/m/0h068v" />
+    <owl:sameAs rdf:resource="http://commons.dbpedia.org/resource/Category:Bernard_Stiegler" />
+    <owl:sameAs rdf:resource="https://d-nb.info/gnd/132269414" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Bernard_Stiegler" />
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Стиглер,_Бернар" />
+    <owl:sameAs rdf:resource="http://data.europeana.eu/agent/base/146080" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/19758943" />
+    <dct:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Suicide_en_France" />
+    <dct:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Philosophe_français_du_XXIe_siècle" />
+    <dct:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Naissance_en_avril_1952" />
+    <dct:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Élève_de_l&#39;École_des_hautes_études_en_sciences_sociales" />
+    <dct:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Naissance_en_Seine-et-Oise" />
+    <dct:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Officier_des_Arts_et_des_Lettres" />
+    <dct:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Décès_dans_le_Cher" />
+    <dct:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Écrivain_français_suicidé" />
+    <dct:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Décès_en_août_2020" />
+    <dct:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Décès_à_68_ans" />
+    <dct:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Affaire_criminelle_en_France" />
+    <dct:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Naissance_dans_l&#39;Essonne" />
+    <dct:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Étudiant_de_l&#39;université_Toulouse-Jean-Jaurès" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Bases" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Coll" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Cita" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:11e" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:," />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Date-" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Références_nombreuses" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:S-" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Colonnes" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Dictionnaires" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Citation_bloc" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Voir_homonymes" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:&#39;" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Numéro" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Autres_projets" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:P." />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:ISBN" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Confusion" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:N°" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Autorité" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Infobox" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Déco" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Portail" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Date_de_décès" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Date_de_naissance" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Date" />
+    <dbo:deathPlace rdf:resource="http://fr.dbpedia.org/resource/Épineuil-le-Fleuriel" />
+    <dbo:birthPlace rdf:resource="http://fr.dbpedia.org/resource/Villebon-sur-Yvette" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">161127</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">190227286</dbo:wikiPageRevisionID>
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/François_Bon" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Baccalauréat_en_France" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Prométhée" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Écrivain_français_suicidé" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Dominique_Cardon_(sociologue)" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Élisabeth_de_Fontenay" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/École_nationale_supérieure_d&#39;architecture_de_Marseille" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Université_de_technologie_de_Compiègne" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catherine_Perret" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Élève_de_l&#39;École_des_hautes_études_en_sciences_sociales" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hermann_(éditions)" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Épineuil-le-Fleuriel" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Muret_(Haute-Garonne)" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Socrate" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Conseil_national_du_numérique_(France)" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Élevage_caprin" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Université_Bordeaux-Montaigne" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Parti_communiste_français" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Alain_Jugnon" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Jean-Robert_Viallet" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Temps_de_cerveau_humain_disponible" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Philippe_Petit_(journaliste_et_essayiste)" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/François_Soulages" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bertrand_Gille_(historien)" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Sophiste" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Étudiant_de_l&#39;université_Toulouse-Jean-Jaurès" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/France" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Naissance_en_avril_1952" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Serveur_(restauration)" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Décès_à_68_ans" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Attaque_à_main_armée" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Miguel_Benasayag" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gérard_Granel" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Serge_Tisseron" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Philosophie" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/The_Ister" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Pharmakos" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Les_Liens_qui_libèrent" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Philosophe" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Mai_68" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Alain_Finkielkraut" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Décès_en_août_2020" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Cher_(département)" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Sciences_cognitives" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/1978" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/1983" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Noël_Mamère" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Conservatoire_libre_du_cinéma_français" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Phénoménologie_(philosophie)" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/1973" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Edinburgh_University_Press" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/La_technique_et_le_temps,_1" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Diadeis" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/1985" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Technè" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Enseignant-chercheur" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Christophe_Nick" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Épistémè" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Stalinisme" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Affaire_criminelle_en_France" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bruno_Teboul" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Paul_Jorion" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Collège_international_de_philosophie" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Acting_out" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Paul_Valéry" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/1993" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Institut_de_recherche_et_coordination_acoustique/musique" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Prison_Saint-Michel_(Toulouse)" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Think_tank" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Daniel_Bougnoux" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/1989" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bibliothèque_nationale_de_France" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Occlusion_intestinale" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Philosophe_français_du_XXIe_siècle" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Institut_national_de_recherche_en_informatique_et_en_automatique" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Ouvrier_agricole" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Villebon-sur-Yvette" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Alain_Giffard" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:Bernard_Stiegler_Roumics_2014_Lille9.JPG" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:Roumics_2014_Lille_Plénière_Table_ronde_2.JPG" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Vincent_Bontems" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/1984" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Développement_technologique" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Seine-et-Oise" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Evgeny_Morozov" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/1969" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/George_Collins" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Centre_national_d&#39;art_et_de_culture_Georges-Pompidou" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Platon" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Monflanquin" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Sécheresse_de_1976" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/André_Leroi-Gourhan" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Alexandre_Moatti" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Artéfact_(ergonomie)" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Entropie" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Naissance_dans_l&#39;Essonne" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Hominisation" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Barbara_Stiegler" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Jacques_Derrida" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Sarcelles" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Prison_en_France" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Julian_Assange" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Institut_de_recherche_et_d&#39;innovation" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Anthropologie" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Linguistique" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Institut_national_de_l&#39;audiovisuel" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Technologies_de_l&#39;information_et_de_la_communication" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Électronicien" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Suicide_en_France" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Faut-il_interdire_les_écrans_aux_enfants_%3F" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bruno_Latour" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Aimer,_s&#39;aimer,_nous_aimer" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Rémi_Brague" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/1988" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Dany-Robert_Dufour" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Risques_d&#39;effondrements_environnementaux_et_sociétaux" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Arles" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Université_Toulouse-Jean-Jaurès" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Alain_Badiou" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Georges_Marchais" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Épiméthée" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Officier_des_Arts_et_des_Lettres" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Exposition_universelle_de_1992" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Philippe_Meirieu" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Dominique_Bourg" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Librairie_philosophique_J._Vrin" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Marc_Crépon" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Greta_Thunberg" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Philosophie_antique" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Écrivain_public" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gilbert_Simondon" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/1987" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Développeur" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Philosophie_Magazine" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Décès_dans_le_Cher" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Philosophie_de_la_technique" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Toulouse" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Martin_Heidegger" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Jean-Luc_Nancy" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Pierre-Antoine_Chardel" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Giuseppe_Longo" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Naissance_en_Seine-et-Oise" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Ariel_Kyrou" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Diplôme_national_de_doctorat_(France)" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/1990" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gruppen_(revue)" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/École_des_hautes_études_en_sciences_sociales" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Cristian_S._Calude" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Flagrant_délit_en_droit_français" />
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Séville" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.infotekart.com/2017/01/bernard-stiegler-philosophe.html" />
+    <dbo:wikiPageExternalLink rdf:resource="https://appareil.revues.org/72" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.franceculture.fr/emissions/series/bernard-stiegler" />
+    <dbo:wikiPageExternalLink rdf:resource="https://blogs.mediapart.fr/jean-jacques-birge/blog/070820/bernard-stiegler-la-musique-est-la-premiere-technique-du-desir" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.franceculture.fr/personne-bernard-stiegler.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.christian-faure.net/enregistrements-de-bernard-stiegler/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.youtube.com/watch%3Fv=qYCfx2xFMjE" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Roumics_2014_Lille_Plénière_Table_ronde_2.jpg" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Bernard_Stiegler_Roumics_2014_Lille9.jpg" />
+    <dbo:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">41421</dbo:wikiPageLength>
+    <prov:wasDerivedFrom rdf:resource="http://fr.wikipedia.org/wiki/Bernard_Stiegler?oldid=190227286&amp;ns=0" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Bernard_Stiegler_Roumics_2014_Lille9.jpg?width=300" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://fr.wikipedia.org/wiki/Bernard_Stiegler" />
+    <dbo:birthName xml:lang="en">Bernard Georges Alain Stiegler</dbo:birthName>
+    <dbo:award rdf:resource="http://wikidata.dbpedia.org/resource/Q13452524" />
+    <dbo:child rdf:resource="http://fr.dbpedia.org/resource/Barbara_Stiegler" />
+    <dbo:occupation rdf:resource="http://fr.dbpedia.org/resource/Philosophe" />
+    <dbo:abstract xml:lang="fr">Bernard Stiegler, né le 1er avril 1952 à Villebon-sur-Yvette (Seine-et-Oise) et mort le 5 août 2020 à Épineuil-le-Fleuriel (Cher), est un philosophe français qui axe sa réflexion sur les enjeux des mutations actuelles — sociales, politiques, économiques, psychologiques — portées par le développement technologique et notamment les technologies numériques. Fondateur et président d&#39;un groupe de réflexion philosophique, Ars industrialis, créé en 2005, il a également dirigé, à partir d&#39;avril 2006, l&#39;Institut de recherche et d&#39;innovation (IRI) qu&#39;il a créé au sein du centre Georges-Pompidou.</dbo:abstract>
+    <dbo:almaMater rdf:resource="http://fr.dbpedia.org/resource/École_des_hautes_études_en_sciences_sociales" />
+    <dbo:almaMater rdf:resource="http://fr.dbpedia.org/resource/Université_Toulouse-Jean-Jaurès" />
+    <dbo:citizenship rdf:resource="http://fr.dbpedia.org/resource/France" />
+    <dbo:doctoralAdvisor rdf:resource="http://fr.dbpedia.org/resource/Jacques_Derrida" />
+    <dbo:employer rdf:resource="http://fr.dbpedia.org/resource/Goldsmiths,_University_of_London" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Centre_national_d&#39;art_et_de_culture_Georges-Pompidou">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Charlotte_Cosson_&amp;_Emmanuelle_Luciani">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Clovis_Maillet">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Compiègne">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Conseil_national_du_numérique_(France)">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Consumérisme">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Crise_bancaire_et_financière_de_l&#39;automne_2008">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Crise_des_subprimes">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Crise_financière_mondiale_de_2007-2008">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Critiques_de_Facebook">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Culture_participative">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/D@ns_le_texte">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/De_la_grammatologie">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Design">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Design_collaboratif">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Disruption_(économie)">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+    <prop-fr:auteur rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Divya_Dwivedi">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Dominique_Boullier">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Déconstruction_(analyse_de_texte)">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Décès_en_2020">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Décès_en_août_2020">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Désenchantement_du_monde">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Edmund_Husserl">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+    <dbo:influenced rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Edward_Bernays">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Emmanuel_Levinas">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Faut-il_interdire_les_écrans_aux_enfants_%3F">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Francis_Eustache">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Gilbert_Simondon">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+    <!--
+    <p: xmlns:p="http://fr.dbpedia.org/property/aInfluencé" rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+    -->
+    <dbo:influenced rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Greta_Thunberg">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+    <prop-fr:auteur rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Humanités_numériques">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Hypermodernité">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Hôpital_Saint-Vincent-de-Paul">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Individuation_(psychologie_analytique)">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Industrie_culturelle">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Institut_de_recherche_et_coordination_acoustique/musique">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Institut_de_recherche_et_d&#39;innovation">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Interdit_d&#39;interdire">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Intermittent_du_spectacle">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Jacques_Derrida">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+    <!--
+    <p: xmlns:p="http://fr.dbpedia.org/property/aInfluencé" rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+    -->
+    <dbo:influenced rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+    <dbo:doctoralStudent rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Jean-Louis_Déotte">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Jean-Louis_Fréchin">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Jean-Luc_Nancy">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Jean-Marc_Cerino">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Jean-Michel_Frodon">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Jean_Gattégno">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/La_technique_et_le_temps,_1">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Laboratoire_sculpture-urbaine">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Laurent_Grandguillaume">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Le_Générateur_poïétique">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Les_Petits_Débrouillards">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Libriste">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Lignes_de_temps">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Liste_alphabétique_de_philosophes_contemporains">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Liste_de_philosophes_français">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Liste_de_philosophes_par_année_de_naissance">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Mrmr">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Média">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Médiacratie">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Médiologie">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Norbert_Hillaire">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Néguentropie">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Olivier_Zablocki">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Patrick_Bazin">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Paul_Ardenne">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Pharmakos">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Philippe_Lacoue-Labarthe">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Philippe_Nassif">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Philippe_Petit_(journaliste_et_essayiste)">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Philosophie_de_la_technique">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Philosophie_du_suicide">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Pierre-Antoine_Chardel">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Pollution_informationnelle">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Progrès_technique">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Répliques">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/SMITH">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Sarcelles">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Stiegler">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+    <dbo:wikiPageDisambiguates rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Technique">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Temps_de_cerveau_humain_disponible">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/The_Ister">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+    <prop-fr:acteur rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+    <dbo:starring rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/There_is_no_alternative">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Thinkerview">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Tiresia">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Totalité_et_Infini">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Transduction_(Simondon)">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Tuerie_de_Nanterre">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Télé_poubelle">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Université_Toulouse-Jean-Jaurès">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Université_de_technologie_de_Compiègne">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Ville_intelligente">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Villebon-sur-Yvette">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Wikipédia">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/École_des_hautes_études_en_sciences_sociales">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Économie_contributive">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Économie_créative">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Économie_de_l&#39;attention">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Éditions_Galilée">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Élection_présidentielle_française_de_2002">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+    <prop-fr:auteur rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Épiméthée">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Épineuil-le-Fleuriel">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Éric_Humbertclaude">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Marc_Crépon">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Martin_Heidegger">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Maurizio_Lazzarato">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Michel_Bauwens">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Michel_Guérin">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Michel_Paysant">
+    <dbo:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.wikipedia.org/wiki/Bernard_Stiegler">
+    <foaf:primaryTopic rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Institut_de_recherche_et_d&#39;innovation__PersonFunction__1">
+    <dbo:person rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q2864351">
+    <dbo:foundedBy rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q4335766">
+    <dbo:starring rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083648">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083680">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083684">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083702">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083703">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083705">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083706">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083707">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083708">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083709">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083710">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083711">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083712">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083715">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083716">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083718">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083719">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083720">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083722">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083723">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083724">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083725">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083726">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083784">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q22083785">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q7729490">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q4676851">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q5466994">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q5332810">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q60349454">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q61198395">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q61199627">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q61200412">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q61200864">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q61202466">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q65081801">
+    <dbo:author rdf:resource="http://fr.dbpedia.org/resource/Bernard_Stiegler" />
+  </rdf:Description>
+</rdf:RDF>

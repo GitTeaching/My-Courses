@@ -7,3 +7,5 @@ SELECT  ?res
 WHERE {
   ?res  rdf:type <http://schema.org/MusicGroup> .
 }
+
+LIMIT 20

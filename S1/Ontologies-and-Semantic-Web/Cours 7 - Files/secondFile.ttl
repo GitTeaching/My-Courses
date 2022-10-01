@@ -1,0 +1,1574 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbpedia-fr:Le_Balzar	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Religion_(histoire_des_id\u00E9es)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Philosopher	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Liste_d\u0027essais_sur_la_Shoah>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Jean-Fran\u00E7ois_Ganas>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jean-Joseph_Goux	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Fritz_Paepcke	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/G\u00E9rard_Mottet>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Kirsten_Johnson	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/La_Voix_et_le_Ph\u00E9nom\u00E8ne>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+@prefix prop-fr:	<http://fr.dbpedia.org/property/> .
+<http://fr.dbpedia.org/resource/La_Voix_et_le_Ph\u00E9nom\u00E8ne>	prop-fr:auteur	dbpedia-fr:Jacques_Derrida ;
+	dbo:author	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Lucette_Finas	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Madison_Bycroft	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Ph\u00E9nom\u00E9nologie_et_mat\u00E9rialisme_dialectique>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Vincent_Sabatier	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Yorgos_Oikonomou	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Marie-Claire_Ropars-Wuilleumier	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Bibliographie_sur_Georg_Wilhelm_Friedrich_Hegel	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Entretien_de_la_blessure	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Bereck_Kofman	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Sarah_Kofman	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Aur\u00E9lien_Bory>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Th\u00E9orie_critique>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Liste_de_philosophes_par_ann\u00E9e_de_naissance>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Philosophie_de_l\u0027\u00E9ducation>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/P\u00E9dagogie_de_la_philosophie>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/All\u00E9e_Jacques-Derrida>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:namedAfter	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Camilla_Adami	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	prop-fr:auteur	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Avital_Ronell	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	<http://fr.dbpedia.org/property/influenc\u00E9Par>	dbpedia-fr:Jacques_Derrida ;
+	dbo:influencedBy	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Seyhan_Kurt	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/2004>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Peine_de_mort	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/XXe_si\u00E8cle>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jean_Genet	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Les_\u00C9ditions_de_minuit>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Carole_Bouquet	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Mort	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Friedrich_Nietzsche	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:influenced	dbpedia-fr:Jacques_Derrida ;
+	<http://fr.dbpedia.org/property/aInfluenc\u00E9>	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Gilles_Deleuze	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:James_Joyce	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Lyc\u00E9e_Louis-le-Grand>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/G\u00E9nocide>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Psychanalyse	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Psychologie_du_d\u00E9veloppement>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Performance_(art)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Humanisme	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Fernand_Braudel	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9ric_Zemmour>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Isaac_Bashevis_Singer	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/1979_en_litt\u00E9rature>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/1980_en_litt\u00E9rature>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Maurice_de_Gandillac	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Kabbale	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Concours_d\u0027agr\u00E9gation_en_France>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Julia_Kristeva	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Fran\u00E7oise_Dolto>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Terrorisme	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Histoire_de_l\u0027anarchisme>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Ruth_Barcan_Marcus	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Amiti\u00E9>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Exil	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/1967_en_litt\u00E9rature>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9cole_des_hautes_\u00E9tudes_en_sciences_sociales>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Don_(acte)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/L\u0027Interpr\u00E9tation_du_r\u00EAve>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Andr\u00E9_Green>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Souverainet\u00E9>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Bernard-Henri_L\u00E9vy>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jacky_au_royaume_des_filles	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/F\u00E9lix_Ravaisson>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Novalis	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Paul_de_Man	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Texte	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Ferdinand_de_Saussure	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:KU_Leuven	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C8re_post-v\u00E9rit\u00E9>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Documents	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Claude_L\u00E9vi-Strauss>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:influenced	dbpedia-fr:Jacques_Derrida ;
+	<http://fr.dbpedia.org/property/aInfluenc\u00E9>	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Louis_Althusser	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	<http://fr.dbpedia.org/property/aInfluenc\u00E9>	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Esth\u00E9tique_ou_philosophie_de_l\u0027art>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9lisabeth_Roudinesco>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Francis_Fukuyama	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Kenneth_White	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Giannina_Braschi	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/D\u00E9constructivisme>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:foundedBy	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Fabien_L\u00E9vy>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Antonin_Artaud	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Tel_Quel_(revue)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9ditions_Des_femmes>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Histoire_du_f\u00E9minisme>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/J\u00FCrgen_Habermas>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jean-Pierre_Faye	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Ph\u00E8dre_(Platon)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Mario_Kopi\u0107>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	<http://fr.dbpedia.org/property/influenc\u00E9Par>	dbpedia-fr:Jacques_Derrida ;
+	dbo:influencedBy	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Rossano_Pecoraro	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Philosophie_du_suicide	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Daniel_Leconte	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Histoire_de_la_cuisine_fran\u00E7aise>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Philosophie_postmoderne	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Cogito_ergo_sum	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Fran\u00E7oise_Dastur>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Foi_et_raison	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Richard_Rorty	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	<http://fr.dbpedia.org/property/influenc\u00E9Par>	dbpedia-fr:Jacques_Derrida ;
+	dbo:influencedBy	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Ren\u00E9_Girard>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Giambattista_Vico	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Collaboration_polici\u00E8re_sous_le_r\u00E9gime_de_Vichy>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jacques_Bouveresse	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Jean-Christophe_Ros\u00E9>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/G\u00E9rard_Genette>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Thierry_Marchaisse	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Luc_Brisson	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:European_Graduate_School	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Jean-Louis_Chr\u00E9tien>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Majorit\u00E9_sexuelle_en_France>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jean-Luc_Nancy	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Peggy_Kamuf	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Commission_de_la_v\u00E9rit\u00E9_et_de_la_r\u00E9conciliation_(Afrique_du_Sud)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Christian_Prigent	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Catherine_Malabou	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:doctoralAdvisor	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Stanley_Cavell	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9lisabeth_de_Fontenay>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	<http://fr.dbpedia.org/property/influenc\u00E9Par>	dbpedia-fr:Jacques_Derrida ;
+	dbo:influencedBy	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:David_Hugh_Mellor	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/The_Legend_of_Zelda:_Majora\u0027s_Mask>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/La_Lettre_vol\u00E9e>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9tienne_Bonnot_de_Condillac>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9pim\u00E9th\u00E9e_(collection)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Pr\u00E9face_(litt\u00E9rature)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Descartes_&_Cie>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Michel_Henry	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jean_Piel	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Impostures_intellectuelles	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/L\u0027Id\u00E9ologie_fran\u00E7aise>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Geoffroy_de_Lagasnerie	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Apports_\u00E0_la_philosophie_:_De_l\u0027avenance>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Hans-Georg_Gadamer	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Jean-Fran\u00E7ois_Courtine>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jean_Grondin	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/L\u0027Origine_de_l\u0027\u0153uvre_d\u0027art>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/L\u0027Arc_(revue)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jean_Hyppolite	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Analyse_(philosophie)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Tournant_linguistique	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Ergo_Proxy	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Pronom_personnel_neutre_en_fran\u00E7ais_contemporain>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Catherine_Cl\u00E9ment>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Lyc\u00E9e_\u00C9mir-Abdelkader>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Phallogocentrisme	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Phallocentrisme	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Orion_(mythologie)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/John_D._Caputo>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	<http://fr.dbpedia.org/property/influenc\u00E9Par>	dbpedia-fr:Jacques_Derrida ;
+	dbo:influencedBy	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/D\u00E9construction_(analyse_de_texte)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Fr\u00E9d\u00E9ric_Lordon>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Valerio_Adami	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Dominique_Janicaud	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/La_Parole_d\u0027Anaximandre>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	prop-fr:auteur	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Philosophie_de_Martin_Heidegger	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Heidegger_et_la_question_de_l\u0027existence>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Mario_Perniola	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Patrice_Loraux	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jean-Toussaint_Desanti	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9tienne_Borne>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Klaus_Huber	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Daniel_Paul_Schreber	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/R\u00E9sidence_d\u0027\u00E9tudiants_de_Madrid>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Andr\u00E9_Bernold>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Wanda_Mihuleac	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/R\u00E9pliques>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/D\u014Dgen>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/R\u00E9flexions_sur_la_question_juive>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/L\u0027Animal_que_donc_je_suis>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	prop-fr:auteur	dbpedia-fr:Jacques_Derrida ;
+	dbo:author	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Mounir_Fatmi	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Gayatri_Chakravorty_Spivak	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:LGBTI_en_France	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Bibliographie_d\u0027esth\u00E9tique>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Louis_Marin_(philosophe)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Soci\u00E9t\u00E9_fran\u00E7aise_de_philosophie>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Fran\u00E7ois_Cusset>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Pierre_Alferi	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:father	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Immunit\u00E9_humaine>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Yves_Citton	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Signe	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Science_wars	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/La_technique_et_le_temps,_1>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Bibliographie_sur_la_logique_et_la_philosophie_du_langage	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Prix_Theodor-W.-Adorno>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Pierre-Henri_Castel	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Archive	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Virginie_Linhart	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Denis_Kambouchner	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Ath\u00E9isme_juif>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Hamid_B\u00E9nani>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Neal_Oxenhandler	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Rei_Kawakubo	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Loi_Haby	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Kabbale_lourianique	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Prol\u00E9gom\u00E8nes>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jean_Rousset	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Daniel_Giovannangeli	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Lucien_Bianco	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Philippe_Beck	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Rey_Chow	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Histoire_de_la_rh\u00E9torique>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Regard_(sciences_sociales)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Anti-fondationnalisme	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Bibliographie_sur_Antonin_Artaud	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Bibliographie_sur_Georges_Bataille	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Edward._W._Said,_l\u0027humaniste_radical._Aux_sources_de_la_pens\u00E9e_postcoloniale>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Esquisse_pour_une_auto-analyse	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Histoire_du_structuralisme_(Fran\u00E7ois_Dosse)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Horde_Catalytique_pour_la_Fin	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Les_Miens	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Liste_des_ouvrages_de_Guy_Hocquenghem	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Liste_des_th\u00E9oriciens_critiques>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Louis_Sala-Molins	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Lucien-Samir_Oulahbib	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/R\u00E9flexions_sur_le_temps>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9tudes_critiques_en_management>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Giovanna_Borradori	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/1980_en_philosophie>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Horace_Engdahl	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jean-Paul_Martinon	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Kai_Wong	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Le_Massacre_des_Innocents_(Poussin)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Simon_Morgan_Wortham	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Martin_McQuillan	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Histoire_de_la_philosophie_fran\u00E7aise>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Nicolas_Abraham	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/R\u00E9ception_de_la_pens\u00E9e_de_Nietzsche>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Toshihiko_Izutsu	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jean-Louis_Houdebine	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Genevi\u00E8ve_Boll\u00E8me>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:SMITH	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Dan_Roodt	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jean-Clet_Martin	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jane_Gallop	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Louis_Monier_(photographe)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Phonocentrisme	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Passagen_Verlag	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9cole_des_sciences_philosophiques_et_religieuses>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Pierre_Madaule	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jean-Luc_Marion	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	<http://fr.dbpedia.org/property/influenc\u00E9Par>	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Bernard_Stiegler	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:doctoralAdvisor	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Droit_de_la_guerre	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Victor_Cousin	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Simone_Benmussa	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Fethi_Benslama	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Grenade_(fruit)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/H\u00E9l\u00E9_B\u00E9ji>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Mustapha_Tlili	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Naissance_en_1930	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Pierre_Boutang	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Vivre_sans_temps_mort,_jouir_sans_entraves>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Lexique_de_Martin_Heidegger	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Ernest_Pignon-Ernest	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Henri_Meschonnic	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Gaston_Bachelard	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Francis_Ponge	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jan_Hus	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u0152uvre_de_Friedrich_Nietzsche>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:influenced	dbpedia-fr:Jacques_Derrida ;
+	<http://fr.dbpedia.org/property/aInfluenc\u00E9>	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Peter_Sloterdijk	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	<http://fr.dbpedia.org/property/influenc\u00E9Par>	dbpedia-fr:Jacques_Derrida ;
+	dbo:influencedBy	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Bien-\u00EAtre_animal>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Tim\u00E9e_(Platon)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	prop-fr:auteur	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Diff\u00E9rence>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Cat\u00E9gories_(Aristote)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	prop-fr:auteur	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Max_Loreau	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Dominique_Lecourt	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Luc_Ferry	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Digraphe_(revue)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Giorgio_Agamben	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Max_Stirner	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:influenced	dbpedia-fr:Jacques_Derrida ;
+	<http://fr.dbpedia.org/property/aInfluenc\u00E9>	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Aur\u00E9lien_Barrau>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Litt\u00E9rature_de_la_Shoah>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Judith_Butler	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	<http://fr.dbpedia.org/property/influenc\u00E9Par>	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Teresa_de_Lauretis	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Cl\u00E9ment_Rosset>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Robert_Harvey	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Denis_Gu\u00E9noun>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Philippe_Lacoue-Labarthe	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jean-Michel_Salanskis	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Jean_Cavaill\u00E8s>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Jardin_d\u0027essai_du_Hamma>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9ditions_Galil\u00E9e>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Politiquement_correct	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/H\u00E9l\u00E8ne_Cixous>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/L\u00E9gationville>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Histoire_de_la_philosophie_en_Occident	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Alain_Jugnon	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Liste_de_philosophes_fran\u00E7ais>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Lignes	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Beno\u00EEt_Peeters>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Figuration_narrative	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Mohamed_Kacimi	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Chantal_Mouffe	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Ernesto_Laclau	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Andr\u00E9_Comte-Sponville>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Arthur_Cohen	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Mireille_Calle-Gruber	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Philippe_Collin_(r\u00E9alisateur)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Edward_Sa\u00EFd>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	<http://fr.dbpedia.org/property/influenc\u00E9Par>	dbpedia-fr:Jacques_Derrida ;
+	dbo:influencedBy	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Antoine_Spire	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Biblioth\u00E8que_des_voix>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Po\u00E9tique_(Aristote)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Les_Grandes_Esp\u00E9rances>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Nicole_Hiss	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Elizabeth_Barrett_Browning	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jean_Beaufret	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Essai_sur_l\u0027origine_des_langues>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/D\u00E9c\u00E8s_en_2004>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/D\u00E9c\u00E8s_en_octobre_2004>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Bruno_Pinchard	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Rengaine	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jean-Michel_Olivier	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/La_Maison_fran\u00E7aise_(Universit\u00E9_de_New_York)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Bullshit	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Bibliographie_sur_l\u0027\u0153uvre_de_Martin_Heidegger>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Spectres_de_Marx	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:author	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Cat\u00E9gorie:\u0152uvre_de_Jacques_Derrida>	dbo:mainArticleForCategory	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Werner_Hamacher	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Hantologie	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:creator	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Gilbert_Hottois	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Homi_Bhabha	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Psychologie_romantique	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Logocentrisme	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Michel_Mossessian	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9velyne_Grossman>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Heidegger_et_Aristote	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/La_V\u00E9rit\u00E9_en_peinture>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	prop-fr:auteur	dbpedia-fr:Jacques_Derrida ;
+	dbo:author	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Liste_des_\u0153uvres_d\u0027Emmanuel_Kant>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Protection_de_la_nature_et_des_animaux_sous_le_Troisi\u00E8me_Reich>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Zhang_Ning_(universitaire)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9tudes_animales>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Max_Gen\u00E8ve>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/J\u00E9r\u00F4me_L\u00E8bre>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:France	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jean-Philippe_Cazier	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Sigmund_Freud	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/L\u0027Herne>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Simon_Hanta\u00EF>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Maurice_Blanchot	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	prop-fr:auteur	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Bernard_No\u00EBl>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Gabriel_Bounoure	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9ditions_du_Seuil>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Assimilation_culturelle	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Religion	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Histoire_de_l\u0027art>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Platon	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Marxisme	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Philosophie_du_langage	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Barbara_Cassin	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbpedia-fr:Jacques_Derrida	rdf:type	dbo:Species .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbpedia-fr:Jacques_Derrida	rdf:type	wikidata:Q4964182 ,
+		wikidata:Q5 ,
+		dbo:Eukaryote ,
+		dbo:Animal .
+@prefix ns5:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia-fr:Jacques_Derrida	rdf:type	ns5:NaturalPerson ,
+		wikidata:Q729 .
+@prefix schema:	<http://schema.org/> .
+dbpedia-fr:Jacques_Derrida	rdf:type	schema:Person ,
+		wikidata:Q215627 ,
+		wikidata:Q19088 ,
+		dbo:Person ,
+		dbo:Philosopher .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbpedia-fr:Jacques_Derrida	rdf:type	owl:Thing ,
+		dbo:frResource .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbpedia-fr:Jacques_Derrida	rdf:type	foaf:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia-fr:Jacques_Derrida	rdfs:label	"Jacques Derrida"@fr ;
+	rdfs:comment	"Jacques Derrida (de son vrai nom Jackie Derrida) est un philosophe fran\u00E7ais n\u00E9 le 15 juillet 1930 \u00E0 El Biar (Alg\u00E9rie fran\u00E7aise) et mort le 9 octobre 2004 \u00E0 Paris. Professeur \u00E0 l'\u00C9cole normale sup\u00E9rieure entre 1965 et 1984, puis directeur d'\u00E9tudes \u00E0 l'\u00C9cole des hautes \u00E9tudes en sciences sociales, il a cr\u00E9\u00E9 et d\u00E9velopp\u00E9 l'\u00E9cole de pens\u00E9e autour du d\u00E9constructionnisme. Dans la lign\u00E9e de Heidegger, Derrida remet en question la ph\u00E9nom\u00E9nologie et la m\u00E9taphysique traditionnelle et introduit une nouvelle mani\u00E8re de penser les sciences humaines."@fr ;
+	rdfs:seeAlso	<http://www.dbnl.org/auteurs/auteur.php?id=derr001> ,
+		<http://www.eleven.co.il/article/11409> ,
+		<http://esu.com.ua/search_articles.php?id=26283> ,
+		<https://www.goodreads.com/author/show/4132> .
+@prefix ns10:	<http://philpapers.org/browse/> .
+dbpedia-fr:Jacques_Derrida	rdfs:seeAlso	ns10:derrida-writing-and-difference ,
+		ns10:jacques-derrida ,
+		<https://viaf.org/processed/DBC%7C87097968249716> ,
+		<https://viaf.org/processed/EGAXA%7Cvtlsvtls000969579> ,
+		<http://nla.gov.au/nla.party-924295> .
+@prefix ns11:	<http://plato.stanford.edu/entries/> .
+dbpedia-fr:Jacques_Derrida	rdfs:seeAlso	ns11:derrida ,
+		<http://runeberg.org/authors/derrijac.html> .
+@prefix ns12:	<http://www.treccani.it/enciclopedia/> .
+dbpedia-fr:Jacques_Derrida	rdfs:seeAlso	ns12:jacques-derrida ,
+		<http://www.treccani.it/enciclopedia/jacques-derrida_(Enciclopedia-Italiana)/> ,
+		<http://www.enciclopedia.cat/EC-GEC-0022065.xml> .
+@prefix ns13:	<https://www.britannica.com/biography/> .
+dbpedia-fr:Jacques_Derrida	rdfs:seeAlso	ns13:Jacques-Derrida ,
+		<https://www.collectionscanada.gc.ca/canadiana-authorities/index/view?index_name=cdnAutNbr&search_text=0014A4990&page=1&cdnAutNbr=0014A4990> .
+@prefix ns14:	<http://www.universalis.fr/encyclopedie/> .
+dbpedia-fr:Jacques_Derrida	rdfs:seeAlso	ns14:jacques-derrida ,
+		<http://catalogo.bn.gov.ar/F/?func=direct&doc_number=000022825&local_base=BNA10> ,
+		<http://www.biblionet.gr/author/3263> .
+@prefix ns15:	<http://www.imdb.com/Name?> .
+dbpedia-fr:Jacques_Derrida	rdfs:seeAlso	ns15:nm1104986 ,
+		<http://data.rero.ch/02-A003171083> ,
+		<http://catalogo.share-cat.unina.it/sharecat/searchNames?n_cluster_id=139765> ,
+		<http://isni.org/isni/0000_0001_2142_9146> .
+@prefix ns16:	<http://www.bib.ub.edu/fileadmin/autoritats/permanent/> .
+dbpedia-fr:Jacques_Derrida	rdfs:seeAlso	ns16:a1270672 ,
+		<https://www.rechercheisidore.fr/search/?author=derrida_jacques> .
+@prefix ns17:	<https://itunes.apple.com/us/artist/> .
+dbpedia-fr:Jacques_Derrida	rdfs:seeAlso	ns17:id179200669 ,
+		<https://lira.lanet.lv/F?func=direct&local_base=lnc10&doc_number=000016366> .
+@prefix ns18:	<http://www.cultureelwoordenboek.nl/filosofie/> .
+dbpedia-fr:Jacques_Derrida	rdfs:seeAlso	ns18:jacques-derrida ,
+		<http://www.cobiss.si/scripts/cobiss?command=DISPLAY&base=CONOR&rid=7378019> ,
+		<http://www.perlentaucher.de/autor/jacques-derrida.html> ,
+		<https://openlibrary.org/subjects/person:jacques_derrida_(1930-2004)> ,
+		<http://www.munzinger.de/search/go/document.jsp?id=00000020857> ,
+		<http://nla.gov.au/anbd.aut-an35357803> ,
+		<http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=9580205> ,
+		<https://www.babelio.com/auteur/-/4199> ,
+		<https://scholar.google.com/citations?user=0A_lO2UAAAAJ> ,
+		<http://purl.org/pressemappe20/folder/pe/003900> .
+@prefix ns19:	<http://ci.nii.ac.jp/author/> .
+dbpedia-fr:Jacques_Derrida	rdfs:seeAlso	ns19:DA00404236 .
+@prefix ns20:	<http://snaccooperative.org/ark:/99166/> .
+dbpedia-fr:Jacques_Derrida	rdfs:seeAlso	ns20:w6p84tvf .
+@prefix ns21:	<https://commons.wikimedia.org/wiki/Category:> .
+dbpedia-fr:Jacques_Derrida	rdfs:seeAlso	ns21:Jacques_Derrida ,
+		<https://bigenc.ru/text/1949079> ,
+		<http://urn.bn.pt/nca/unimarc-authorities/txt?id=39470> .
+@prefix ns22:	<http://cantic.bnc.cat/registres/CUCId/> .
+dbpedia-fr:Jacques_Derrida	rdfs:seeAlso	ns22:a10073462 ,
+		<http://www.nndb.com/people/033/000028946/> .
+@prefix ns23:	<https://www.ne.se/uppslagsverk/encyklopedi/l\u00E5ng/> .
+dbpedia-fr:Jacques_Derrida	rdfs:seeAlso	ns23:jacques-derrida ,
+		<https://bookbrainz.org/creator/3e2ca216-f34b-4515-b0cc-a9ea42f65d7d> ,
+		<http://katalog.nsk.hr/F/?func=direct&doc_number=000001552&local_base=nsk10> ,
+		<http://genealogy.math.ndsu.nodak.edu/id.php?id=221124> ,
+		<https://dialnet.unirioja.es/servlet/autor?codigo=173105> .
+@prefix ns24:	<https://www.unz.org/Author/> .
+dbpedia-fr:Jacques_Derrida	rdfs:seeAlso	ns24:DerridaJacques ,
+		<http://academictree.org/chemistry/peopleinfo.php?pid=7822> ,
+		<http://aleph.nli.org.il/F/?func=find-b&local_base=NNL10&find_code=SYS&con_lng=eng&request=000038661> .
+@prefix ns25:	<https://snl.no/> .
+dbpedia-fr:Jacques_Derrida	rdfs:seeAlso	ns25:Jacques_Derrida ,
+		<http://mak.bn.org.pl/cgi-bin/KHW/makwww.exe?BM=01&IM=04&NU=01&WI=A11786413> ,
+		<http://rkd.nl/explore/artists/446969> .
+@prefix ns26:	<http://aut.nkp.cz/> .
+dbpedia-fr:Jacques_Derrida	rdfs:seeAlso	ns26:jn19990001723 ,
+		<http://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Derrida,_Jacques> ,
+		<http://catalogo.share-cat.unina.it/sharecat/searchNames?n_cluster_id=540869> ,
+		<https://inpho.cogs.indiana.edu/idea/thinker/2903.html> ,
+		<https://www.discogs.com/artist/239969> .
+@prefix ns27:	<https://philpapers.org/s/> .
+dbpedia-fr:Jacques_Derrida	rdfs:seeAlso	ns27:Jacques_Derrida ;
+	owl:sameAs	<http://bn.dbpedia.org/resource/\u099C\u09BE\u0995_\u09A6\u09C7\u09B0\u09BF\u09A6\u09BE> .
+@prefix ns28:	<http://data.nlg.gr/resource/authority/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	ns28:record64708 ,
+		<http://kk.dbpedia.org/resource/\u0416\u0430\u043A_\u0414\u0435\u0440\u0440\u0438\u0434\u0430> .
+@prefix ns29:	<https://data.bibliotheken.nl/doc/thes/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	ns29:p068900600 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-nl:Jacques_Derrida ,
+		<http://data.europeana.eu/agent/base/145392> .
+@prefix ns31:	<http://openlibrary.org/works/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	ns31:OL23065A .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbr:Jacques_Derrida ,
+		<http://ka.dbpedia.org/resource/\u10DF\u10D0\u10D9_\u10D3\u10D4\u10E0\u10D8\u10D3\u10D0> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-pt:Jacques_Derrida .
+@prefix ns34:	<http://data.bnf.fr/ark:/12148/cb11899710z#> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	ns34:about .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-eu:Jacques_Derrida .
+@prefix ns36:	<http://jv.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	ns36:Jacques_Derrida ,
+		<http://ru.dbpedia.org/resource/\u0414\u0435\u0440\u0440\u0438\u0434\u0430,_\u0416\u0430\u043A> .
+@prefix ns37:	<http://lod.nl.go.kr/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	ns37:KAC199606951 .
+@prefix dbpedia-nn:	<http://nn.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-nn:Jacques_Derrida ,
+		<http://uk.dbpedia.org/resource/\u0416\u0430\u043A_\u0414\u0435\u0440\u0440\u0456\u0434\u0430> ,
+		<https://d-nb.info/gnd/118677888> .
+@prefix ns39:	<http://www.idref.fr/027287130/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	ns39:id ,
+		<http://zh.dbpedia.org/resource/\u96C5\u514B\u00B7\u5FB7\u91CC\u8FBE> ,
+		<http://ko.dbpedia.org/resource/\uC790\uD06C_\uB370\uB9AC\uB2E4> .
+@prefix dbpedia-et:	<http://et.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-et:Jacques_Derrida .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-de:Jacques_Derrida .
+@prefix dbpedia-ro:	<http://ro.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-ro:Jacques_Derrida .
+@prefix ns43:	<http://globalwordnet.org/ili/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	ns43:i94904 .
+@prefix dbpedia-hr:	<http://hr.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-hr:Jacques_Derrida .
+@prefix ns45:	<https://id.loc.gov/authorities/names/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	ns45:n79092610 .
+@prefix ns46:	<http://qu.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	ns46:Jacques_Derrida .
+@prefix dbpedia-tr:	<http://tr.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-tr:Jacques_Derrida .
+@prefix dbpedia-az:	<http://az.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-az:Jak_Derrida ,
+		<http://ar.dbpedia.org/resource/\u062C\u0627\u0643_\u062F\u0631\u064A\u062F\u0627> ,
+		<http://pa.dbpedia.org/resource/\u0A2F\u0A3E\u0A15_\u0A26\u0A47\u0A30\u0A40\u0A26\u0A3E> .
+@prefix ns49:	<http://ast.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	ns49:Jacques_Derrida .
+@prefix dbpedia-oc:	<http://oc.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-oc:Jacques_Derrida .
+@prefix ns51:	<http://mg.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	ns51:Jacques_Derrida ,
+		<http://lv.dbpedia.org/resource/\u017Daks_Derid\u0101> ,
+		<http://hi.dbpedia.org/resource/\u091C\u093C\u093E\u0915_\u0926\u0947\u0930\u093F\u0926\u093E> ,
+		<http://ur.dbpedia.org/resource/\u0698\u0627\u06A9_\u062F\u0631\u06CC\u062F\u0627> ,
+		<http://ta.dbpedia.org/resource/\u0B9C\u0BBE\u0B95\u0BCD\u0B95\u0BB8\u0BCD_\u0BA4\u0BC6\u0BB0\u0BBF\u0BA4\u0BBE> ,
+		<http://be.dbpedia.org/resource/\u0416\u0430\u043A_\u0414\u044D\u0440\u044B\u0434\u0430> .
+@prefix dbpedia-eo:	<http://eo.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-eo:Jacques_Derrida .
+@prefix dbpedia-sk:	<http://sk.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-sk:Jacques_Derrida ,
+		<http://vocab.getty.edu/ulan/500045861> .
+@prefix ns54:	<http://ia.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	ns54:Jacques_Derrida .
+@prefix ns55:	<http://lt.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	ns55:Jacques_Derrida .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-simple:Jacques_Derrida .
+@prefix ns57:	<http://datos.bne.es/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	ns57:XX1130306 ,
+		<http://arz.dbpedia.org/resource/\u062C\u0627\u0643_\u062F\u0631\u064A\u062F\u0627> .
+@prefix dbpedia-cs:	<http://cs.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-cs:Jacques_Derrida .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-no:Jacques_Derrida ,
+		<http://el.dbpedia.org/resource/\u0396\u03B1\u03BA_\u039D\u03C4\u03B5\u03C1\u03B9\u03BD\u03C4\u03AC> ,
+		<https://livedata.bibsys.no/authority/90061882> .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-la:Iacobus_Derrida .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-wikidata:Q130631 .
+@prefix ns62:	<http://rvk.uni-regensburg.de/nt/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	ns62:IH_34380 .
+@prefix dbpedia-sh:	<http://sh.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-sh:Jacques_Derrida .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-fi:Jacques_Derrida .
+@prefix ns65:	<https://libris.kb.se/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	ns65:hftwwt414hrjfk0 ,
+		<http://id.worldcat.org/fast/41147> .
+@prefix dbpedia-hu:	<http://hu.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-hu:Jacques_Derrida .
+@prefix dbpedia-vi:	<http://vi.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-vi:Jacques_Derrida .
+@prefix ns68:	<http://sco.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	ns68:Jacques_Derrida .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-da:Jacques_Derrida .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-es:Jacques_Derrida ,
+		<http://fa.dbpedia.org/resource/\u0698\u0627\u06A9_\u062F\u0631\u06CC\u062F\u0627> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-it:Jacques_Derrida .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-pl:Jacques_Derrida ,
+		dbpedia-fr:Jacques_Derrida .
+@prefix dbpedia-cy:	<http://cy.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-cy:Jacques_Derrida ,
+		<http://wuu.dbpedia.org/resource/\u96C5\u514B\u00B7\u5FB7\u91CC\u8FBE> ,
+		<http://he.dbpedia.org/resource/\u05D6\u0027\u05D0\u05E7_\u05D3\u05E8\u05D9\u05D3\u05D4> ,
+		<http://libris.kb.se/resource/auth/183691> ,
+		<http://g.co/kg/m/0dzkq> .
+@prefix dbpedia-is:	<http://is.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-is:Jacques_Derrida ,
+		<http://sr.dbpedia.org/resource/\u0416\u0430\u043A_\u0414\u0435\u0440\u0438\u0434\u0430> ,
+		<http://catalogo.pusc.it/auth/22417> ,
+		<http://data.cervantesvirtual.com/person/8327> ,
+		<http://bg.dbpedia.org/resource/\u0416\u0430\u043A_\u0414\u0435\u0440\u0438\u0434\u0430> .
+@prefix dbpedia-war:	<http://war.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-war:Jacques_Derrida ,
+		<http://ml.dbpedia.org/resource/\u0D34\u0D3E\u0D15\u0D4D\u0D15\u0D4D_\u0D26\u0D46\u0D31\u0D3F\u0D26> .
+@prefix dbpedia-io:	<http://io.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-io:Jacques_Derrida ,
+		<http://mk.dbpedia.org/resource/\u0416\u0430\u043A_\u0414\u0435\u0440\u0438\u0434\u0430> .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-ca:Jacques_Derrida .
+@prefix dbpedia-gl:	<http://gl.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-gl:Jacques_Derrida .
+@prefix dbpedia-sl:	<http://sl.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-sl:Jacques_Derrida .
+@prefix dbpedia-ga:	<http://ga.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-ga:Jacques_Derrida .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-id:Jacques_Derrida .
+@prefix ns82:	<http://musicbrainz.org/artist/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	ns82:bf957c94-776f-449a-a4f7-2b37f7fd9a89 ,
+		<http://ja.dbpedia.org/resource/\u30B8\u30E3\u30C3\u30AF\u30FB\u30C7\u30EA\u30C0> ,
+		<http://id.ndl.go.jp/auth/ndlna/00437722> .
+@prefix dbpedia-fy:	<http://fy.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-fy:Jacques_Derrida .
+@prefix dbpedia-pms:	<http://pms.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-pms:Jacques_Derrida .
+@prefix dbpedia-af:	<http://af.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-af:Jacques_Derrida ,
+		<http://viaf.org/viaf/88958529> ,
+		<http://data.persee.fr/person/141156> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbpedia-fr:Jacques_Derrida	owl:sameAs	dbpedia-sv:Jacques_Derrida ,
+		<http://hy.dbpedia.org/resource/\u053A\u0561\u056F_\u0534\u0565\u0580\u056B\u0564\u0561> ;
+	foaf:name	"Jacques Derrida"@fr ,
+		""@fr .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbpedia-fr:Jacques_Derrida	dct:subject	<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Personnalit\u00E9_oppos\u00E9e_\u00E0_la_corrida> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Agr\u00E9g\u00E9_de_philosophie> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Professeur_\u00E0_la_facult\u00E9_des_lettres_de_Paris> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:D\u00E9c\u00E8s_en_octobre_2004> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Philosophe_fran\u00E7ais_du_XXe_si\u00E8cle> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Mort_d\u0027un_cancer_du_pancr\u00E9as> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Enseignant_\u00E0_l\u0027\u00C9cole_normale_sup\u00E9rieure> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Mort_d\u0027un_cancer_en_France> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Personnalit\u00E9_pied-noire> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:D\u00E9c\u00E8s_dans_le_5e_arrondissement_de_Paris> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:\u00C9l\u00E8ve_de_l\u0027\u00C9cole_normale_sup\u00E9rieure> .
+@prefix category-fr:	<http://fr.dbpedia.org/resource/Cat\u00E9gorie:> .
+dbpedia-fr:Jacques_Derrida	dct:subject	category-fr:Jacques_Derrida ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Personnalit\u00E9_inhum\u00E9e_au_cimeti\u00E8re_de_Ris-Orangis> ,
+		category-fr:Philosophe_des_animaux ,
+		category-fr:Philosophie_postmoderne_en_France ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Philosophe_de_l\u0027esth\u00E9tique> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Naissance_en_Alg\u00E9rie_fran\u00E7aise> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:D\u00E9c\u00E8s_\u00E0_74_ans> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:\u00C9rudit_en_traduction> ,
+		category-fr:Adversaire_de_la_peine_de_mort ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Enseignant_\u00E0_l\u0027\u00C9cole_des_hautes_\u00E9tudes_en_sciences_sociales> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Ph\u00E9nom\u00E9nologue> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:\u00C9tudiant_de_la_facult\u00E9_des_lettres_de_Paris> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:\u00C9crivain_et_philosophe_du_droit_des_animaux> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Naissance_\u00E0_El_Biar> ,
+		category-fr:Naissance_en_juillet_1930 ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Auteur_ayant_\u00E9crit_sur_Martin_Heidegger> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Philosophe_politique_du_XXe_si\u00E8cle> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Docteur_de_l\u0027universit\u00E9_Paris_I_Panth\u00E9on-Sorbonne> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:\u00C9l\u00E8ve_du_lyc\u00E9e_Louis-le-Grand> ;
+	dbo:deathPlace	dbpedia-fr:France ,
+		<http://fr.dbpedia.org/resource/5e_arrondissement_de_Paris> ;
+	dbo:birthPlace	dbpedia-fr:Alger ,
+		dbpedia-fr:El_Biar ;
+	dbo:wikiPageID	1633 ;
+	dbo:wikiPageRevisionID	190416818 ;
+	dbo:wikiPageWikiLink	dbpedia-fr:Jean-Luc_Nancy ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:D\u00E9c\u00E8s_en_octobre_2004> ,
+		dbpedia-fr:Mikel_Dufrenne ,
+		dbpedia-fr:Kirby_Dick ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Enseignant_\u00E0_l\u0027\u00C9cole_normale_sup\u00E9rieure> ,
+		<http://fr.dbpedia.org/resource/Hermann_(\u00E9ditions)> ,
+		<http://fr.dbpedia.org/resource/Ontologie_(philosophie)> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Philosophe_de_l\u0027esth\u00E9tique> ,
+		<http://fr.dbpedia.org/resource/Histoire_de_la_folie_\u00E0_l\u0027\u00E2ge_classique> ,
+		dbpedia-fr:Plotin ,
+		<http://fr.dbpedia.org/resource/S\u00E9farades> ,
+		<http://fr.dbpedia.org/resource/\u00C9lisabeth_Roudinesco> ,
+		<http://fr.dbpedia.org/resource/1992> ,
+		dbpedia-fr:Sport ,
+		<http://fr.dbpedia.org/resource/Revue_de_m\u00E9taphysique_et_de_morale> ,
+		dbpedia-fr:Bullshit ,
+		<http://fr.dbpedia.org/resource/Universit\u00E9_Panth\u00E9on-Sorbonne> ,
+		dbpedia-fr:Nathalie_Sarraute ,
+		dbpedia-fr:Alan_Sokal ,
+		dbpedia-fr:Presses_universitaires_de_France ,
+		dbpedia-fr:Jean_Bricmont ,
+		<http://fr.dbpedia.org/resource/\u00C9ditions_Galil\u00E9e> ,
+		<http://fr.dbpedia.org/resource/Universit\u00E9_Harvard> ,
+		dbpedia-fr:Gayatri_Chakravorty_Spivak ,
+		<http://fr.dbpedia.org/resource/John_D._Caputo> ,
+		dbpedia-fr:Daniel_Bougnoux ,
+		dbpedia-fr:Alger ,
+		<http://fr.dbpedia.org/resource/\u00C9tats-Unis> ,
+		dbpedia-fr:Lucien_Bianco ,
+		<http://fr.dbpedia.org/resource/D\u00E9construction_(analyse_de_texte)> ,
+		<http://fr.dbpedia.org/resource/Jean_Cavaill\u00E8s> ,
+		dbpedia-fr:Judith_Butler ,
+		<http://fr.dbpedia.org/resource/F\u00E9minisme> ,
+		dbpedia-fr:Jean-Louis_Hue ,
+		<http://fr.dbpedia.org/resource/Lyc\u00E9e_\u00C9mir-Abdelkader> ,
+		<http://fr.dbpedia.org/resource/\u00C9ditions_du_Seuil> ,
+		<http://fr.dbpedia.org/resource/1952> ,
+		<http://fr.dbpedia.org/resource/D\u00E9cret_Cr\u00E9mieux> ,
+		dbpedia-fr:Afrique_du_Sud ,
+		<http://fr.dbpedia.org/resource/Alg\u00E9rie> ,
+		dbpedia-fr:Cambridge_University_Press ,
+		dbpedia-fr:Danielle_Cohen-Levinas ,
+		<http://fr.dbpedia.org/resource/2000> ,
+		dbpedia-fr:Jean-Toussaint_Desanti ,
+		<http://fr.dbpedia.org/resource/2014> ,
+		<http://fr.dbpedia.org/resource/Taylor_&_Francis> ,
+		<http://fr.dbpedia.org/resource/\u00C9ditions_Ellipses> ,
+		dbpedia-fr:Conscience ,
+		dbpedia-fr:Espace_analytique ,
+		dbpedia-fr:Francis_Ponge ,
+		dbpedia-fr:Olivier_Douville ,
+		dbpedia-fr:Inconscient ,
+		<http://fr.dbpedia.org/resource/1971> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Naissance_en_Alg\u00E9rie_fran\u00E7aise> ,
+		dbpedia-fr:Sigmund_Freud ,
+		<http://fr.dbpedia.org/resource/All\u00E9e_Jacques-Derrida> ,
+		<http://fr.dbpedia.org/resource/1974> ,
+		<http://fr.dbpedia.org/resource/Bahre\u00EFn> ,
+		<http://fr.dbpedia.org/resource/1940> ,
+		<http://fr.dbpedia.org/resource/1984> ,
+		<http://fr.dbpedia.org/resource/1975> ,
+		dbpedia-fr:Peter_Sloterdijk ,
+		dbpedia-fr:El_Biar ,
+		<http://fr.dbpedia.org/resource/1949> ,
+		<http://fr.dbpedia.org/resource/1959> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Naissance_\u00E0_El_Biar> ,
+		dbpedia-fr:Rationalisme ,
+		<http://fr.dbpedia.org/resource/Universit\u00E9_de_Californie_\u00E0_Irvine> ,
+		dbpedia-fr:Eschatologie ,
+		<http://fr.dbpedia.org/resource/Coll\u00E8ge_de_France> ,
+		<http://fr.dbpedia.org/resource/1967> ,
+		dbpedia-fr:Maurice_Blanchot ,
+		<http://fr.dbpedia.org/resource/1982> ,
+		dbpedia-fr:Gabriel_Bounoure ,
+		<http://fr.dbpedia.org/resource/Lyc\u00E9e_Louis-le-Grand> ,
+		<http://fr.dbpedia.org/resource/1980> ,
+		<http://fr.dbpedia.org/resource/Ma\u00EEtre-assistant> ,
+		<http://fr.dbpedia.org/resource/Universit\u00E9_Cornell> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Personnalit\u00E9_pied-noire> ,
+		<http://fr.dbpedia.org/resource/1997> ,
+		<http://fr.dbpedia.org/resource/St\u00E9phane_Sangral> ,
+		<http://fr.dbpedia.org/resource/Lexique_de_ph\u00E9nom\u00E9nologie> ,
+		dbpedia-fr:Catherine_Malabou ,
+		<http://fr.dbpedia.org/resource/\u00C9tudes_fran\u00E7aises> ,
+		dbpedia-fr:Platon ,
+		<http://fr.dbpedia.org/resource/Colette_Debl\u00E9> ,
+		<http://fr.dbpedia.org/resource/Ren\u00E9_Major> ,
+		<http://fr.dbpedia.org/resource/Id\u00E9al_du_Moi_-_Moi_id\u00E9al> ,
+		<http://fr.dbpedia.org/resource/Th\u00E9orie_de_la_litt\u00E9rature> ,
+		<http://fr.dbpedia.org/resource/1978> ,
+		<http://fr.dbpedia.org/resource/1983> ,
+		<http://fr.dbpedia.org/resource/St\u00E9phane_Mallarm\u00E9> ,
+		<http://fr.dbpedia.org/resource/\u00C9thique> ,
+		dbpedia-fr:John_Searle ,
+		dbpedia-fr:Richard_Rorty ,
+		dbpedia-fr:Isabelle_Alfandary ,
+		dbpedia-fr:Georg_Wilhelm_Friedrich_Hegel ,
+		<http://fr.dbpedia.org/resource/Coll\u00E8ge_international_de_philosophie> ,
+		dbpedia-fr:Jacques_Derrida ,
+		<http://fr.dbpedia.org/resource/Esth\u00E9tique> ,
+		<http://fr.dbpedia.org/resource/Jean-Fran\u00E7ois_Courtine> ,
+		dbpedia-fr:Hans-Georg_Gadamer ,
+		<http://fr.dbpedia.org/resource/Andr\u00E9_Gide> ,
+		<http://fr.dbpedia.org/resource/1957> ,
+		<http://fr.dbpedia.org/resource/Fran\u00E7oise_Dolto> ,
+		<http://fr.dbpedia.org/resource/Hospitalit\u00E9> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Docteur_de_l\u0027universit\u00E9_Paris_I_Panth\u00E9on-Sorbonne> ,
+		<http://fr.dbpedia.org/resource/D\u00E9construction_(Heidegger)> ,
+		<http://fr.dbpedia.org/resource/1986> ,
+		dbpedia-fr:Norbert_Elias ,
+		dbpedia-fr:Livre_audio ,
+		dbpedia-fr:Philosophie_analytique ,
+		dbpedia-fr:John_Langshaw_Austin ,
+		dbpedia-fr:Acte_de_langage ,
+		dbpedia-fr:Jacob_Rogozinski ,
+		dbpedia-fr:Lionel_Jospin ,
+		dbpedia-fr:Sociologue ,
+		<http://fr.dbpedia.org/resource/Francis_Wolff_(philosophe)> ,
+		dbpedia-fr:Robert_Antelme ,
+		dbpedia-fr:Karl_Marx ,
+		dbpedia-fr:Michel_Wieviorka ,
+		dbpedia-fr:Groupe_Flammarion ,
+		<http://fr.dbpedia.org/resource/\u00C9criture> ,
+		dbpedia-fr:Philosophe ,
+		dbpedia-fr:Woody_Allen ,
+		dbpedia-fr:Jean_Birnbaum ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Mort_d\u0027un_cancer_en_France> ,
+		<http://fr.dbpedia.org/resource/\u00C9ditions_Lignes> ,
+		dbpedia-fr:Jean-Paul_Sartre ,
+		<http://fr.dbpedia.org/resource/Les_\u00C9ditions_de_minuit> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Professeur_\u00E0_la_facult\u00E9_des_lettres_de_Paris> ,
+		dbpedia-fr:Cerisy-la-Salle ,
+		dbpedia-fr:Philippe_Lacoue-Labarthe ,
+		dbpedia-fr:Jean_Genet ,
+		<http://fr.dbpedia.org/resource/Critique_(revue)> ,
+		dbpedia-fr:Sorbonne ,
+		dbpedia-fr:Prague ,
+		dbpedia-fr:Jean_Danet ,
+		dbpedia-fr:Albert_Camus ,
+		dbpedia-fr:Simone_de_Beauvoir ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Philosophe_politique_du_XXe_si\u00E8cle> ,
+		dbpedia-fr:Centre_national_du_livre ,
+		category-fr:Philosophie_postmoderne_en_France ,
+		dbpedia-fr:Daniel_Giovannangeli ,
+		dbpedia-fr:Jean_Starobinski ,
+		<http://fr.dbpedia.org/resource/Alice_Saunier-Se\u00EFt\u00E9> ,
+		<http://fr.dbpedia.org/resource/Universit\u00E9_Paris-VIII> ,
+		dbpedia-fr:Mai_1968 ,
+		<http://fr.dbpedia.org/resource/Le_\u00AB_Concept_\u00BB_du_11_septembre> ,
+		<http://fr.dbpedia.org/resource/Marc_Cr\u00E9pon> ,
+		dbpedia-fr:Raphael_Zagury-Orly ,
+		dbpedia-fr:Jean-Pierre_Vernant ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:D\u00E9c\u00E8s_dans_le_5e_arrondissement_de_Paris> ,
+		dbpedia-fr:University_of_Chicago_Press ,
+		<http://fr.dbpedia.org/resource/Fran\u00E7ois_Soulages> ,
+		dbpedia-fr:Psychanalyse ,
+		dbpedia-fr:Willard_Van_Orman_Quine ,
+		<http://fr.dbpedia.org/resource/Fred_Poch\u00E9> ,
+		dbpedia-fr:Joseph_Cohen ,
+		<http://fr.dbpedia.org/resource/Moi_(psychanalyse)> ,
+		<http://fr.dbpedia.org/resource/Les_Lettres_fran\u00E7aises> ,
+		dbpedia-fr:Surmoi ,
+		dbpedia-fr:Ris-Orangis ,
+		dbpedia-fr:Loi_Haby ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Auteur_ayant_\u00E9crit_sur_Martin_Heidegger> ,
+		dbpedia-fr:Martin_Heidegger ,
+		dbpedia-fr:Edmund_Husserl ,
+		category-fr:Adversaire_de_la_peine_de_mort ,
+		<http://fr.dbpedia.org/resource/Harry_dans_tous_ses_\u00E9tats> ,
+		<http://fr.dbpedia.org/resource/Biblioth\u00E8que_des_voix> ,
+		dbpedia-fr:Avital_Ronell ,
+		dbpedia-fr:Ferdinand_de_Saussure ,
+		dbpedia-fr:Pierre_Klossowski ,
+		<http://fr.dbpedia.org/resource/Digraphe_(revue)> ,
+		dbpedia-fr:Anna-Teresa_Tymieniecka ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:\u00C9rudit_en_traduction> ,
+		<http://fr.dbpedia.org/resource/Aur\u00E9lien_Barrau> ,
+		category-fr:Naissance_en_juillet_1930 ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:\u00C9tudiant_de_la_facult\u00E9_des_lettres_de_Paris> ,
+		<http://fr.dbpedia.org/resource/Facult\u00E9_des_lettres_de_Paris> ,
+		dbpedia-fr:Virginie_Linhart ,
+		<http://fr.dbpedia.org/resource/M\u00E9tapsychologie> ,
+		<http://fr.dbpedia.org/resource/Lyc\u00E9e_Montesquieu> ,
+		<http://fr.dbpedia.org/resource/Marc_Guillaume_(\u00E9conomiste)> ,
+		<http://fr.dbpedia.org/resource/\u00C7a_(psychanalyse)> ,
+		dbpedia-fr:Carole_Bouquet ,
+		<http://fr.dbpedia.org/resource/Andr\u00E9_Glucksmann> ,
+		dbpedia-fr:Philosophie_postmoderne ,
+		<http://fr.dbpedia.org/resource/Ren\u00E9_Descartes> ,
+		<http://fr.dbpedia.org/resource/Tel_Quel_(revue)> ,
+		<http://fr.dbpedia.org/resource/Beno\u00EEt_Peeters> ,
+		<http://fr.dbpedia.org/resource/Assistant_de_l\u0027enseignement_sup\u00E9rieur_en_France> ,
+		dbpedia-fr:Georges_Bataille ,
+		dbpedia-fr:Bernard_Derrida ,
+		dbpedia-fr:De_la_grammatologie ,
+		dbpedia-fr:Didier_Cahen ,
+		<http://fr.dbpedia.org/resource/Du_droit_\u00E0_la_philosophie> ,
+		category-fr:Jacques_Derrida ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Personnalit\u00E9_inhum\u00E9e_au_cimeti\u00E8re_de_Ris-Orangis> ,
+		dbpedia-fr:Pharmakos ,
+		category-fr:Philosophe_des_animaux ,
+		dbpedia-fr:Anne_Dufourmantelle ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Enseignant_\u00E0_l\u0027\u00C9cole_des_hautes_\u00E9tudes_en_sciences_sociales> ,
+		<http://fr.dbpedia.org/resource/Fichier:Chinmoy_Guha_with_Derrida.jpg> ,
+		<http://fr.dbpedia.org/resource/Fichier:Derrida_graf.JPG> ,
+		<http://fr.dbpedia.org/resource/Glas_(essai_philosophique)> ,
+		dbpedia-fr:Lecture_attentive ,
+		dbpedia-fr:Safaa_Fathy ,
+		dbpedia-fr:Manola_Antonioli ,
+		dbpedia-fr:Alain_Robbe-Grillet ,
+		dbpedia-fr:Guy_Hocquenghem ,
+		<http://fr.dbpedia.org/resource/Augustin_d\u0027Hippone> ,
+		dbpedia-fr:Phonocentrisme ,
+		<http://fr.dbpedia.org/resource/\u00C9cole_des_hautes_\u00E9tudes_en_sciences_sociales> ,
+		<http://fr.dbpedia.org/resource/Guerre_d\u0027Alg\u00E9rie> ,
+		dbpedia-fr:Peggy_Kamuf ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Personnalit\u00E9_oppos\u00E9e_\u00E0_la_corrida> ,
+		<http://fr.dbpedia.org/resource/\u00C9ditions_de_la_Diff\u00E9rence> ,
+		<http://fr.dbpedia.org/resource/Alg\u00E9rie_fran\u00E7aise> ,
+		dbpedia-fr:Jacques_Lacan ,
+		dbpedia-fr:Phallogocentrisme ,
+		<http://fr.dbpedia.org/resource/La_Voix_et_le_Ph\u00E9nom\u00E8ne> ,
+		<http://fr.dbpedia.org/resource/\u00C9cole_normale_sup\u00E9rieure_(Paris)> ,
+		<http://fr.dbpedia.org/resource/Genevi\u00E8ve_Boucher> ,
+		dbpedia-fr:Jean-Clet_Martin ,
+		<http://fr.dbpedia.org/resource/P\u00E9titions_en_France_concernant_la_majorit\u00E9_sexuelle> ,
+		<http://fr.dbpedia.org/resource/\u00C9cole_normale_sup\u00E9rieure_(France)> ,
+		<http://fr.dbpedia.org/resource/Dipl\u00F4me_national_de_licence_(France)> ,
+		<http://fr.dbpedia.org/resource/Cancer_du_pancr\u00E9as> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:\u00C9l\u00E8ve_de_l\u0027\u00C9cole_normale_sup\u00E9rieure> ,
+		dbpedia-fr:Chronique_sociale ,
+		dbpedia-fr:Amy_Ziering ,
+		dbpedia-fr:Michel_Deguy ,
+		<http://fr.dbpedia.org/resource/Universit\u00E9_Paris-Sorbonne> ,
+		<http://fr.dbpedia.org/resource/Fran\u00E7ois_Mitterrand> ,
+		<http://fr.dbpedia.org/resource/La_V\u00E9rit\u00E9_en_peinture> ,
+		<http://fr.dbpedia.org/resource/Philosophiques_(revue)> ,
+		<http://fr.dbpedia.org/resource/Fr\u00E9d\u00E9ric_Worms> ,
+		<http://fr.dbpedia.org/resource/Polys\u00E9mie> ,
+		dbpedia-fr:Louis_Althusser ,
+		<http://fr.dbpedia.org/resource/Claude_L\u00E9vi-Strauss> ,
+		dbpedia-fr:Dominique_Lecourt ,
+		dbpedia-fr:Service_militaire ,
+		dbpedia-fr:Pierre_Bourdieu ,
+		dbpedia-fr:Gabriel_Matzneff ,
+		dbpedia-fr:Pierre_Boulez ,
+		<http://fr.dbpedia.org/resource/Kh\u00E2gne> ,
+		dbpedia-fr:Censure ,
+		<http://fr.dbpedia.org/resource/M\u00E9taphysique> ,
+		<http://fr.dbpedia.org/resource/Philippe_P\u00E9tain> ,
+		dbpedia-fr:Louvain ,
+		<http://fr.dbpedia.org/resource/J\u00FCrgen_Habermas> ,
+		dbpedia-fr:Ernest_Pignon-Ernest ,
+		dbpedia-fr:Friedrich_Nietzsche ,
+		dbpedia-fr:Yves_Bonnefoy ,
+		dbpedia-fr:Jean_Hyppolite ,
+		dbpedia-fr:Sarah_Kofman ,
+		<http://fr.dbpedia.org/resource/Philippe_Forget_(germaniste)> ,
+		dbpedia-fr:Jean-Jacques_Rousseau ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:\u00C9l\u00E8ve_du_lyc\u00E9e_Louis-le-Grand> ,
+		dbpedia-fr:Marguerite_Derrida ,
+		dbpedia-fr:Archives_Husserl ,
+		<http://fr.dbpedia.org/resource/1987> ,
+		<http://fr.dbpedia.org/resource/Soci\u00E9t\u00E9_fran\u00E7aise_de_philosophie> ,
+		<http://fr.dbpedia.org/resource/Edmond_Jab\u00E8s> ,
+		<http://fr.dbpedia.org/resource/1995> ,
+		dbpedia-fr:Mireille_Calle-Gruber ,
+		dbpedia-fr:Football ,
+		dbpedia-fr:Refoulement ,
+		dbpedia-fr:Sylviane_Agacinski ,
+		dbpedia-fr:Paris ,
+		<http://fr.dbpedia.org/resource/Mario_Kopi\u0107> ,
+		<http://fr.dbpedia.org/resource/H\u00E9l\u00E8ne_Cixous> ,
+		dbpedia-fr:Angleterre ,
+		<http://fr.dbpedia.org/resource/Anthropos\u00E9miotique> ,
+		dbpedia-fr:Doctorat_honoris_causa ,
+		<http://fr.dbpedia.org/resource/B\u00E9atrice_Galinon-M\u00E9l\u00E9nec> ,
+		dbpedia-fr:Tony_Duvert ,
+		<http://fr.dbpedia.org/resource/1981> ,
+		dbpedia-fr:Antoine_Spire ,
+		dbpedia-fr:French_Theory ,
+		dbpedia-fr:Pierre_Alferi ,
+		<http://fr.dbpedia.org/resource/Universit\u00E9_Yale> ,
+		<http://fr.dbpedia.org/resource/2003> ,
+		dbpedia-fr:Logos ,
+		<http://fr.dbpedia.org/resource/Paul_Ric\u0153ur> ,
+		<http://fr.dbpedia.org/resource/1870> ,
+		<http://fr.dbpedia.org/resource/Universit\u00E9_Paris-Nanterre> ,
+		<http://fr.dbpedia.org/resource/Ginette_Michaud_(\u00E9crivain)> ,
+		<http://fr.dbpedia.org/resource/S\u00F8ren_Kierkegaard> ,
+		dbpedia-fr:Emmanuel_Levinas ,
+		dbpedia-fr:Gary_Hill ,
+		<http://fr.dbpedia.org/resource/Les_Temps_modernes_(revue)> ,
+		dbpedia-fr:France ,
+		<http://fr.dbpedia.org/resource/Calmann-L\u00E9vy> ,
+		<http://fr.dbpedia.org/resource/Commission_de_v\u00E9rit\u00E9_et_de_r\u00E9conciliation> ,
+		<http://fr.dbpedia.org/resource/5e_arrondissement_de_Paris> ,
+		dbpedia-fr:Henri_Bergson ,
+		dbpedia-fr:Spectres_de_Marx ,
+		dbpedia-fr:Tran_Duc_Thao ,
+		dbpedia-fr:Werner_Hamacher ,
+		<http://fr.dbpedia.org/resource/\u00C9ditions_Des_femmes> ,
+		dbpedia-fr:Logocentrisme ,
+		dbpedia-fr:Psychanalyste ,
+		<http://fr.dbpedia.org/resource/Universit\u00E9_de_Cambridge> ,
+		dbpedia-fr:France_Culture ,
+		dbpedia-fr:The_Times ,
+		<http://fr.dbpedia.org/resource/Ph\u00E9nom\u00E9nologie_(philosophie)> ,
+		dbpedia-fr:Barry_Smith ,
+		dbpedia-fr:Jean-Pierre_Faye ,
+		<http://fr.dbpedia.org/resource/Tch\u00E9quie> ,
+		<http://fr.dbpedia.org/resource/Fran\u00E7ois_Ch\u00E2telet_(philosophe)> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Philosophe_fran\u00E7ais_du_XXe_si\u00E8cle> ,
+		dbpedia-fr:Juifs ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:\u00C9crivain_et_philosophe_du_droit_des_animaux> ,
+		dbpedia-fr:Linguistique ,
+		dbpedia-fr:Le_Mans ,
+		<http://fr.dbpedia.org/resource/L\u0027Animal_que_donc_je_suis> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Agr\u00E9g\u00E9_de_philosophie> ,
+		<http://fr.dbpedia.org/resource/L\u0027Humanit\u00E9> ,
+		dbpedia-fr:Bernard_Stiegler ,
+		<http://fr.dbpedia.org/resource/Le_Bord_de_l\u0027eau> ,
+		dbpedia-fr:Paul_de_Man ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:D\u00E9c\u00E8s_\u00E0_74_ans> ,
+		<http://fr.dbpedia.org/resource/2002> ,
+		dbpedia-fr:Politique ,
+		dbpedia-fr:Roland_Barthes ,
+		dbpedia-fr:Aporie ,
+		<http://fr.dbpedia.org/resource/\u00C9pist\u00E9mologie> ,
+		<http://fr.dbpedia.org/resource/Ren\u00E9_Sch\u00E9rer> ,
+		dbpedia-fr:Structuralisme ,
+		dbpedia-fr:Michel_Foucault ,
+		<http://fr.dbpedia.org/resource/Louis_Marin_(philosophe)> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Mort_d\u0027un_cancer_du_pancr\u00E9as> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Ph\u00E9nom\u00E9nologue> ,
+		dbpedia-fr:Philippe_Sollers ,
+		<http://fr.dbpedia.org/resource/\u00C9tienne_Borne> ;
+	dbo:wikiPageExternalLink	<http://peccatte.karefil.com/SBPresse/LeMonde201197Derrida.html> ,
+		<http://interdisciplinarite.blogspot.fr/2011/04/controverse-lacanderrida-presentation.html> ,
+		<https://www.erudit.org/fr/revues/philoso/2020-v47-n2-philoso05822/).> ,
+		<http://www.pileface.com/sollers/IMG/pdf/Derrida_lecteur_de_Freud_et_de_Lacan_Major.pdf> ,
+		<https://www.cairn.info/revue-de-metaphysique-et-de-morale-2007-1-page-61.htm> ,
+		<http://strassdelaphilosophie.blogspot.fr/2013/10/derrida-la-verite-en-bas-de-page.html> ,
+		<https://adwhiteprofessors.cornell.edu/> ,
+		<https://www.springer.com/gp/book/9781402000669> ,
+		<http://www.sens-public.org/spip.php%3Farticle545> .
+@prefix ns89:	<http://www.sam-network.org/video/> .
+dbpedia-fr:Jacques_Derrida	dbo:wikiPageExternalLink	ns89:lire-ecrire-penser ,
+		<http://www.bernard-defrance.net/archives/artic/index.php%3Ftextesperso=70> ,
+		<http://revue-etudesfrancaises.umontreal.ca/volume-38-numero-1-2/).> ,
+		<https://orbi.uliege.be/bitstream/2268/29186/1/SeronD_GiovannangeliD2002_Derrida_Profound_and_Radical.pdf> ,
+		<http://www.les-lettres-francaises.fr/2010/10/derrida-birnbaum-et-si-enfin-nous-pensions-le-11-septembre/> ,
+		<http://www.derrida.ws/> ,
+		<http://www.idixa.net/Pixa/pagixa-0506091008.html> ,
+		<http://sens-public.org/%3Flang=fr> .
+@prefix ns90:	<https://www.ladifference.fr/> .
+dbpedia-fr:Jacques_Derrida	dbo:wikiPageExternalLink	ns90:les-arts-de-l-espace-ecrits-et-interventions-sur-l-architecture ,
+		ns90:penser-a-ne-pas-voir-ecrits-sur-les-arts-du-visible ;
+	prop-fr:wikiPageUsesTemplate	<http://fr.dbpedia.org/resource/Mod\u00E8le:2e> .
+@prefix ns91:	<http://fr.dbpedia.org/resource/Mod\u00E8le:> .
+dbpedia-fr:Jacques_Derrida	prop-fr:wikiPageUsesTemplate	ns91:Lire_en_ligne ,
+		ns91:Citation ,
+		ns91:Bases ,
+		ns91:Nombre ,
+		<http://fr.dbpedia.org/resource/Mod\u00E8le:\u00C0_d\u00E9jargoniser> ,
+		ns91:Incise ,
+		<http://fr.dbpedia.org/resource/Mod\u00E8le:D\u00E9lister> ,
+		ns91:Refnec ,
+		ns91:Infobox_Philosophe ,
+		ns91:Lien ,
+		ns91:Dictionnaires ,
+		ns91:Voir_homonymes ,
+		<http://fr.dbpedia.org/resource/Mod\u00E8le:Article_d\u00E9taill\u00E9> ,
+		<http://fr.dbpedia.org/resource/Mod\u00E8le:O\u00F9> ,
+		ns91:Arrondissement ,
+		<http://fr.dbpedia.org/resource/Mod\u00E8le:Section_\u00E0_sourcer> ,
+		ns91:Article_connexe ,
+		<http://fr.dbpedia.org/resource/Mod\u00E8le:Num\u00E9ro> ,
+		ns91:Autres_projets ,
+		ns91:Date- ,
+		<http://fr.dbpedia.org/resource/Mod\u00E8le:Date_de_d\u00E9c\u00E8s> ,
+		ns91:Date_de_naissance ,
+		<http://fr.dbpedia.org/resource/Mod\u00E8le:R\u00E9f\u00E9rences> ,
+		<http://fr.dbpedia.org/resource/Mod\u00E8le:P.> ,
+		ns91:Date ,
+		ns91:S- ,
+		ns91:ISBN ,
+		ns91:Ouvrage ,
+		<http://fr.dbpedia.org/resource/Mod\u00E8le:N\u00B0> ,
+		<http://fr.dbpedia.org/resource/Mod\u00E8le:Autorit\u00E9> ,
+		ns91:Portail ,
+		<http://fr.dbpedia.org/resource/Mod\u00E8le:6e_arrondissement_de_Paris> ;
+	prop-fr:lieuDeNaissance	"El Biar, Alger"@fr .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia-fr:Jacques_Derrida	<http://fr.dbpedia.org/property/dateDeD\u00E9c\u00E8s>	"2004-10-09"^^xsd:date ;
+	prop-fr:nom	"Sallis"@fr ,
+		"Hobson"@fr ,
+		"Hill"@fr ,
+		"Jacques Derrida"@fr ;
+	prop-fr:dateDeNaissance	"1930-07-15"^^xsd:date ;
+	prop-fr:titre	"Jacques Derrida"@fr ,
+		"Penser \u00E0 ne pas voir"@fr ,
+		"Deconstruction and Philosophy"@fr ,
+		"The Cambridge Introduction to Jacques Derrida"@fr ,
+		"Les Arts de l'espace"@fr ;
+	prop-fr:isbn	978 ;
+	<http://fr.dbpedia.org/property/\u00E9diteur>	<http://fr.dbpedia.org/resource/Taylor_&_Francis> ,
+		dbpedia-fr:Cambridge_University_Press ,
+		dbpedia-fr:University_of_Chicago_Press ,
+		<http://fr.dbpedia.org/resource/\u00C9ditions_de_la_Diff\u00E9rence> ;
+	<http://fr.dbpedia.org/property/ann\u00E9e>	2015 ,
+		2013 ,
+		2002 ,
+		2007 ,
+		1989 ;
+	prop-fr:langue	"en"@fr ,
+		"fr"@fr ;
+	prop-fr:lieu	"Paris"@fr ;
+	prop-fr:collection	"Essais"@fr ,
+		"Cambridge Introductions to Literature"@fr ;
+	prop-fr:pagesTotales	368 ,
+		400 ;
+	prop-fr:texte	"Ghost Dance"@fr ;
+	prop-fr:sousTitre	"\u00C9crits sur les arts du visible 1979-2004"@fr ,
+		"The Texts of Jacques Derrida"@fr ,
+		"\u00C9crits et interventions sur l\u2019architecture"@fr ;
+	prop-fr:champLibre	"textes r\u00E9unis et \u00E9tablis par Ginette Michaud, Joana Mas\u00F3 et Javier Bassas"@fr ,
+		"textes r\u00E9unis et \u00E9tablis par Ginette Michaud et Joana Mas\u00F3"@fr ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Derrida_graf.jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/Chinmoy_Guha_with_Derrida.jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/Chinmoy_Guha_with_Derrida_(cropped).jpg> ;
+	<http://fr.dbpedia.org/property/pr\u00E9nom>	"Marian"@fr ,
+		"John"@fr ,
+		"Leslie"@fr ;
+	<http://fr.dbpedia.org/property/r\u00E9gion>	"Philosophe fran\u00E7ais"@fr ;
+	prop-fr:trad	"Ghost Dance"@fr ;
+	prop-fr:fr	"Mark Dooley"@fr ;
+	prop-fr:lang	"en"@fr ;
+	<http://fr.dbpedia.org/property/\u0153uvresPrincipales>	"L\u2019\u00E9criture et la diff\u00E9rence"@fr ,
+		"La carte postale. De Socrate \u00E0 Freud et au-del\u00E0"@fr ,
+		"De la grammatologie"@fr ,
+		"Donner le temps 1. La fausse monnaie"@fr ;
+	<http://fr.dbpedia.org/property/pr\u00E9sentationEnLigne>	ns90:les-arts-de-l-espace-ecrits-et-interventions-sur-l-architecture ,
+		ns90:penser-a-ne-pas-voir-ecrits-sur-les-arts-du-visible ;
+	<http://fr.dbpedia.org/property/influenc\u00E9Par>	dbpedia-fr:Emmanuel_Levinas ,
+		<http://fr.dbpedia.org/resource/S\u00F8ren_Kierkegaard> ,
+		dbpedia-fr:Jean-Jacques_Rousseau ,
+		dbpedia-fr:Jean_Starobinski ,
+		dbpedia-fr:Jean-Toussaint_Desanti ,
+		dbpedia-fr:Sigmund_Freud ,
+		dbpedia-fr:Karl_Marx ,
+		dbpedia-fr:Maurice_Blanchot ,
+		dbpedia-fr:Georges_Bataille ,
+		<http://fr.dbpedia.org/resource/Edmond_Jab\u00E8s> ,
+		dbpedia-fr:Michel_Foucault ,
+		dbpedia-fr:Jacques_Lacan ,
+		dbpedia-fr:Friedrich_Nietzsche ,
+		dbpedia-fr:Platon ,
+		dbpedia-fr:Georg_Wilhelm_Friedrich_Hegel ,
+		dbpedia-fr:Ferdinand_de_Saussure ,
+		dbpedia-fr:Martin_Heidegger ,
+		dbpedia-fr:Edmund_Husserl ;
+	<http://fr.dbpedia.org/property/\u00E9poque>	"Philosophie contemporaine"@fr ;
+	dbo:wikiPageLength	"81511"^^xsd:nonNegativeInteger .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia-fr:Jacques_Derrida	prov:wasDerivedFrom	<http://fr.wikipedia.org/wiki/Jacques_Derrida?oldid=190416818&ns=0> ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Chinmoy_Guha_with_Derrida_(cropped).jpg?width=300> .
+@prefix wikipedia-fr:	<http://fr.wikipedia.org/wiki/> .
+dbpedia-fr:Jacques_Derrida	foaf:isPrimaryTopicOf	wikipedia-fr:Jacques_Derrida ;
+	dbo:birthName	"Jacques Derrida"@en ;
+	dbo:award	dbpedia-wikidata:Q5671387 ,
+		<http://fr.dbpedia.org/resource/Prix_Theodor-W.-Adorno> ;
+	dbo:child	dbpedia-wikidata:Q42316118 ,
+		dbpedia-fr:Pierre_Alferi ;
+	dbo:created	dbpedia-fr:De_la_grammatologie ;
+	dbo:influenced	dbpedia-fr:Catherine_Malabou ,
+		dbpedia-fr:Didier_Cahen ,
+		dbpedia-fr:Gayatri_Chakravorty_Spivak ,
+		dbpedia-fr:Judith_Butler ,
+		<http://fr.dbpedia.org/resource/St\u00E9phane_Sangral> ,
+		dbpedia-fr:Paul_de_Man ,
+		dbpedia-fr:Avital_Ronell ,
+		dbpedia-fr:Peter_Sloterdijk ,
+		dbpedia-fr:Richard_Rorty ,
+		dbpedia-fr:Philippe_Lacoue-Labarthe ,
+		dbpedia-fr:Jean-Luc_Nancy ,
+		dbpedia-fr:Bernard_Stiegler ,
+		<http://fr.dbpedia.org/resource/Mario_Kopi\u0107> ,
+		<http://fr.dbpedia.org/resource/John_D._Caputo> ;
+	dbo:influencedBy	dbpedia-fr:Georg_Wilhelm_Friedrich_Hegel ,
+		dbpedia-fr:Platon ,
+		dbpedia-fr:Georges_Bataille ,
+		dbpedia-fr:Jean_Starobinski ,
+		dbpedia-fr:Ferdinand_de_Saussure ,
+		dbpedia-fr:Michel_Foucault ,
+		dbpedia-fr:Maurice_Blanchot ,
+		dbpedia-fr:Karl_Marx ,
+		dbpedia-fr:Sigmund_Freud ,
+		dbpedia-fr:Jacques_Lacan ,
+		<http://fr.dbpedia.org/resource/S\u00F8ren_Kierkegaard> ,
+		dbpedia-fr:Emmanuel_Levinas ,
+		dbpedia-fr:Martin_Heidegger ,
+		dbpedia-fr:Edmund_Husserl ,
+		dbpedia-fr:Jean-Toussaint_Desanti ,
+		<http://fr.dbpedia.org/resource/Edmond_Jab\u00E8s> ,
+		dbpedia-fr:Friedrich_Nietzsche ,
+		dbpedia-fr:Jean-Jacques_Rousseau ;
+	dbo:mainInterest	<http://fr.dbpedia.org/resource/Th\u00E9orie_de_la_litt\u00E9rature> ,
+		dbpedia-fr:Psychanalyse ,
+		<http://fr.dbpedia.org/resource/Esth\u00E9tique> ,
+		<http://fr.dbpedia.org/resource/\u00C9thique> ,
+		<http://fr.dbpedia.org/resource/F\u00E9minisme> ,
+		dbpedia-fr:Linguistique ,
+		dbpedia-fr:Politique ,
+		<http://fr.dbpedia.org/resource/Ontologie_(philosophie)> ;
+	dbo:movement	dbpedia-fr:Post-structuralisme ,
+		<http://fr.dbpedia.org/resource/D\u00E9construction_(analyse_de_texte)> ;
+	dbo:notableIdea	dbpedia-fr:Jacques_Derrida ,
+		dbpedia-fr:Aporie ,
+		<http://fr.dbpedia.org/resource/D\u00E9construction_(analyse_de_texte)> ;
+	dbo:occupation	<http://fr.dbpedia.org/resource/\u00C9crivain> ,
+		dbpedia-wikidata:Q1622272 ,
+		dbpedia-fr:Philosophe ,
+		dbpedia-wikidata:Q4263842 ;
+	dbo:philosophicalSchool	dbpedia-fr:Philosophie_postmoderne ,
+		<http://fr.dbpedia.org/resource/D\u00E9construction_(analyse_de_texte)> ;
+	dbo:spouse	dbpedia-fr:Marguerite_Derrida ;
+	dbo:abstract	"Jacques Derrida (de son vrai nom Jackie Derrida) est un philosophe fran\u00E7ais n\u00E9 le 15 juillet 1930 \u00E0 El Biar (Alg\u00E9rie fran\u00E7aise) et mort le 9 octobre 2004 \u00E0 Paris. Professeur \u00E0 l'\u00C9cole normale sup\u00E9rieure entre 1965 et 1984, puis directeur d'\u00E9tudes \u00E0 l'\u00C9cole des hautes \u00E9tudes en sciences sociales, il a cr\u00E9\u00E9 et d\u00E9velopp\u00E9 l'\u00E9cole de pens\u00E9e autour du d\u00E9constructionnisme. Dans la lign\u00E9e de Heidegger, Derrida remet en question la ph\u00E9nom\u00E9nologie et la m\u00E9taphysique traditionnelle et introduit une nouvelle mani\u00E8re de penser les sciences humaines. Le point de d\u00E9part de son \u0153uvre est une critique de la linguistique et de la place dominante qu'elle occupe dans le champ des sciences humaines. Dans son ouvrage De la grammatologie (1967), Derrida montre que le mod\u00E8le linguistique alors dominant repose sur une contradiction : la langue serait constitu\u00E9e d'une parole orale, dont l'\u00E9criture serait la transcription. La vraie langue (la langue originaire) serait donc la langue orale. Mais la linguistique s'appuie sur la langue \u00E9crite pour la structure de la langue, de sorte que l'origine de la langue \u00E9crite est la parole vive, mais que l'origine de la parole vive est la langue \u00E9crite. Derrida transpose ici dans le domaine de la linguistique le questionnement de l'origine qui \u00E9tait celui d'Edmund Husserl dans L'Origine de la g\u00E9om\u00E9trie (1954) et introduit la notion de \u00AB suppl\u00E9ment originaire \u00BB, ou simplement de \u00AB suppl\u00E9ment \u00BB. Cette contradiction de l'origine, pos\u00E9e d'abord \u2014 au niveau de la langue \u2014 entre parole et \u00E9criture, va ensuite se r\u00E9percuter dans tous les domaines o\u00F9 Derrida portera son investigation : vers la structure d'un texte et le suppl\u00E9ment \u00E0 l'origine de ce texte, comme la langue dans lequel il fut \u00E9crit, vers le principe fondateur et la mort d'une id\u00E9ologie, vers donner la mort et en accepter la responsabilit\u00E9 (euthanasie), vers l'opposition entre l'accueil et l'hostilit\u00E9, vers la question politique de l'imposition des normes genr\u00E9es."@fr ;
+	dbo:almaMater	<http://fr.dbpedia.org/resource/Lyc\u00E9e_Louis-le-Grand> ,
+		<http://fr.dbpedia.org/resource/\u00C9cole_normale_sup\u00E9rieure_(Paris)> ,
+		<http://fr.dbpedia.org/resource/Facult\u00E9_des_lettres_de_Paris> ,
+		<http://fr.dbpedia.org/resource/Universit\u00E9_Harvard> ,
+		<http://fr.dbpedia.org/resource/Universit\u00E9_Panth\u00E9on-Sorbonne> ;
+	dbo:citizenship	dbpedia-fr:France ;
+	dbo:discipline	dbpedia-fr:Philosophie_du_langage ;
+	dbo:doctoralStudent	dbpedia-fr:Bernard_Stiegler ,
+		dbpedia-fr:Catherine_Malabou ,
+		dbpedia-wikidata:Q102439272 ;
+	dbo:employer	<http://fr.dbpedia.org/resource/Universit\u00E9_de_Californie_\u00E0_Irvine> ,
+		dbpedia-fr:European_Graduate_School ,
+		<http://fr.dbpedia.org/resource/\u00C9cole_des_hautes_\u00E9tudes_en_sciences_sociales> ;
+	dbo:placeOfBurial	dbpedia-fr:Ris-Orangis ;
+	<http://fr.dbpedia.org/property/id\u00E9esRemarquables>	"D\u00E9construction du phallogocentrisme, diff\u00E9rance, trace, diss\u00E9mination, apories, \u00E9v\u00E9nement, don"@fr ;
+	<http://fr.dbpedia.org/property/principauxInt\u00E9r\u00EAts>	<http://fr.dbpedia.org/resource/F\u00E9minisme> ,
+		<http://fr.dbpedia.org/resource/Th\u00E9orie_de_la_litt\u00E9rature> ,
+		<http://fr.dbpedia.org/resource/Esth\u00E9tique> ,
+		dbpedia-fr:Psychanalyse ,
+		dbpedia-fr:Linguistique ,
+		dbpedia-fr:Politique ,
+		<http://fr.dbpedia.org/resource/\u00C9thique> ,
+		<http://fr.dbpedia.org/resource/Ontologie_(philosophie)> ;
+	prop-fr:traditionPhilosophique	<http://fr.dbpedia.org/resource/D\u00E9construction_(analyse_de_texte)> ,
+		dbpedia-fr:Philosophie_postmoderne ;
+	<http://fr.dbpedia.org/property/aInfluenc\u00E9>	dbpedia-fr:Peter_Sloterdijk ,
+		<http://fr.dbpedia.org/resource/John_D._Caputo> ,
+		<http://fr.dbpedia.org/resource/St\u00E9phane_Sangral> ,
+		dbpedia-fr:Avital_Ronell ,
+		dbpedia-fr:Paul_de_Man ,
+		dbpedia-fr:Judith_Butler ,
+		dbpedia-fr:Didier_Cahen ,
+		dbpedia-fr:Jean-Luc_Nancy ,
+		dbpedia-fr:Gayatri_Chakravorty_Spivak ,
+		dbpedia-fr:Catherine_Malabou ,
+		dbpedia-fr:Philippe_Lacoue-Labarthe ,
+		<http://fr.dbpedia.org/resource/Mario_Kopi\u0107> ,
+		dbpedia-fr:Bernard_Stiegler ,
+		dbpedia-fr:Richard_Rorty .
+<http://fr.dbpedia.org/resource/Esth\u00E9tique>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Georg_Wilhelm_Friedrich_Hegel	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:influenced	dbpedia-fr:Jacques_Derrida ;
+	<http://fr.dbpedia.org/property/aInfluenc\u00E9>	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Liste_d\u0027historiens_de_l\u0027art_et_de_th\u00E9oriciens_de_l\u0027art>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Nu_(genre_artistique)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9tudes_de_genre>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Philosophie	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Structuralisme	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Modernit\u00E9>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/M\u00E9diologie>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Jean-Fran\u00E7ois_Lyotard>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9tudes_culturelles>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Th\u00E9orie_queer>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/15_juillet>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Philosophe	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/9_octobre>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Rh\u00E9torique>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Juda\u00EFsme>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Nicholas_Blincoe	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Patrick_Tort	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Ris-Orangis	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Roger_Laporte	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9douard_Glissant>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Pierre_Bourdieu	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Amour	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Karl_Marx	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:influenced	dbpedia-fr:Jacques_Derrida ;
+	<http://fr.dbpedia.org/property/aInfluenc\u00E9>	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9tudes_postcoloniales>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Louvain	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9cole_normale_sup\u00E9rieure_(France)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Michel_Deguy	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Dipl\u00F4me_honorifique>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Animal	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Isaac_Louria	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Alexandre_Koj\u00E8ve>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Friedrich_Kittler	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Didier_Eribon	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Schibboleth	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Sigila	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Actuel_Marx	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Esth\u00E9tique_analytique>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Linguistique_structurale	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Philippe_Rahmy	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	prop-fr:influences	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Chris_Hani	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Nation_arc-en-ciel	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Soci\u00E9t\u00E9_interculturelle>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Edmond_Jab\u00E8s>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:El_Biar	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Philippe_Forget_(germaniste)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Bibliographie_sur_la_philosophie_juridique_et_politique	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Doute_cart\u00E9sien>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:French_Theory	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/D\u00E9construction_(Heidegger)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Juillet_1930	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Philippe-Joseph_Salazar	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Post-structuralisme	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Colette_Debl\u00E9>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Marie-France_Tristan	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Aporie	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Mikel_Dufrenne	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Fin_de_l\u0027histoire>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/G\u00E9rard_Granel>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Norbert_Hillaire	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Ann_Van_Sevenant	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Ensemble_Th\u00E9\u00E2tral_Mobile>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Angelus_Silesius	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:La_Loi_de_la_pudeur	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Lyc\u00E9e_Montesquieu>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Genevi\u00E8ve_Boucher>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Philosophie_f\u00E9ministe>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Fran\u00E7ois_Laruelle>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9ric_Vuillard>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Ousiologie	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Postanarchisme	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Hugues_Lethierry	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Quadrige_(collection)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Reconstructionnisme	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Christian_Ruby	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jovan_Zivlak	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Elizabeth_Grosz	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Chikuma_Shob\u014D>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/V\u00E9rit\u00E9_historique>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Maurizio_Ferraris	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Safar	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Laurence_Tacou	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Ch\u00E2teau_de_Cerisy-la-Salle>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Bibliographie_sur_Friedrich_Nietzsche	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Anne_Friedberg	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Pierre-Antoine_Chardel	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9tymologie_de_religion>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+wikipedia-fr:Jacques_Derrida	foaf:primaryTopic	dbpedia-fr:Jacques_Derrida .
+dbpedia-wikidata:Q102439272	dbo:doctoralAdvisor	dbpedia-fr:Jacques_Derrida .
+dbpedia-wikidata:Q106328936	dbo:author	dbpedia-fr:Jacques_Derrida .
+dbpedia-wikidata:Q42316118	dbo:father	dbpedia-fr:Jacques_Derrida .
+dbpedia-wikidata:Q106978259	dbo:author	dbpedia-fr:Jacques_Derrida .
+dbpedia-wikidata:Q12270724	dbo:author	dbpedia-fr:Jacques_Derrida .
+dbpedia-wikidata:Q24933755	dbo:author	dbpedia-fr:Jacques_Derrida .
+dbpedia-wikidata:Q4787256	dbo:author	dbpedia-fr:Jacques_Derrida .
+dbpedia-wikidata:Q56563388	dbo:author	dbpedia-fr:Jacques_Derrida .
+dbpedia-wikidata:Q56563602	dbo:author	dbpedia-fr:Jacques_Derrida .
+dbpedia-wikidata:Q4677774	dbo:author	dbpedia-fr:Jacques_Derrida .
+dbpedia-wikidata:Q5332810	dbo:author	dbpedia-fr:Jacques_Derrida .
+dbpedia-wikidata:Q56260594	dbo:author	dbpedia-fr:Jacques_Derrida .
+dbpedia-wikidata:Q63966612	dbo:author	dbpedia-fr:Jacques_Derrida .
+dbpedia-wikidata:Q7208391	dbo:author	dbpedia-fr:Jacques_Derrida .
+dbpedia-wikidata:Q7233203	dbo:author	dbpedia-fr:Jacques_Derrida .
+dbpedia-wikidata:Q7757859	dbo:author	dbpedia-fr:Jacques_Derrida .
+dbpedia-wikidata:Q7760602	dbo:author	dbpedia-fr:Jacques_Derrida .
+dbpedia-wikidata:Q8038530	dbo:author	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Amiti\u00E9_(philosophie)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Propre_de_l\u0027homme>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9thique_de_la_discussion>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Mark_Fisher	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	<http://fr.dbpedia.org/property/influenc\u00E9Par>	dbpedia-fr:Jacques_Derrida ;
+	dbo:influencedBy	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Mises_en_sc\u00E8ne_de_Dom_Juan_ou_le_Festin_de_pierre>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Ahmad_Parhizi	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Anna_Wasilewska	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Aris_Fioretos	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Hasso_Krull	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	prop-fr:auteur	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Jana_Pavli\u010D>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Marguerite_Derrida	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:spouse	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Critique_mac\u00E9donienne_de_la_pens\u00E9e_fran\u00E7aise>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Divya_Dwivedi	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Rasoir_de_Hanlon	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Le_\u00AB_Concept_\u00BB_du_11_septembre>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	prop-fr:auteur	dbpedia-fr:Jacques_Derrida ;
+	dbo:author	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Fabrice_Pliskin	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Anne_Dufourmantelle	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Bernard_Derrida	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:De_la_grammatologie	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:author	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Didier_Cahen	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Du_droit_\u00E0_la_philosophie>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:author	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Glas_(essai_philosophique)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:author	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Lecture_attentive	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Safaa_Fathy	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Manola_Antonioli	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/1930_en_philosophie>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/1974_en_philosophie>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Alain_Amselek	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Amour_et_psychanalyse	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Antim\u00E9tabole>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Aufhebung	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Bibliographie_sur_la_s\u00E9miologie_de_l\u0027art>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Boris_Groys	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Capitalisme_tardif	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Christian_Buder	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Denis_Duclos	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Derrida	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:wikiPageDisambiguates	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Glas_(homonymie)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Grammatologie	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jacky	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Jean_L\u00E9v\u00EAque>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:La_Rose_de_personne	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Olivier_Assouly	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Paola_Marrati	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Rachel_Zolf	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Richard_J._Bernstein>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Serge_Margel	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Thorsten_Botz-Bornstein	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Victor_Lapitski	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9cole_de_Yale>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Marc_Richir	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Marie-Fran\u00E7oise_Plissart>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Diff\u00E9rance>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:wikiPageRedirects	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jackie_Derrida	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:wikiPageRedirects	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Jackie_\u00C9lie_Derrida>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:wikiPageRedirects	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/M\u00E9taphore>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Humanit\u00E9>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Fran\u00E7ois_Regnault>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Philosophie_continentale	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Michel_Foucault	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Claude_L\u00E9vesque>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Soci\u00E9t\u00E9_de_philosophie_de_Montr\u00E9al>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Paul_Celan	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Mensonge	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Pragmatisme	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9tranger_en_situation_irr\u00E9guli\u00E8re>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Tour_de_Babel	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Marcel_Gauchet	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Martin_Heidegger	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:influenced	dbpedia-fr:Jacques_Derrida ;
+	<http://fr.dbpedia.org/property/aInfluenc\u00E9>	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Philosophie_de_l\u0027histoire>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Walter_Benjamin	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Edmund_Husserl	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:influenced	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Philosophie_politique	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/S\u00F8ren_Kierkegaard>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Emmanuel_Levinas	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:influenced	dbpedia-fr:Jacques_Derrida ;
+	<http://fr.dbpedia.org/property/aInfluenc\u00E9>	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Dasein	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Lettre_sur_l\u0027humanisme>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:The_New_School	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Marc_de_Launay	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/2007_en_litt\u00E9rature>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Serge_Salat	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:John_Searle	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Paul_Val\u00E9ry>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Mot-valise	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Religion_abrahamique	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Dissertation	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Georges_Bataille	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Ch\u00F4ra>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Fiction_&_Cie>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Jean_Birnbaum	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Mim\u00E8sis>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Philippe_Sollers	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Olivier_Mannoni	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Carl_Schmitt	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Renaud_Camus	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Marc_Goldschmit	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Coll\u00E8ge_international_de_philosophie>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Isabelle_Alfandary	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/M\u00E9duse_(mythologie)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Gabriel_Matzneff	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Marjorie_Perloff	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Intertextualit\u00E9>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Andr\u00E9_Tubeuf>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Paul_B._Preciado>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9tat_d\u0027exception>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Hospitalit\u00E9>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Culture_g\u00E9n\u00E9rale>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Vladimir_Jank\u00E9l\u00E9vitch>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Antisp\u00E9cisme>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Litt\u00E9rature_postmoderne>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:La_Maison_des_feuilles	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Manifeste_du_parti_communiste	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:John_Locke	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Critique_de_l\u0027humanisme>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Sylviane_Agacinski	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Guy_Scarpetta	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9coum\u00E8ne_(essai)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Europanalyse	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Performativit\u00E9>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Acte_de_langage	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Paule_Th\u00E9venin>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Christian_Salmon	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Heather_Dohollau	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9tat_voyou>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Peter_Eisenman	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/La_Septi\u00E8me_Fonction_du_langage>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Liste_alphab\u00E9tique_de_philosophes_contemporains>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Pascale_Ogier	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Double_contrainte	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Heidegger_et_le_nazisme	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/G\u00E9nocide_animal>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Comparaison_entre_la_situation_actuelle_des_animaux_et_la_Shoah	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Marc_Cr\u00E9pon>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Logique_du_chaudron	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/La_Fin_de_l\u0027histoire_et_le_Dernier_Homme>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Subjectile	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/St\u00E9phane_Lojkine>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Fran\u00E7ois_H\u00E9bert_(\u00E9crivain)>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/L\u0027Orientalisme>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Aki_Kuroda	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/M\u00E9taphorologie>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Bernard_Pautrat	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Totalit\u00E9_et_Infini>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Marc-Alain_Ouaknin	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Ra\u00EFssa_Levinas>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Bruno_Cl\u00E9ment>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Miguel_Abensour	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Joseph_Cohen	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Lionel_Bourg	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/P\u00E9titions_en_France_concernant_la_majorit\u00E9_sexuelle>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Michael_White	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Donatella_Di_Cesare	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Oikophobie	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Patrizia_Lombardo	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Albert_Maren\u010Din>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Souleymane_Bachir_Diagne	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Ivan_Vejvoda	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Masculinit\u00E9s:_enjeux_sociaux_de_l\u0027h\u00E9g\u00E9monie>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Claudine_Tiercelin	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Christian_Bouchindhomme	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Tran_Duc_Thao	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida ;
+	dbo:influenced	dbpedia-fr:Jacques_Derrida ;
+	<http://fr.dbpedia.org/property/aInfluenc\u00E9>	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/D\u00E9terminisme_linguistique>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Gustave_Aucouturier	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Shigehiko_Hasumi	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Philippe_Sers	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Gr\u00E9goire_Biyogo>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Litt\u00E9rature_n\u00E9erlandaise_\u00E0_partir_de_la_seconde_moiti\u00E9_du_XXe_si\u00E8cle>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Heidegger_et_le_Sacr\u00E9>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Uro\u0161_Grilc>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Fr\u00E9d\u00E9ric_Regard>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Amy_Ziering	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Raymond_Monelle	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Sous_rature	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Le_Principe_de_raison	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Ahmet_Soysal	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/\u00C9ditions_Brandes>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Pharmakos	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Weimarer_Beitr\u00E4ge>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Fran\u00E7ois_Nault>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Liste_de_philosophes_politiques	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+<http://fr.dbpedia.org/resource/Association_pour_la_cr\u00E9ation_des_instituts_de_recherche_sur_l\u0027enseignement_de_la_philosophie>	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .
+dbpedia-fr:Hadrien_Laroche	dbo:wikiPageWikiLink	dbpedia-fr:Jacques_Derrida .

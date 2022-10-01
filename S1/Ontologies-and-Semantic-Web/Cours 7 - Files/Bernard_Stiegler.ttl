@@ -1,0 +1,517 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbpedia-fr:Jean-Marc_Cerino	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Institut_de_recherche_et_d\u0027innovation>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/\u00C9conomie_contributive>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Design_collaboratif	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Clovis_Maillet	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Stiegler	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler ;
+	dbo:wikiPageDisambiguates	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Ville_intelligente	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Liste_de_philosophes_par_ann\u00E9e_de_naissance>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:There_is_no_alternative	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/6_ao\u00FBt>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Universit\u00E9_Toulouse-Jean-Jaur\u00E8s>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Crise_financi\u00E8re_mondiale_de_2007-2008>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Compi\u00E8gne>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Jean-Michel_Frodon	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/\u00C9lection_pr\u00E9sidentielle_fran\u00E7aise_de_2002>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+@prefix prop-fr:	<http://fr.dbpedia.org/property/> .
+<http://fr.dbpedia.org/resource/\u00C9lection_pr\u00E9sidentielle_fran\u00E7aise_de_2002>	prop-fr:auteur	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/\u00C9cole_des_hautes_\u00E9tudes_en_sciences_sociales>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Conseil_national_du_num\u00E9rique_(France)>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Greta_Thunberg	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler ;
+	prop-fr:auteur	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Crise_des_subprimes	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/T\u00E9l\u00E9_poubelle>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Wikip\u00E9dia>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Universit\u00E9_de_technologie_de_Compi\u00E8gne>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/\u00C9pim\u00E9th\u00E9e>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Critiques_de_Facebook	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Philosophie_du_suicide	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Hypermodernit\u00E9>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Consum\u00E9risme>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Transduction_(Simondon)>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Jean-Luc_Nancy	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Philippe_Petit_(journaliste_et_essayiste)>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Tuerie_de_Nanterre	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/\u00C9conomie_de_l\u0027attention>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/D\u00E9construction_(analyse_de_texte)>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Ariel_Kyrou	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/R\u00E9pliques>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Apr\u00E8s_la_gauche>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Jean-Louis_D\u00E9otte>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/La_technique_et_le_temps,_1>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler ;
+	dbo:author	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/\u00C9conomie_cr\u00E9ative>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/D\u00E9c\u00E8s_en_2020>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Laboratoire_sculpture-urbaine	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/2002_en_philosophie>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Aimer,_s\u0027aimer,_nous_aimer>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/\u00C9ric_Humbertclaude>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Jean-Louis_Fr\u00E9chin>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:SMITH	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Faut-il_interdire_les_\u00E9crans_aux_enfants_%3F>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler ;
+	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Patrick_Bazin	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Barbara_Stiegler	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler ;
+	dbo:father	dbpedia-fr:Bernard_Stiegler .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbpedia-fr:Bernard_Stiegler	rdf:type	dbo:frResource .
+@prefix schema:	<http://schema.org/> .
+dbpedia-fr:Bernard_Stiegler	rdf:type	schema:Person .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbpedia-fr:Bernard_Stiegler	rdf:type	wikidata:Q215627 ,
+		wikidata:Q19088 ,
+		dbo:Person ,
+		dbo:Species .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbpedia-fr:Bernard_Stiegler	rdf:type	owl:Thing ,
+		wikidata:Q5 ,
+		dbo:Eukaryote ,
+		dbo:Animal .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia-fr:Bernard_Stiegler	rdf:type	ns7:NaturalPerson ,
+		wikidata:Q729 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbpedia-fr:Bernard_Stiegler	rdf:type	foaf:Person .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia-fr:Bernard_Stiegler	rdfs:label	"Bernard Stiegler"@fr ;
+	rdfs:comment	"Bernard Stiegler, n\u00E9 le 1er avril 1952 \u00E0 Villebon-sur-Yvette (Seine-et-Oise) et mort le 5 ao\u00FBt 2020 \u00E0 \u00C9pineuil-le-Fleuriel (Cher), est un philosophe fran\u00E7ais qui axe sa r\u00E9flexion sur les enjeux des mutations actuelles \u2014 sociales, politiques, \u00E9conomiques, psychologiques \u2014 port\u00E9es par le d\u00E9veloppement technologique et notamment les technologies num\u00E9riques. Fondateur et pr\u00E9sident d'un groupe de r\u00E9flexion philosophique, Ars industrialis, cr\u00E9\u00E9 en 2005, il a \u00E9galement dirig\u00E9, \u00E0 partir d'avril 2006, l'Institut de recherche et d'innovation (IRI) qu'il a cr\u00E9\u00E9 au sein du centre Georges-Pompidou."@fr .
+@prefix ns10:	<https://www.whoswho.fr/bio/> .
+dbpedia-fr:Bernard_Stiegler	rdfs:seeAlso	ns10:bernard-stiegler_38087 ,
+		<http://data.rero.ch/02-A003865113> .
+@prefix ns11:	<http://cantic.bnc.cat/registres/CUCId/> .
+dbpedia-fr:Bernard_Stiegler	rdfs:seeAlso	ns11:a12055542 ,
+		<https://www.babelio.com/auteur/-/6098> .
+@prefix ns12:	<https://snl.no/> .
+dbpedia-fr:Bernard_Stiegler	rdfs:seeAlso	ns12:Bernard_Stiegler .
+@prefix ns13:	<http://aut.nkp.cz/> .
+dbpedia-fr:Bernard_Stiegler	rdfs:seeAlso	ns13:uk2011670242 ,
+		<http://www.perlentaucher.de/autor/bernard-stiegler.html> ,
+		<http://urn.bn.pt/nca/unimarc-authorities/txt?id=1326885> ,
+		<http://aleph.nli.org.il/F/?func=find-b&local_base=NNL10&find_code=SYS&con_lng=eng&request=002129290> .
+@prefix ns14:	<http://philpapers.org/profile/> .
+dbpedia-fr:Bernard_Stiegler	rdfs:seeAlso	ns14:bernard-stiegler ,
+		<http://isni.org/isni/0000_0001_2277_1955> ,
+		<https://lira.lanet.lv/F?func=direct&local_base=lnc10&doc_number=000097065> ,
+		<http://catalogo.share-cat.unina.it/sharecat/searchNames?n_cluster_id=144214> ,
+		<https://dialnet.unirioja.es/servlet/autor?codigo=1007081> ,
+		<https://www.goodreads.com/author/show/401793> ,
+		<http://mak.bn.org.pl/cgi-bin/KHW/makwww.exe?BM=01&IM=04&NU=01&WI=A33012180> ,
+		<http://katalog.nsk.hr/F/?func=direct&doc_number=000144184&local_base=nsk10> .
+@prefix ns15:	<http://ci.nii.ac.jp/author/> .
+dbpedia-fr:Bernard_Stiegler	rdfs:seeAlso	ns15:DA10501250 ,
+		<https://www.rechercheisidore.fr/search/?author=stiegler_bernard> .
+@prefix ns16:	<https://commons.wikimedia.org/wiki/Category:> .
+dbpedia-fr:Bernard_Stiegler	rdfs:seeAlso	ns16:Bernard_Stiegler ,
+		<https://openmlol.it/autore/360742> ,
+		<http://www.lesarchivesduspectacle.net/?IDX_Personne=57637> .
+@prefix ns17:	<http://id.sbn.it/af/> .
+dbpedia-fr:Bernard_Stiegler	rdfs:seeAlso	ns17:MILV134085 .
+@prefix ns18:	<https://www.quora.com/topic/> .
+dbpedia-fr:Bernard_Stiegler	rdfs:seeAlso	ns18:Bernard-Stiegler .
+@prefix ns19:	<http://snaccooperative.org/ark:/99166/> .
+dbpedia-fr:Bernard_Stiegler	rdfs:seeAlso	ns19:w6hx28cs ;
+	owl:sameAs	<http://data.persee.fr/person/272292> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbpedia-fr:Bernard_Stiegler	owl:sameAs	dbpedia-pt:Bernard_Stiegler .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbpedia-fr:Bernard_Stiegler	owl:sameAs	dbpedia-it:Bernard_Stiegler ,
+		dbpedia-fr:Bernard_Stiegler ,
+		<http://ja.dbpedia.org/resource/\u30D9\u30EB\u30CA\u30FC\u30EB\u30FB\u30B9\u30C6\u30A3\u30B0\u30EC\u30FC\u30EB> .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbpedia-fr:Bernard_Stiegler	owl:sameAs	dbpedia-sv:Bernard_Stiegler ,
+		<http://catalogo.pusc.it/auth/76220> .
+@prefix ns23:	<http://www.idref.fr/078996376/> .
+dbpedia-fr:Bernard_Stiegler	owl:sameAs	ns23:id .
+@prefix dbpedia-da:	<http://da.dbpedia.org/resource/> .
+dbpedia-fr:Bernard_Stiegler	owl:sameAs	dbpedia-da:Bernard_Stiegler ,
+		<http://id.ndl.go.jp/auth/ndlna/01010212> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbpedia-fr:Bernard_Stiegler	owl:sameAs	dbpedia-wikidata:Q822727 .
+@prefix ns26:	<https://data.bibliotheken.nl/doc/thes/> .
+dbpedia-fr:Bernard_Stiegler	owl:sameAs	ns26:p153846402 .
+@prefix dbpedia-fi:	<http://fi.dbpedia.org/resource/> .
+dbpedia-fr:Bernard_Stiegler	owl:sameAs	dbpedia-fi:Bernard_Stiegler .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbpedia-fr:Bernard_Stiegler	owl:sameAs	dbpedia-es:Bernard_Stiegler .
+@prefix ns29:	<http://lod.nl.go.kr/resource/> .
+dbpedia-fr:Bernard_Stiegler	owl:sameAs	ns29:KAC201419425 .
+@prefix dbpedia-ca:	<http://ca.dbpedia.org/resource/> .
+dbpedia-fr:Bernard_Stiegler	owl:sameAs	dbpedia-ca:Bernard_Stiegler ,
+		<http://id.worldcat.org/fast/344151> .
+@prefix ns31:	<https://id.loc.gov/authorities/names/> .
+dbpedia-fr:Bernard_Stiegler	owl:sameAs	ns31:nr94027791 .
+@prefix ns32:	<http://www.theses.fr/078996376/> .
+dbpedia-fr:Bernard_Stiegler	owl:sameAs	ns32:id .
+@prefix dbpedia-af:	<http://af.dbpedia.org/resource/> .
+dbpedia-fr:Bernard_Stiegler	owl:sameAs	dbpedia-af:Bernard_Stiegler ,
+		<http://zh.dbpedia.org/resource/\u8D1D\u5C14\u7EB3\u00B7\u65AF\u8482\u683C\u52D2> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbpedia-fr:Bernard_Stiegler	owl:sameAs	dbpedia-de:Bernard_Stiegler .
+@prefix ns35:	<http://data.bnf.fr/ark:/12148/cb123809990#> .
+dbpedia-fr:Bernard_Stiegler	owl:sameAs	ns35:about .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbpedia-fr:Bernard_Stiegler	owl:sameAs	dbpedia-simple:Bernard_Stiegler .
+@prefix ns37:	<http://datos.bne.es/resource/> .
+dbpedia-fr:Bernard_Stiegler	owl:sameAs	ns37:XX1540131 ,
+		<https://livedata.bibsys.no/authority/90759689> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbpedia-fr:Bernard_Stiegler	owl:sameAs	dbr:Bernard_Stiegler .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbpedia-fr:Bernard_Stiegler	owl:sameAs	dbpedia-nl:Bernard_Stiegler .
+@prefix ns40:	<http://openlibrary.org/works/> .
+dbpedia-fr:Bernard_Stiegler	owl:sameAs	ns40:OL395073A ,
+		<http://g.co/kg/m/0h068v> .
+@prefix ns41:	<http://commons.dbpedia.org/resource/Category:> .
+dbpedia-fr:Bernard_Stiegler	owl:sameAs	ns41:Bernard_Stiegler ,
+		<https://d-nb.info/gnd/132269414> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbpedia-fr:Bernard_Stiegler	owl:sameAs	dbpedia-pl:Bernard_Stiegler ,
+		<http://ru.dbpedia.org/resource/\u0421\u0442\u0438\u0433\u043B\u0435\u0440,_\u0411\u0435\u0440\u043D\u0430\u0440> ,
+		<http://data.europeana.eu/agent/base/146080> ,
+		<http://viaf.org/viaf/19758943> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix category-fr:	<http://fr.dbpedia.org/resource/Cat\u00E9gorie:> .
+dbpedia-fr:Bernard_Stiegler	dct:subject	category-fr:Suicide_en_France ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Philosophe_fran\u00E7ais_du_XXIe_si\u00E8cle> ,
+		category-fr:Naissance_en_avril_1952 ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:\u00C9l\u00E8ve_de_l\u0027\u00C9cole_des_hautes_\u00E9tudes_en_sciences_sociales> ,
+		category-fr:Naissance_en_Seine-et-Oise ,
+		category-fr:Officier_des_Arts_et_des_Lettres ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:D\u00E9c\u00E8s_dans_le_Cher> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:\u00C9crivain_fran\u00E7ais_suicid\u00E9> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:D\u00E9c\u00E8s_en_ao\u00FBt_2020> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:D\u00E9c\u00E8s_\u00E0_68_ans> ,
+		category-fr:Affaire_criminelle_en_France ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Naissance_dans_l\u0027Essonne> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:\u00C9tudiant_de_l\u0027universit\u00E9_Toulouse-Jean-Jaur\u00E8s> ;
+	dbo:deathPlace	<http://fr.dbpedia.org/resource/\u00C9pineuil-le-Fleuriel> ;
+	dbo:birthPlace	dbpedia-fr:Villebon-sur-Yvette ;
+	dbo:wikiPageID	161127 ;
+	dbo:wikiPageRevisionID	190227286 ;
+	dbo:wikiPageWikiLink	<http://fr.dbpedia.org/resource/Fran\u00E7ois_Bon> ,
+		<http://fr.dbpedia.org/resource/Baccalaur\u00E9at_en_France> ,
+		<http://fr.dbpedia.org/resource/Prom\u00E9th\u00E9e> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:\u00C9crivain_fran\u00E7ais_suicid\u00E9> ,
+		<http://fr.dbpedia.org/resource/Dominique_Cardon_(sociologue)> ,
+		<http://fr.dbpedia.org/resource/\u00C9lisabeth_de_Fontenay> ,
+		<http://fr.dbpedia.org/resource/\u00C9cole_nationale_sup\u00E9rieure_d\u0027architecture_de_Marseille> ,
+		<http://fr.dbpedia.org/resource/Universit\u00E9_de_technologie_de_Compi\u00E8gne> ,
+		dbpedia-fr:Catherine_Perret ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:\u00C9l\u00E8ve_de_l\u0027\u00C9cole_des_hautes_\u00E9tudes_en_sciences_sociales> ,
+		<http://fr.dbpedia.org/resource/Hermann_(\u00E9ditions)> ,
+		<http://fr.dbpedia.org/resource/\u00C9pineuil-le-Fleuriel> ,
+		<http://fr.dbpedia.org/resource/Muret_(Haute-Garonne)> ,
+		dbpedia-fr:Socrate ,
+		<http://fr.dbpedia.org/resource/Conseil_national_du_num\u00E9rique_(France)> ,
+		<http://fr.dbpedia.org/resource/\u00C9levage_caprin> ,
+		<http://fr.dbpedia.org/resource/Universit\u00E9_Bordeaux-Montaigne> ,
+		<http://fr.dbpedia.org/resource/Parti_communiste_fran\u00E7ais> ,
+		dbpedia-fr:Alain_Jugnon ,
+		dbpedia-fr:Jean-Robert_Viallet ,
+		dbpedia-fr:Temps_de_cerveau_humain_disponible ,
+		<http://fr.dbpedia.org/resource/Philippe_Petit_(journaliste_et_essayiste)> ,
+		<http://fr.dbpedia.org/resource/Fran\u00E7ois_Soulages> ,
+		<http://fr.dbpedia.org/resource/Bertrand_Gille_(historien)> ,
+		dbpedia-fr:Sophiste ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:\u00C9tudiant_de_l\u0027universit\u00E9_Toulouse-Jean-Jaur\u00E8s> ,
+		dbpedia-fr:France ,
+		category-fr:Naissance_en_avril_1952 ,
+		<http://fr.dbpedia.org/resource/Serveur_(restauration)> ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:D\u00E9c\u00E8s_\u00E0_68_ans> ,
+		<http://fr.dbpedia.org/resource/Attaque_\u00E0_main_arm\u00E9e> ,
+		dbpedia-fr:Miguel_Benasayag ,
+		<http://fr.dbpedia.org/resource/G\u00E9rard_Granel> ,
+		dbpedia-fr:Serge_Tisseron ,
+		dbpedia-fr:Philosophie ,
+		dbpedia-fr:The_Ister ,
+		dbpedia-fr:Pharmakos ,
+		<http://fr.dbpedia.org/resource/Les_Liens_qui_lib\u00E8rent> ,
+		dbpedia-fr:Philosophe ,
+		dbpedia-fr:Mai_68 ,
+		dbpedia-fr:Alain_Finkielkraut ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:D\u00E9c\u00E8s_en_ao\u00FBt_2020> ,
+		<http://fr.dbpedia.org/resource/Cher_(d\u00E9partement)> ,
+		dbpedia-fr:Sciences_cognitives ,
+		<http://fr.dbpedia.org/resource/1978> ,
+		<http://fr.dbpedia.org/resource/1983> ,
+		<http://fr.dbpedia.org/resource/No\u00EBl_Mam\u00E8re> ,
+		<http://fr.dbpedia.org/resource/Conservatoire_libre_du_cin\u00E9ma_fran\u00E7ais> ,
+		<http://fr.dbpedia.org/resource/Ph\u00E9nom\u00E9nologie_(philosophie)> ,
+		<http://fr.dbpedia.org/resource/1973> ,
+		dbpedia-fr:Edinburgh_University_Press ,
+		<http://fr.dbpedia.org/resource/La_technique_et_le_temps,_1> ,
+		dbpedia-fr:Diadeis ,
+		<http://fr.dbpedia.org/resource/1985> ,
+		<http://fr.dbpedia.org/resource/Techn\u00E8> ,
+		dbpedia-fr:Enseignant-chercheur ,
+		dbpedia-fr:Christophe_Nick ,
+		<http://fr.dbpedia.org/resource/\u00C9pist\u00E9m\u00E8> ,
+		dbpedia-fr:Stalinisme ,
+		category-fr:Affaire_criminelle_en_France ,
+		dbpedia-fr:Bruno_Teboul ,
+		dbpedia-fr:Paul_Jorion ,
+		<http://fr.dbpedia.org/resource/Coll\u00E8ge_international_de_philosophie> ,
+		dbpedia-fr:Acting_out ,
+		<http://fr.dbpedia.org/resource/Paul_Val\u00E9ry> ,
+		<http://fr.dbpedia.org/resource/1993> .
+@prefix ns45:	<http://fr.dbpedia.org/resource/Institut_de_recherche_et_coordination_acoustique/> .
+dbpedia-fr:Bernard_Stiegler	dbo:wikiPageWikiLink	ns45:musique ,
+		<http://fr.dbpedia.org/resource/Prison_Saint-Michel_(Toulouse)> ,
+		dbpedia-fr:Think_tank ,
+		dbpedia-fr:Daniel_Bougnoux ,
+		<http://fr.dbpedia.org/resource/1989> ,
+		<http://fr.dbpedia.org/resource/Biblioth\u00E8que_nationale_de_France> ,
+		dbpedia-fr:Occlusion_intestinale ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Philosophe_fran\u00E7ais_du_XXIe_si\u00E8cle> ,
+		dbpedia-fr:Institut_national_de_recherche_en_informatique_et_en_automatique ,
+		dbpedia-fr:Ouvrier_agricole ,
+		dbpedia-fr:Villebon-sur-Yvette ,
+		dbpedia-fr:Alain_Giffard ,
+		<http://fr.dbpedia.org/resource/Fichier:Bernard_Stiegler_Roumics_2014_Lille9.JPG> ,
+		<http://fr.dbpedia.org/resource/Fichier:Roumics_2014_Lille_Pl\u00E9ni\u00E8re_Table_ronde_2.JPG> ,
+		dbpedia-fr:Vincent_Bontems ,
+		<http://fr.dbpedia.org/resource/1984> ,
+		<http://fr.dbpedia.org/resource/D\u00E9veloppement_technologique> ,
+		dbpedia-fr:Seine-et-Oise ,
+		dbpedia-fr:Evgeny_Morozov ,
+		<http://fr.dbpedia.org/resource/1969> ,
+		dbpedia-fr:George_Collins ,
+		<http://fr.dbpedia.org/resource/Centre_national_d\u0027art_et_de_culture_Georges-Pompidou> ,
+		dbpedia-fr:Platon ,
+		dbpedia-fr:Monflanquin ,
+		<http://fr.dbpedia.org/resource/S\u00E9cheresse_de_1976> ,
+		<http://fr.dbpedia.org/resource/Andr\u00E9_Leroi-Gourhan> ,
+		dbpedia-fr:Alexandre_Moatti ,
+		<http://fr.dbpedia.org/resource/Art\u00E9fact_(ergonomie)> ,
+		dbpedia-fr:Entropie ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:Naissance_dans_l\u0027Essonne> ,
+		dbpedia-fr:Hominisation ,
+		dbpedia-fr:Barbara_Stiegler ,
+		dbpedia-fr:Jacques_Derrida ,
+		dbpedia-fr:Sarcelles ,
+		dbpedia-fr:Prison_en_France ,
+		dbpedia-fr:Julian_Assange ,
+		<http://fr.dbpedia.org/resource/Institut_de_recherche_et_d\u0027innovation> ,
+		dbpedia-fr:Anthropologie ,
+		dbpedia-fr:Linguistique ,
+		<http://fr.dbpedia.org/resource/Institut_national_de_l\u0027audiovisuel> ,
+		<http://fr.dbpedia.org/resource/Technologies_de_l\u0027information_et_de_la_communication> ,
+		<http://fr.dbpedia.org/resource/\u00C9lectronicien> ,
+		category-fr:Suicide_en_France ,
+		<http://fr.dbpedia.org/resource/Faut-il_interdire_les_\u00E9crans_aux_enfants_%3F> ,
+		dbpedia-fr:Bruno_Latour ,
+		<http://fr.dbpedia.org/resource/Aimer,_s\u0027aimer,_nous_aimer> ,
+		<http://fr.dbpedia.org/resource/R\u00E9mi_Brague> ,
+		<http://fr.dbpedia.org/resource/1988> ,
+		dbpedia-fr:Dany-Robert_Dufour ,
+		<http://fr.dbpedia.org/resource/Risques_d\u0027effondrements_environnementaux_et_soci\u00E9taux> ,
+		dbpedia-fr:Arles ,
+		<http://fr.dbpedia.org/resource/Universit\u00E9_Toulouse-Jean-Jaur\u00E8s> ,
+		dbpedia-fr:Alain_Badiou ,
+		dbpedia-fr:Georges_Marchais ,
+		<http://fr.dbpedia.org/resource/\u00C9pim\u00E9th\u00E9e> ,
+		category-fr:Officier_des_Arts_et_des_Lettres ,
+		dbpedia-fr:Exposition_universelle_de_1992 ,
+		dbpedia-fr:Philippe_Meirieu ,
+		dbpedia-fr:Dominique_Bourg ,
+		<http://fr.dbpedia.org/resource/Librairie_philosophique_J._Vrin> ,
+		<http://fr.dbpedia.org/resource/Marc_Cr\u00E9pon> ,
+		dbpedia-fr:Greta_Thunberg ,
+		dbpedia-fr:Philosophie_antique ,
+		<http://fr.dbpedia.org/resource/\u00C9crivain_public> ,
+		dbpedia-fr:Gilbert_Simondon ,
+		<http://fr.dbpedia.org/resource/1987> ,
+		<http://fr.dbpedia.org/resource/D\u00E9veloppeur> ,
+		dbpedia-fr:Philosophie_Magazine ,
+		<http://fr.dbpedia.org/resource/Cat\u00E9gorie:D\u00E9c\u00E8s_dans_le_Cher> ,
+		dbpedia-fr:Philosophie_de_la_technique ,
+		dbpedia-fr:Toulouse ,
+		dbpedia-fr:Martin_Heidegger ,
+		dbpedia-fr:Jean-Luc_Nancy ,
+		dbpedia-fr:Pierre-Antoine_Chardel ,
+		dbpedia-fr:Giuseppe_Longo ,
+		category-fr:Naissance_en_Seine-et-Oise ,
+		dbpedia-fr:Ariel_Kyrou ,
+		<http://fr.dbpedia.org/resource/Dipl\u00F4me_national_de_doctorat_(France)> ,
+		<http://fr.dbpedia.org/resource/1990> ,
+		<http://fr.dbpedia.org/resource/Gruppen_(revue)> ,
+		<http://fr.dbpedia.org/resource/\u00C9cole_des_hautes_\u00E9tudes_en_sciences_sociales> ,
+		<http://fr.dbpedia.org/resource/Cristian_S._Calude> ,
+		<http://fr.dbpedia.org/resource/Flagrant_d\u00E9lit_en_droit_fran\u00E7ais> ,
+		<http://fr.dbpedia.org/resource/S\u00E9ville> ;
+	dbo:wikiPageExternalLink	<http://www.infotekart.com/2017/01/bernard-stiegler-philosophe.html> ,
+		<https://appareil.revues.org/72> .
+@prefix ns46:	<https://www.franceculture.fr/emissions/series/> .
+dbpedia-fr:Bernard_Stiegler	dbo:wikiPageExternalLink	ns46:bernard-stiegler .
+@prefix ns47:	<https://blogs.mediapart.fr/jean-jacques-birge/blog/070820/> .
+dbpedia-fr:Bernard_Stiegler	dbo:wikiPageExternalLink	ns47:bernard-stiegler-la-musique-est-la-premiere-technique-du-desir ,
+		<https://www.franceculture.fr/personne-bernard-stiegler.html> ,
+		<http://www.christian-faure.net/enregistrements-de-bernard-stiegler/> ,
+		<https://www.youtube.com/watch%3Fv=qYCfx2xFMjE> .
+@prefix ns48:	<http://fr.dbpedia.org/resource/Mod\u00E8le:> .
+dbpedia-fr:Bernard_Stiegler	prop-fr:wikiPageUsesTemplate	ns48:Bases ,
+		ns48:Coll ,
+		ns48:Cita ,
+		<http://fr.dbpedia.org/resource/Mod\u00E8le:11e> ,
+		<http://fr.dbpedia.org/resource/Mod\u00E8le:,> ,
+		ns48:Date- ,
+		<http://fr.dbpedia.org/resource/Mod\u00E8le:R\u00E9f\u00E9rences_nombreuses> ,
+		ns48:S- ,
+		ns48:Colonnes ,
+		ns48:Dictionnaires ,
+		ns48:Citation_bloc ,
+		ns48:Voir_homonymes ,
+		<http://fr.dbpedia.org/resource/Mod\u00E8le:\u0027> ,
+		<http://fr.dbpedia.org/resource/Mod\u00E8le:Num\u00E9ro> ,
+		ns48:Autres_projets ,
+		<http://fr.dbpedia.org/resource/Mod\u00E8le:P.> ,
+		ns48:ISBN ,
+		ns48:Confusion ,
+		<http://fr.dbpedia.org/resource/Mod\u00E8le:N\u00B0> ,
+		<http://fr.dbpedia.org/resource/Mod\u00E8le:Autorit\u00E9> ,
+		ns48:Infobox ,
+		<http://fr.dbpedia.org/resource/Mod\u00E8le:D\u00E9co> ,
+		ns48:Portail ,
+		<http://fr.dbpedia.org/resource/Mod\u00E8le:Date_de_d\u00E9c\u00E8s> ,
+		ns48:Date_de_naissance ,
+		ns48:Date ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Roumics_2014_Lille_Pl\u00E9ni\u00E8re_Table_ronde_2.jpg> ,
+		<http://commons.wikimedia.org/wiki/Special:FilePath/Bernard_Stiegler_Roumics_2014_Lille9.jpg> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia-fr:Bernard_Stiegler	dbo:wikiPageLength	"41421"^^xsd:nonNegativeInteger .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia-fr:Bernard_Stiegler	prov:wasDerivedFrom	<http://fr.wikipedia.org/wiki/Bernard_Stiegler?oldid=190227286&ns=0> ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Bernard_Stiegler_Roumics_2014_Lille9.jpg?width=300> .
+@prefix wikipedia-fr:	<http://fr.wikipedia.org/wiki/> .
+dbpedia-fr:Bernard_Stiegler	foaf:isPrimaryTopicOf	wikipedia-fr:Bernard_Stiegler ;
+	dbo:birthName	"Bernard Georges Alain Stiegler"@en ;
+	dbo:award	dbpedia-wikidata:Q13452524 ;
+	dbo:child	dbpedia-fr:Barbara_Stiegler ;
+	dbo:occupation	dbpedia-fr:Philosophe ;
+	dbo:abstract	"Bernard Stiegler, n\u00E9 le 1er avril 1952 \u00E0 Villebon-sur-Yvette (Seine-et-Oise) et mort le 5 ao\u00FBt 2020 \u00E0 \u00C9pineuil-le-Fleuriel (Cher), est un philosophe fran\u00E7ais qui axe sa r\u00E9flexion sur les enjeux des mutations actuelles \u2014 sociales, politiques, \u00E9conomiques, psychologiques \u2014 port\u00E9es par le d\u00E9veloppement technologique et notamment les technologies num\u00E9riques. Fondateur et pr\u00E9sident d'un groupe de r\u00E9flexion philosophique, Ars industrialis, cr\u00E9\u00E9 en 2005, il a \u00E9galement dirig\u00E9, \u00E0 partir d'avril 2006, l'Institut de recherche et d'innovation (IRI) qu'il a cr\u00E9\u00E9 au sein du centre Georges-Pompidou."@fr ;
+	dbo:almaMater	<http://fr.dbpedia.org/resource/\u00C9cole_des_hautes_\u00E9tudes_en_sciences_sociales> ,
+		<http://fr.dbpedia.org/resource/Universit\u00E9_Toulouse-Jean-Jaur\u00E8s> ;
+	dbo:citizenship	dbpedia-fr:France ;
+	dbo:doctoralAdvisor	dbpedia-fr:Jacques_Derrida ;
+	dbo:employer	<http://fr.dbpedia.org/resource/Goldsmiths,_University_of_London> .
+<http://fr.dbpedia.org/resource/D\u00E9c\u00E8s_en_ao\u00FBt_2020>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Les_Petits_D\u00E9brouillards>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+ns45:musique	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Paul_Ardenne	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Philippe_Lacoue-Labarthe	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/\u00C9ditions_Galil\u00E9e>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/\u00C9pineuil-le-Fleuriel>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Alain_Jugnon	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Liste_de_philosophes_fran\u00E7ais>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Pollution_informationnelle	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Thinkerview	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Edward_Bernays	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Philosophie_de_la_technique	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/D@ns_le_texte>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/H\u00F4pital_Saint-Vincent-de-Paul>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:The_Ister	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler ;
+	prop-fr:acteur	dbpedia-fr:Bernard_Stiegler ;
+	dbo:starring	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Culture_participative	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Interdit_d\u0027interdire>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Le_G\u00E9n\u00E9rateur_po\u00EF\u00E9tique>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Philippe_Nassif	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Mrmr	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Design	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/M\u00E9dia>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Jacques_Derrida	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler ;
+	dbo:influenced	dbpedia-fr:Bernard_Stiegler ;
+	dbo:doctoralStudent	dbpedia-fr:Bernard_Stiegler ;
+	<http://fr.dbpedia.org/property/aInfluenc\u00E9>	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/M\u00E9diologie>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Technique	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/N\u00E9guentropie>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Gilbert_Simondon	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler ;
+	dbo:influenced	dbpedia-fr:Bernard_Stiegler ;
+	<http://fr.dbpedia.org/property/aInfluenc\u00E9>	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Libriste	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Industrie_culturelle	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Norbert_Hillaire	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Jean_Gatt\u00E9gno>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Humanit\u00E9s_num\u00E9riques>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Disruption_(\u00E9conomie)>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler ;
+	prop-fr:auteur	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Laurent_Grandguillaume	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Michel_Gu\u00E9rin>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Tiresia	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Temps_de_cerveau_humain_disponible	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Dominique_Boullier	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Charlotte_Cosson_&_Emmanuelle_Luciani>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Pierre-Antoine_Chardel	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Art_\u00E9cologique>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+wikipedia-fr:Bernard_Stiegler	foaf:primaryTopic	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q2864351	dbo:foundedBy	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q4335766	dbo:starring	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083648	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083680	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083684	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083702	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083703	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083705	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083706	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083707	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083708	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083709	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083710	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083711	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083712	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083715	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083716	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083718	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083719	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083720	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083722	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083723	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083724	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083725	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083726	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083784	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q22083785	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q7729490	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q4676851	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q5466994	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q5332810	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q60349454	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q61198395	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q61199627	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q61200412	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q61200864	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q61202466	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-wikidata:Q65081801	dbo:author	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Olivier_Zablocki	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Divya_Dwivedi	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Autisme_virtuel	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:De_la_grammatologie	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/2003_en_philosophie>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/2020_en_philosophie>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Institut_de_recherche_et_d\u0027innovation__PersonFunction__1>	dbo:person	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Intermittent_du_spectacle	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/D\u00E9senchantement_du_monde>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Individuation_(psychologie_analytique)>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Martin_Heidegger	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Edmund_Husserl	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler ;
+	dbo:influenced	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Emmanuel_Levinas	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Centre_national_d\u0027art_et_de_culture_Georges-Pompidou>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Sarcelles	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Crise_bancaire_et_financi\u00E8re_de_l\u0027automne_2008>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Villebon-sur-Yvette	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Progr\u00E8s_technique>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Maurizio_Lazzarato	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Liste_alphab\u00E9tique_de_philosophes_contemporains>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Marc_Cr\u00E9pon>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/Totalit\u00E9_et_Infini>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Michel_Paysant	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Michel_Bauwens	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Francis_Eustache	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Lignes_de_temps	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+dbpedia-fr:Pharmakos	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
+<http://fr.dbpedia.org/resource/M\u00E9diacratie>	dbo:wikiPageWikiLink	dbpedia-fr:Bernard_Stiegler .
