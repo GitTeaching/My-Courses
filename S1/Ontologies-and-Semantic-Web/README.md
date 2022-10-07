@@ -18,13 +18,15 @@ Ce cours doit définir l’objet « ontologie » et son intérêt, les différen
 
 **4 -** SPARQL
 
-**5 -** Les Ontologies : Définitions, types, construction, développement
+**5 -** Les Ontologies : Introduction - Définitions, types, construction, développement
 
-**6 -** Les ontologies : Formalisation + OWL – Web Ontology Language
+**6 -** Les ontologies : Formalisation et Exploitation - OWL 
     
-**7 -** Les Ontologies : Exploitation et Inférence
+**7 -** Les Ontologies : Mise en Oeuvre avec Protégé
 
-**8 -** Les Ontologies – API Jena Apache
+**7 -** Les Ontologies : Exploitation et Inférence - SWRL
+
+**9 -** Les Ontologies – API Jena Apache
   
 
 #### *Seminars*
@@ -89,7 +91,7 @@ Ce cours doit définir l’objet « ontologie » et son intérêt, les différen
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 6</td>
-    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Ontologies-and-Semantic-Web/OSW%20-%20Cours%261.pdf">Download</a></td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Ontologies-and-Semantic-Web/OSW%20-%20Cours%206.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
   <tr>
@@ -101,7 +103,12 @@ Ce cours doit définir l’objet « ontologie » et son intérêt, les différen
     <td class="tg-9wq8">Lecture 8</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Ontologies-and-Semantic-Web/OSW%20-%20Cours%208.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
-  </tr>  
+  </tr> 
+  <tr>
+    <td class="tg-9wq8">Lecture 9</td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Ontologies-and-Semantic-Web/OSW%20-%20Cours%209.pdf">Download</a></td>
+    <td class="tg-9wq8"></td>
+  </tr> 
 </tbody>
 </table>
 
