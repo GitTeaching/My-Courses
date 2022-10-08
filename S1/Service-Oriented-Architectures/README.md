@@ -15,21 +15,23 @@ L'architecture orientée services est une façon de concevoir un système d'info
 
 **2 -** Introduction à SOA
 
-**3 -** Contrat, message, et registre de service
+**3 -** Contrat, registre, bus, et messages de service
 
-**4 -** Démarche SOA : constitution des services métier unitaires
+**4 -** Contrat, registre, bus, et messages de service - Suite
 
-**5 -** Démarche SOA : constitution des services métier composés
+**5 -** Démarche SOA : constitution des services métier unitaires
 
-**6 -** Démarche SOA : processus métier
+**6 -** Démarche SOA : constitution des services métier composés
 
-**7 -** Pattern MVC pour SOA
+**7 -** Démarche SOA : processus métier
 
-**8 -** La boite à outils Service Web
+**8 -** Pattern MVC pour SOA
+
+**9 -** La boite à outils Service Web
     
-**9 -** Gérer la Sécurité dans les Services Web
+**10 -** Gérer la Sécurité dans les Services Web
 
-**10 -** Liens entre les concepts et les outils
+**11 -** Liens entre les concepts et les outils
     
 
 #### *Lab Sessions & Seminars*
