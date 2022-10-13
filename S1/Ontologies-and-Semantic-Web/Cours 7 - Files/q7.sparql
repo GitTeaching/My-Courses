@@ -1,0 +1,8 @@
+PREFIX  dbr: <http://fr.dbpedia.org/resource/>
+PREFIX  dbo: <http://dbpedia.org/ontology/>    
+ 
+ASK   
+
+WHERE {
+    dbr:Gilbert_Simondon  dbo:influenced  dbr:Bernard_Stiegler .
+}
