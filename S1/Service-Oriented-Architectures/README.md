@@ -25,13 +25,11 @@ L'architecture orientée services est une façon de concevoir un système d'info
 
 **7 -** Démarche SOA : processus métier
 
-**8 -** Pattern MVC pour SOA
-
-**9 -** La boite à outils Service Web
+**8 -** Démarche SOA : applications composites
     
-**10 -** Gérer la Sécurité dans les Services Web
+**9 -** Gérer la Sécurité dans les Services Web
 
-**11 -** Liens entre les concepts et les outils
+**10 -** Liens entre les concepts et les outils
     
 
 #### *Lab Sessions & Seminars*
