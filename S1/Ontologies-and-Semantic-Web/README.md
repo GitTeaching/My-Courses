@@ -24,7 +24,7 @@ Ce cours doit définir l’objet « ontologie » et son intérêt, les différen
     
 **7 -** Les Ontologies : Mise en Oeuvre avec Protégé
 
-**7 -** Les Ontologies : Exploitation et Inférence - SWRL
+**8 -** Les Ontologies : Exploitation et Inférence - SWRL
 
 **9 -** Les Ontologies – API Jena Apache
   
