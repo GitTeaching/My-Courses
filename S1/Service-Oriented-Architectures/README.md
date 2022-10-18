@@ -135,7 +135,7 @@ L'architecture orientée services est une façon de concevoir un système d'info
   <tr>
     <td class="tg-9wq8">3</td>
     <td class="tg-9wq8">
-        <a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Service-Oriented-Architectures/SOA%20-%20TD%203.pdf">Download</a>
+        <a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Service-Oriented-Architectures/SOA%20-%20TD%203.pdf">Download</a><br>
 	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Service-Oriented-Architectures/SOA%20-%20TD%203%20-%20Slide.pdf">Download</a>
     </td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Service-Oriented-Architectures/SOA%20-%20TP%203.pdf">Download</a></td>
