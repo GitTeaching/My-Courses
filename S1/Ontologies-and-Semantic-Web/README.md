@@ -2,6 +2,7 @@
 
 Ce cours doit définir l’objet « ontologie » et son intérêt, les différentes facettes relatives à l’ingénierie ontologique, de même que différents langages et des modèles de formalisation d’ontologies devront présentés.
 
+
 **Prérequis recommandés:** Web, XML, logique
 
 <img src="https://www.inf.ed.ac.uk/teaching/courses/sws/SWSwordCloud.png" width=500px; height="250" />
