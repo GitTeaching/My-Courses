@@ -23,7 +23,7 @@ L'architecture orientée services est une façon de concevoir un système d'info
 
 **6 -** Démarche SOA : processus métier
 
-**7 -** Démarche SOA : applications composites
+**7 -** Démarche SOA : présentation et applications composites
     
 **8 -** Gérer la Sécurité dans les AOS (Services Web)
 
