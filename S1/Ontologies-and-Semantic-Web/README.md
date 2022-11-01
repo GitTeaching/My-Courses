@@ -30,6 +30,7 @@ Ce cours doit définir l’objet « ontologie » et son intérêt, les différen
 **9 -** Les Ontologies – API Jena Apache
   
 
+
 #### *Seminars*
 
 **1 -** Décrire avec RDF
