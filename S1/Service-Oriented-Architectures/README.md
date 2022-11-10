@@ -27,9 +27,9 @@ L'architecture orientée services est une façon de concevoir un système d'info
     
 **8 -** Gérer la Sécurité dans les AOS (Services Web)
 
-**9 -** Montée de versions
+**9 -** Gérer la Sécurité dans les AOS (Services Web) - Suite
 
-**10 -** Liens entre les concepts et les outils
+**10 -** Montée de versions & Liens entre les concepts et les outils
     
 
 #### *Lab Sessions & Seminars*
@@ -99,6 +99,16 @@ L'architecture orientée services est une façon de concevoir un système d'info
   <tr>
     <td class="tg-9wq8">Lecture 7</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Service-Oriented-Architectures/SOA%20-%20Cours%207.pdf">Download</a></td>
+    <td class="tg-9wq8"></td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">Lecture 8</td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Service-Oriented-Architectures/SOA%20-%20Cours%208.pdf">Download</a></td>
+    <td class="tg-9wq8"></td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">Lecture 9</td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S1/Service-Oriented-Architectures/SOA%20-%20Cours%209.pdf">Download</a></td>
     <td class="tg-9wq8"></td>
   </tr>
 </tbody>
