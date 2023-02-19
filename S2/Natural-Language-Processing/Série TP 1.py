@@ -299,3 +299,47 @@ print(wordfreq)
 # Les 6 mots les plus fréquents
 print(sorted(wordfreq, key=wordfreq.get, reverse=True)[:6])
 
+
+# ---------------------------
+
+# Exercice
+
+mylist = [25, 4, 87, 25, 945, 2, 8, 7, 21, 6]
+print(mylist)
+
+new_list = []
+for n in mylist:
+    if n % 2 != 0 and n not in new_list :
+        new_list.append(n)
+print(new_list)
+
+if mylist[-1] < mylist[-2]:
+    mylist.pop()
+print(mylist)
+
+thisdict = {
+    "brand": "Ford",
+    "electric": False,
+    "year": 1964,
+    "colors": ["red", "white", "blue"],
+    "speed": [120, 180, 220]
+}
+print(thisdict)
+
+myset = set()
+for k in thisdict.keys():
+    myset.add(k)
+print(myset)
+
+mystr = "Hello, Python !"
+for c in mystr:
+    print(c)
+
+def remove_char(mystr, n):
+    if n > len(mystr):
+        return None
+    return mystr[n:]
+
+print(remove_char("pynative", 4))
+print(remove_char("pynative", 2))
+print(remove_char("pynative", 15))
