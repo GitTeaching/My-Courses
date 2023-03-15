@@ -49,39 +49,32 @@ Le traitement automatique des langues (TAL) vise l’élaboration d’outils et 
   <tr>
     <th class="tg-uzvj">N°</th>
     <th class="tg-uzvj">File</th>
-    <th class="tg-uzvj">Resources</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-9wq8">Lecture 1</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/TAL%20-%20Cours%201.pdf">Download</a></td>
-    <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 2</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/TAL%20-%20Cours%202.pdf">Download</a></td>
-    <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 3</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/TAL%20-%20Cours%203.pdf">Download</a></td>
-    <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 4</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/TAL%20-%20Cours%204.pdf">Download</a></td>
-    <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lecture 5</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/TAL%20-%20Cours%205.pdf">Download</a></td>
-    <td class="tg-9wq8"></td>
   </tr>  
   <tr>
     <td class="tg-9wq8">Lecture 6</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/TAL%20-%20Cours%206.pdf">Download</a></td>
-    <td class="tg-9wq8"></td>
   </tr>
 </tbody>
 </table>
@@ -93,7 +86,6 @@ Le traitement automatique des langues (TAL) vise l’élaboration d’outils et 
 <thead>
   <tr>
     <th class="tg-uzvj">N°</th>
-    <th class="tg-uzvj">File</th>
     <th class="tg-uzvj">Notebook</th>
   </tr>
 </thead>
@@ -101,31 +93,21 @@ Le traitement automatique des langues (TAL) vise l’élaboration d’outils et 
   <tr>
     <td class="tg-9wq8">Lab 0</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/TAL%20-%20TP%200.pdf">Download</a></td>
-    <td class="tg-9wq8"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lab 1</td>
-    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/S%C3%A9rie%20TP%201.py">Download</a></td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/S%C3%A9rie_TP_1.ipynb">Download</a></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lab 2</td>
-    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/TAL%20-%20TP%202.pdf">Download</a></td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/S%C3%A9rie_TP_2.ipynb">Download</a></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Lab 3</td>
-    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/TAL%20-%20TP%203.pdf">Download</a></td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/S%C3%A9rie_TP_3.ipynb">Download</a></td>
   </tr>
   <tr>
-    <td class="tg-9wq8">Lab 3</td>
-    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/TAL%20-%20TP%203%20-%20Soundex.pdf">Download</a></td>
-    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/S%C3%A9rie%20TP%203%20-%20Soundex.py">Download</a></td>
-  </tr>
-  <tr>
     <td class="tg-9wq8">Lab 4</td>
-    <td class="tg-9wq8"><a href="">Download</a></td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/S%C3%A9rie_TP_4.ipynb">Download</a></td>
   </tr>
 </tbody>
