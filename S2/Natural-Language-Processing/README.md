@@ -78,7 +78,7 @@ Le traitement automatique des langues (TAL) vise l’élaboration d’outils et 
 </table>
 
 
-#### <a href="https://github.com/GitTeaching/TP-NLP-using-Python/tree/master/Code%20TP%20Updated">*Lab Sessions*</a>
+#### *Lab Sessions*
 
 <table class="tg">
 <thead>
