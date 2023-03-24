@@ -13,7 +13,7 @@ Le traitement automatique des langues (TAL) vise l’élaboration d’outils et 
 **1 -** Introduction Générale
         + Les applications du TAL
 
-**2 -** Les niveaux de traitement - Traitements de «bas niveau»
+**2 -** Les niveaux de traitement - Traitements de bas niveau
 
 **3 -** Les niveaux de traitement - Le niveau lexical
 
@@ -27,17 +27,15 @@ Le traitement automatique des langues (TAL) vise l’élaboration d’outils et 
 
 #### *Lab Sessions*
 
-**0 -** Installation et premiers pas avec Python
+**0 -** Installation 
 
 **1 -** Introduction et bases du language Python 
 
-**2 -** Traitement bas niveau – Encodage et Tokenization
+**2 -** Traitements bas niveau – Encodage de caractères et Tokenization
 
-**3 -** Analyse lexicale – PreProcessing. Stemming et lemmatisation avec NLTK
+**3 -** Analyse Lexicale
 
-**3 -** Analyse lexicale – Soundex
-
-**4 -** Analyse syntaxique – POS tagging, parsing, et Named Entity Recognition avec SpaCy
+**4 et 5 -** Analyse Syntaxique 
 
 
 ### Fichiers
