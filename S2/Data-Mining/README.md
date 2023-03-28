@@ -114,7 +114,21 @@ Using WEKA and Python
 </thead>
 <tbody>
   <tr>
+    <td class="tg-9wq8">0</td>
+    <td class="tg-9wq8"></td>
+    <td class="tg-9wq8">
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/S%C3%A9rie_TP_0.pdf">Installation</a>
+    </td>
+  </tr>    
+  <tr>
     <td class="tg-9wq8">1</td>
+    <td class="tg-9wq8"></td>
+    <td class="tg-9wq8">
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/S%C3%A9rie_TP_1.ipynb">Python</a>
+    </td>
+  </tr>    
+  <tr>
+    <td class="tg-9wq8">2</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TD%201.pdf">Download</a></td>
     <td class="tg-9wq8">
 	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%201.pdf">- Apriori</a><br>
@@ -125,29 +139,38 @@ Using WEKA and Python
     </td>
   </tr>  
   <tr>
-    <td class="tg-9wq8">2</td>
+    <td class="tg-9wq8">3</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TD%202.pdf">Download</a></td>
     <td class="tg-9wq8">
 	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%203.pdf">- Decision Trees</a><br>
 	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/S%C3%A9rie_TP_3.ipynb">- Decision Trees</a>
     </td>
-  </tr>    <tr>
-    <td class="tg-9wq8">3</td>
+  </tr>    
+  <tr>
+    <td class="tg-9wq8">4</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TD%203.pdf">Download</a></td>
     <td class="tg-9wq8">
 	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%204.pdf">- Naive Bayes & KNN</a><br>
 	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/S%C3%A9rie_TP_4.ipynb">- Naive Bayes</a><br>
     </td>
-  </tr>    <tr>
-    <td class="tg-9wq8">4</td>
+  </tr>    
+  <tr>
+    <td class="tg-9wq8">5</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TD%204.pdf">Download</a></td>
     <td class="tg-9wq8">
 	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/S%C3%A9rie_TP_5%20-%20Partie%201.ipynb">- Neural Nets</a><br>
-	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/S%C3%A9rie_TP_5%20-%20Partie%202.ipynb">- Neural Nets</a><br>
-	<a href="https://github.com/GitTeaching/svm-with-python-from-scratch">- SVM</a>
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/S%C3%A9rie_TP_5%20-%20Partie%202.ipynb">- Neural Nets</a>
     </td>
-  </tr>    <tr>
-    <td class="tg-9wq8">5</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">6</td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TD%204.pdf">Download</a></td>
+    <td class="tg-9wq8">
+	<a href="https://github.com/GitTeaching/svm-with-python-from-scratch">SVM</a>
+    </td>
+  </tr>    
+  <tr>
+    <td class="tg-9wq8">7</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TD%205.pdf">Download</a></td>
     <td class="tg-9wq8">
 	<a href="https://github.com/GitTeaching/linear-regression-python-from-scratch">Regression</a><br>
