@@ -140,7 +140,8 @@ Using WEKA and Python
     <td class="tg-9wq8">4</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TD%204.pdf">Download</a></td>
     <td class="tg-9wq8">
-	<a href="https://github.com/GitTeaching/neural-nets-mlp-with-python">- Neural Nets</a><br>
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/S%C3%A9rie_TP_5%20-%20Partie%201.ipynb">- Neural Nets</a><br>
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/S%C3%A9rie_TP_5%20-%20Partie%202.ipynb">- Neural Nets</a><br>
 	<a href="https://github.com/GitTeaching/svm-with-python-from-scratch">- SVM</a>
     </td>
   </tr>    <tr>
