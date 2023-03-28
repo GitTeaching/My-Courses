@@ -117,10 +117,11 @@ Using WEKA and Python
     <td class="tg-9wq8">1</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TD%201.pdf">Download</a></td>
     <td class="tg-9wq8">
-	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%201.pdf">- Apriori 1</a><br>
-	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%202.pdf">- Apriori 2</a> & 
-	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%202%20-%20AprioriTest.pdf"> Apriori 2</a><br>
-	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%201%20-%20Python.ipynb">- Apriori with Python</a>
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%201.pdf">- Apriori</a><br>
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%202.pdf">- Apriori</a> & 
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%202%20-%20AprioriTest.pdf"> Apriori</a><br>
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/S%C3%A9rie_TP_2%20-%20Partie%201.ipynb">- Apriori</a><br>
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/S%C3%A9rie_TP_2%20-%20Partie%202.ipynb">- Apriori</a>
     </td>
   </tr>  
   <tr>
@@ -128,13 +129,14 @@ Using WEKA and Python
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TD%202.pdf">Download</a></td>
     <td class="tg-9wq8">
 	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%203.pdf">- Decision Trees</a><br>
-	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%202%20-%20Python.ipynb">- Decision Trees with Python</a>
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/S%C3%A9rie_TP_3.ipynb">- Decision Trees</a>
     </td>
   </tr>    <tr>
     <td class="tg-9wq8">3</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TD%203.pdf">Download</a></td>
     <td class="tg-9wq8">
-	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%204.pdf">Naive Bayes & KNN</a><br>
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%204.pdf">- Naive Bayes & KNN</a><br>
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/S%C3%A9rie_TP_4.ipynb">- Naive Bayes</a><br>
     </td>
   </tr>    <tr>
     <td class="tg-9wq8">4</td>
