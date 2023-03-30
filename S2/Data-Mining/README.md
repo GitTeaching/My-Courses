@@ -166,7 +166,7 @@ Using WEKA and Python
     <td class="tg-9wq8">6</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TD%204.pdf">Download</a></td>
     <td class="tg-9wq8">
-	<a href="https://github.com/GitTeaching/svm-with-python-from-scratch">SVM</a>
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/S%C3%A9rie_TP_6.ipynb">SVM</a>
     </td>
   </tr>    
   <tr>
