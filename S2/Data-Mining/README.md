@@ -174,7 +174,8 @@ Using WEKA and Python
     <td class="tg-9wq8">7</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TD%205.pdf">Download</a></td>
     <td class="tg-9wq8">
-	<a href="https://github.com/GitTeaching/linear-regression-python-from-scratch">Regression</a><br>
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/S%C3%A9rie_TP_7%20-%20Partie%201.ipynb">- Regression</a><br>
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/S%C3%A9rie_TP_7%20-%20Partie%202.ipynb">- Regression</a>
     </td>
   </tr>  
 </tbody>
