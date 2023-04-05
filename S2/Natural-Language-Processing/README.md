@@ -24,7 +24,6 @@ Le traitement automatique des langues (TAL) vise l’élaboration d’outils et 
 **6 -** Les niveaux de traitement - Le niveau pragmatique
     
 
-
 #### *Lab Sessions*
 
 **0 -** Installation 
