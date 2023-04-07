@@ -114,6 +114,10 @@ Le traitement automatique des langues (TAL) vise l’élaboration d’outils et 
     <td class="tg-9wq8">Lab 5</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/S%C3%A9rie_TP_5.ipynb">Download</a></td>
   </tr>
+  <tr>
+    <td class="tg-9wq8">Lab 6</td>
+    <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Natural-Language-Processing/S%C3%A9rie_TP_6.ipynb">Download</a></td>
+  </tr>
 </tbody>
 </table>
 
