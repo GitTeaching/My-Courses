@@ -35,6 +35,7 @@ Le traitement automatique des langues (TAL) vise l’élaboration d’outils et 
 **3 -** Analyse Lexicale
 
 **4 et 5 -** Analyse Syntaxique 
+**6 -** Analyse Sémantique
 
 
 ### Fichiers
