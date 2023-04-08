@@ -2,7 +2,7 @@
 
 Le traitement automatique des langues (TAL) vise l’élaboration d’outils et de méthodes capables d’appréhender leur sémantique afin d’en faciliter la prise de connaissance et plus généralement l’exploitation. Selon l’usage que l’on veut en faire, les niveaux d’interprétation peuvent être différents, allant de l’identification de termes pour extraire des mots-clés à des résumés, des traductions ou de la recherche d’informations précises en réponse à des questions. L’objectif de ce module est de présenter les problématiques posées pour le TAL et les principaux modèles pour analyser, synthétiser, exploiter et produire des documents.
 
-**Pré requis recommandés :** programmation, Python, etc.
+**Pré requis recommandés :** Algorithmique, Python, etc.
 
 <img src="https://canopylab.com/wp-content/uploads/2019/11/shutterstock_1455391502-2.jpg" width=500px; height="250" />
 
