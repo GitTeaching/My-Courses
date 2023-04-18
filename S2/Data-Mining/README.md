@@ -2,7 +2,7 @@
 
 La fouille de données vise à découvrir, dans les grandes quantités de données, les informations importantes qui peuvent aider à comprendre les données ou à prédire Le comportement des données futures. Le but de ce cours est d'initier les apprenants aux différents algorithmes  et techniques utilisés en fouille de données.
 
-**Prérequis recommandés :** Connaissances: algorithmique, statistique, probabilité
+**Prérequis recommandés :** Connaissances: algorithmique, statistiques, probabilités
 
 <img src="https://ericbrown.com/wp-content/uploads/2019/01/beware-data-mining.jpg" width=500px; height="250" />
 
