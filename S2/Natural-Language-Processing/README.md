@@ -4,7 +4,7 @@ Le traitement automatique des langues (TAL) vise l’élaboration d’outils et 
 
 **Pré requis recommandés :** Algorithmique, Python, etc.
 
-<img src="https://amazinum.com/wp-content/uploads/2022/10/blog-NLP-pic1.png" width=500px; height="250" />
+<img src="https://amazinum.com/wp-content/uploads/2022/10/blog-NLP-pic1.png" width=500px; height="450" />
 
 ### Contenu
 
