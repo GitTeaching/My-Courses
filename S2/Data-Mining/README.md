@@ -151,6 +151,7 @@ Using WEKA and Python
     <td class="tg-9wq8">4</td>
     <td class="tg-9wq8"><a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TD%203.pdf">Download</a></td>
     <td class="tg-9wq8">
+	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/S%C3%A9rie_TP_3_Partie_2.ipynb">- KNN</a><br>	
 	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/Data%20Mining%20-%20TP%204.pdf">- Naive Bayes & KNN</a><br>
 	<a href="https://github.com/GitTeaching/My-Courses/blob/main/S2/Data-Mining/S%C3%A9rie_TP_4.ipynb">- Naive Bayes</a><br>
     </td>
@@ -180,4 +181,5 @@ Using WEKA and Python
   </tr>  
 </tbody>
 </table>
+
 
