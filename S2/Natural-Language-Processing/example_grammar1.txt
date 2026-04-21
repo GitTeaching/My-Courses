@@ -1,0 +1,8 @@
+S -> NP VP
+NP -> Det N
+VP -> V NP
+N -> flight
+V -> includes
+N -> meal
+Det -> a
+Det -> the

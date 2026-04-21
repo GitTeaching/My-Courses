@@ -1,0 +1,13 @@
+S -> NP VP
+PP -> P NP
+VP -> V NP
+VP -> VP PP
+NP -> Det N
+NP -> NP PP
+NP -> they
+N -> book
+N -> library
+P -> from
+V -> borrowed
+Det -> the
+Det -> that
